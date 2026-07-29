@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1861400052562043317",
+    "created_at": "2024-11-26T13:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T14:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861401542114582611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861401542114582611",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861400052562043317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 唉😮‍💨白死了😤去献忠还能带走几个，这死的太亏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1861400052562043317",
+        "created_at": "2024-11-26T13:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T14:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861401542114582611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861401542114582611",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861400052562043317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 唉😮‍💨白死了😤去献忠还能带走几个，这死的太亏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1861399855584944130",
+            "3_1861399904947707907",
+            "3_1861399917329293313",
+            "3_1861399928897183744"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1861400052562043317",
+        "created_at": "2024-11-26T13:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T14:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861400052562043317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGUpB8W0VK",
+              "end": 143,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1861400052562043317/video/1",
+              "media_key": "7_1861399855584944130",
+              "start": 120,
+              "url": "https://t.co/rGUpB8W0VK"
+            },
+            {
+              "display_url": "pic.x.com/rGUpB8W0VK",
+              "end": 143,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1861400052562043317/video/1",
+              "media_key": "3_1861399904947707907",
+              "start": 120,
+              "url": "https://t.co/rGUpB8W0VK"
+            },
+            {
+              "display_url": "pic.x.com/rGUpB8W0VK",
+              "end": 143,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1861400052562043317/video/1",
+              "media_key": "3_1861399917329293313",
+              "start": 120,
+              "url": "https://t.co/rGUpB8W0VK"
+            },
+            {
+              "display_url": "pic.x.com/rGUpB8W0VK",
+              "end": 143,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1861400052562043317/video/1",
+              "media_key": "3_1861399928897183744",
+              "start": 120,
+              "url": "https://t.co/rGUpB8W0VK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861400052562043317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4504,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "11月24日，网传上海四川路一外卖小哥猝死，视频显示，外卖员趴在外卖箱上一动不动，报警后民警赶到现场也摇不醒。\n 而通过搜索后发现，近半年来已发生多起外卖员猝死事件。\n 网友回复：“下辈子不要再投胎来这里”\n “悲惨的世界，盛世如你所愿” https://t.co/rGUpB8W0VK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "location": "西北政法大学",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 44,
+          "like_count": 155,
+          "listed_count": 0,
+          "tweet_count": 19
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842763,
+          "following_count": 925,
+          "like_count": 5497,
+          "listed_count": 7982,
+          "tweet_count": 25519
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1902265808832856290",
+    "created_at": "2025-03-19T13:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T14:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902347078140874799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902347078140874799",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902345268596818264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 献忠开始了👍自古英雄出少年"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60046,
+        "height": 720,
+        "media_key": "7_1902345146290860032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1902345146290860032/pu/img/aEFd0z9nsMfgFC7w.jpg",
+        "public_metrics": {
+          "view_count": 1707
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902345146290860032/pu/vid/avc1/480x270/LvKt7AQTtB50cdhR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902345146290860032/pu/vid/avc1/640x360/z-u9GIqObrjAEbYH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902345146290860032/pu/vid/avc1/1280x720/yJ6Iv5DVOdVQ71CQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1902345146290860032/pu/pl/rpxxGo-qzf4y93Li.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1902265808832856290",
+        "created_at": "2025-03-19T13:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T14:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902347078140874799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902347078140874799",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902345268596818264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 献忠开始了👍自古英雄出少年"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1902345146290860032"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1902265808832856290",
+        "created_at": "2025-03-19T13:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T14:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902345268596818264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBLcNbiXfT",
+              "end": 56,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1902345268596818264/video/1",
+              "media_key": "7_1902345146290860032",
+              "start": 33,
+              "url": "https://t.co/DBLcNbiXfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902345268596818264",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3066,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902341865346887934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2024年9月14日，北海中学校长王建刚在学校被学生爆头并锁喉。 https://t.co/DBLcNbiXfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 46,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961722,
+          "following_count": 940,
+          "like_count": 5932,
+          "listed_count": 8065,
+          "media_count": 24979,
+          "tweet_count": 31360
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

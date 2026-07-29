@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2054971003521134839",
+    "created_at": "2026-05-15T01:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T02:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055099754372297043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050073911635894272",
+          "start": 0,
+          "username": "Lomyral114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055099754372297043",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054971003521134839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral114514 能不能磕点药去自首去喝美沙酮🤔这要留下涉毒记录吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2054971003521134839",
+        "created_at": "2026-05-15T01:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055099754372297043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055099754372297043",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054971003521134839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 能不能磕点药去自首去喝美沙酮🤔这要留下涉毒记录吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2054971003521134839",
+        "created_at": "2026-05-14T17:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054971003521134839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lomyral114514/…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Lomyral114514/status/2054844725539299592",
+              "start": 140,
+              "url": "https://t.co/LSm6Ng9pCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054971003521134839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 796,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054844725539299592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正是因为有一定的获取门槛，所以我才公开这些阿片类物质，并且我永远不会公开开源阿片类药品的开方方法，即便我搜集了很多技巧与话术。除非你确实有这方面的合理医疗需求，或者我判断你具备负责任地使用它们的能力、知识与精神状态。\n❗阿片戒断非常非常痛苦，这不是儿戏，请严肃对待阿片成瘾问题❗ https://t.co/LSm6Ng9pCZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 28,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 450,
+          "like_count": 2615,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 849
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

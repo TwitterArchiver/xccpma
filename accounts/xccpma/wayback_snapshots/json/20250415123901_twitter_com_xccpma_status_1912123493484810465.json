@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912123482017509376"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "1912088030997041364",
+    "created_at": "2025-04-15T12:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T13:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912123493484810465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Du1MJTP6q3",
+          "end": 39,
+          "expanded_url": "https://x.com/xccpma/status/1912123493484810465/photo/1",
+          "media_key": "3_1912123482017509376",
+          "start": 16,
+          "url": "https://t.co/Du1MJTP6q3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912123493484810465",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912088030997041364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele https://t.co/Du1MJTP6q3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_1912123482017509376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gok6LRBWMAA0dH2.jpg",
+        "width": 768
+      },
+      {
+        "height": 1956,
+        "media_key": "3_1912087293973721088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GokZQ2DXcAAJsys.jpg",
+        "width": 1290
+      },
+      {
+        "height": 786,
+        "media_key": "3_1912087321744150528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GokZSdgWkAACpZg.jpg",
+        "width": 1189
+      },
+      {
+        "duration_ms": 23333,
+        "height": 1280,
+        "media_key": "13_1912087362328211457",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912087362328211457/img/g71cF-flFJ0i8pwM.jpg",
+        "public_metrics": {
+          "view_count": 17954
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912087362328211457/vid/avc1/320x568/krtARM_WbDCpL3Q5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912087362328211457/vid/avc1/480x852/CCjHB_w7hNq6d3uf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912087362328211457/vid/avc1/720x1280/a5NBmLci0AsXEtPh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912087362328211457/pl/fE4u8MIdENYXmw-R.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1716,
+        "media_key": "3_1912087366606491650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GokZVEoXkAIZJQp.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912123482017509376"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "1912088030997041364",
+        "created_at": "2025-04-15T12:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T13:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912123493484810465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Du1MJTP6q3",
+              "end": 39,
+              "expanded_url": "https://x.com/xccpma/status/1912123493484810465/photo/1",
+              "media_key": "3_1912123482017509376",
+              "start": 16,
+              "url": "https://t.co/Du1MJTP6q3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912123493484810465",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912088030997041364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele https://t.co/Du1MJTP6q3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912087293973721088",
+            "3_1912087321744150528",
+            "13_1912087362328211457",
+            "3_1912087366606491650"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1912088030997041364",
+        "created_at": "2025-04-15T10:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T11:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912088030997041364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rLb4n4Hohm",
+              "end": 73,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1912088030997041364/video/1",
+              "media_key": "3_1912087293973721088",
+              "start": 50,
+              "url": "https://t.co/rLb4n4Hohm"
+            },
+            {
+              "display_url": "pic.x.com/rLb4n4Hohm",
+              "end": 73,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1912088030997041364/video/1",
+              "media_key": "3_1912087321744150528",
+              "start": 50,
+              "url": "https://t.co/rLb4n4Hohm"
+            },
+            {
+              "display_url": "pic.x.com/rLb4n4Hohm",
+              "end": 73,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1912088030997041364/video/1",
+              "media_key": "13_1912087362328211457",
+              "start": 50,
+              "url": "https://t.co/rLb4n4Hohm"
+            },
+            {
+              "display_url": "pic.x.com/rLb4n4Hohm",
+              "end": 73,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1912088030997041364/video/1",
+              "media_key": "3_1912087366606491650",
+              "start": 50,
+              "url": "https://t.co/rLb4n4Hohm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912088030997041364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 36267,
+          "like_count": 220,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "三河市招牌禁用红蓝黑三色一事引发热议后，网民们纷纷脑洞大开，用ai创作各种关于“三河市的绿色视频” https://t.co/rLb4n4Hohm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 41,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 18
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975439,
+          "following_count": 948,
+          "like_count": 6204,
+          "listed_count": 8095,
+          "media_count": 26502,
+          "tweet_count": 32929
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

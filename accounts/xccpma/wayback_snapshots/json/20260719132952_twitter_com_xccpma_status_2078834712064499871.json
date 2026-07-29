@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2078834712064499871",
+    "created_at": "2026-07-19T13:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078834712064499871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thymol_11/stat…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/thymol_11/status/2039191045121196411",
+          "start": 80,
+          "url": "https://t.co/liGxQssWbv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078834712064499871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039191045121196411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好结局：\n你的生活被梦想填满了。每日追逐自己的梦想成为了你丰富人生中唯一的慰藉。你不知疲倦地奔向梦想，财富、爱情、自由：不需要考虑代价，毕竟你真正拥有着青春。 https://t.co/liGxQssWbv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2078834712064499871",
+        "created_at": "2026-07-19T13:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078834712064499871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thymol_11/stat…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/thymol_11/status/2039191045121196411",
+              "start": 80,
+              "url": "https://t.co/liGxQssWbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078834712064499871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039191045121196411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好结局：\n你的生活被梦想填满了。每日追逐自己的梦想成为了你丰富人生中唯一的慰藉。你不知疲倦地奔向梦想，财富、爱情、自由：不需要考虑代价，毕竟你真正拥有着青春。 https://t.co/liGxQssWbv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2039191045121196411",
+        "created_at": "2026-04-01T04:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039191045121196411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liciiqaq/statu…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/liciiqaq/status/1978418539150094556",
+              "start": 89,
+              "url": "https://t.co/bRv4h6wyJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039191045121196411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9191,
+          "like_count": 76,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978418539150094556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好结局：\n你的生活被药物填满了。每日吞服的几粒红白色胶囊成为了你无趣人生中唯一的慰藉。你不知疲倦地滥用着药物，普瑞巴林，愈美片，苯乙胺...不需要考虑代价，毕竟你已经没有未来。 https://t.co/bRv4h6wyJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 223,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜Oder｜不再割手｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听蛋堡和日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 656,
+          "like_count": 5474,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

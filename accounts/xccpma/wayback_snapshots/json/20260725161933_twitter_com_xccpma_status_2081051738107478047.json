@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2081051738107478047",
+    "created_at": "2026-07-25T16:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T17:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081051738107478047"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081051738107478047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可能后悔磕药了，毕竟让我得重病没法逆转了，但从不后悔玩药圈\n毕竟和大家互动很有存在感😢现实就个阴暗逼在我们班除了必须的交流从来没有任何私下互动，能得到关注也是始料未及的😭\n如果有机会1000fo会抽出一些神秘药物，比如红处方止痛药（有处方）感谢大家有缘陪伴🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2081051738107478047",
+        "created_at": "2026-07-25T16:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081051738107478047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081051738107478047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能后悔磕药了，毕竟让我得重病没法逆转了，但从不后悔玩药圈\n毕竟和大家互动很有存在感😢现实就个阴暗逼在我们班除了必须的交流从来没有任何私下互动，能得到关注也是始料未及的😭\n如果有机会1000fo会抽出一些神秘药物，比如红处方止痛药（有处方）感谢大家有缘陪伴🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2080175558504144896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 270,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

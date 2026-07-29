@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2081366697647452199",
+    "created_at": "2026-07-26T13:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081366697647452199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lsx0008/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/lsx0008/status/2081016948960424340",
+          "start": 12,
+          "url": "https://t.co/DyPddUIBCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081366697647452199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081016948960424340",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点像树林里的小地瓜🥲 https://t.co/DyPddUIBCC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081016939032502273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFB4V6aYAE0DXj.jpg",
+        "width": 680
+      },
+      {
+        "height": 679,
+        "media_key": "3_2081016939053486080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFB4V_akAA5XZY.jpg",
+        "width": 509
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2081016939355451392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFB4XHaMAA7BSv.jpg",
+        "width": 760
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2081016939372224512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFB4XLaIAAiIFZ.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2081366697647452199",
+        "created_at": "2026-07-26T13:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081366697647452199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lsx0008/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/lsx0008/status/2081016948960424340",
+              "start": 12,
+              "url": "https://t.co/DyPddUIBCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081366697647452199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081016948960424340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点像树林里的小地瓜🥲 https://t.co/DyPddUIBCC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081016939032502273",
+            "3_2081016939053486080",
+            "3_2081016939355451392",
+            "3_2081016939372224512"
+          ]
+        },
+        "author_id": "1560157781109354496",
+        "conversation_id": "2081016948960424340",
+        "created_at": "2026-07-25T14:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081016948960424340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ff82MfRBV",
+              "end": 162,
+              "expanded_url": "https://x.com/LSX0008/status/2081016948960424340/photo/1",
+              "media_key": "3_2081016939032502273",
+              "start": 139,
+              "url": "https://t.co/9ff82MfRBV"
+            },
+            {
+              "display_url": "pic.x.com/9ff82MfRBV",
+              "end": 162,
+              "expanded_url": "https://x.com/LSX0008/status/2081016948960424340/photo/1",
+              "media_key": "3_2081016939053486080",
+              "start": 139,
+              "url": "https://t.co/9ff82MfRBV"
+            },
+            {
+              "display_url": "pic.x.com/9ff82MfRBV",
+              "end": 162,
+              "expanded_url": "https://x.com/LSX0008/status/2081016948960424340/photo/1",
+              "media_key": "3_2081016939355451392",
+              "start": 139,
+              "url": "https://t.co/9ff82MfRBV"
+            },
+            {
+              "display_url": "pic.x.com/9ff82MfRBV",
+              "end": 162,
+              "expanded_url": "https://x.com/LSX0008/status/2081016948960424340/photo/1",
+              "media_key": "3_2081016939372224512",
+              "start": 139,
+              "url": "https://t.co/9ff82MfRBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081016948960424340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9899,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“橘生淮南则为橘，生于淮北则为枳”！生长在中国还在学酒桌站着给领导敬酒？在欧美就是顶级顶级的科学家！成为法国综合理工的终身教授！\n谈到自己在法国高等科学研究所的科研活动时，王虹说：“许多重大的定理诞生于此，先贤们的思想仍在这些墙壁之间流动，在这样的地方工作会激励你志存高远。” https://t.co/9ff82MfRBV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2080175558504144896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 279,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T06:53:10.000Z",
+        "description": "宣传基本常识被东大全网销号的，前微博大V ＂李三笑0008 ＂非知名反贼，不知名私募基金人。不收费！不带货！不卖产品！纯为信仰而交流！",
+        "id": "1560157781109354496",
+        "name": "李三笑0008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827640907153526784/ZCzPFz7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27315,
+          "following_count": 229,
+          "like_count": 3159,
+          "listed_count": 208,
+          "media_count": 1754,
+          "tweet_count": 3194
+        },
+        "url": "",
+        "username": "LSX0008",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2078528955720851748",
+    "created_at": "2026-07-19T12:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078821311690998203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078821311690998203",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078528955720851748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar KUN/JINI/TAIMEI\n2.5-CTRL/\nNIGANMA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2078528955720851748",
+        "created_at": "2026-07-19T12:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078821311690998203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078821311690998203",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078528955720851748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar KUN/JINI/TAIMEI\n2.5-CTRL/\nNIGANMA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2078528955720851748",
+        "created_at": "2026-07-18T17:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078528955720851748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078528955720851748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 693,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉主页挂一堆看不懂英文缩写的看着就很牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 223,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "本人串子，帖子很少有真情實感（私下不一定｜所有時間線全肯定@D_D_ovO_｜😺 @ashasw114514 @misakinae8964 @rinko_zero8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 85,
+                "start": 70,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "床",
+        "name": "💿wkoc",
+        "pinned_tweet_id": "2072999358048637429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4691,
+          "following_count": 408,
+          "like_count": 25509,
+          "listed_count": 17,
+          "media_count": 1576,
+          "tweet_count": 19238
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

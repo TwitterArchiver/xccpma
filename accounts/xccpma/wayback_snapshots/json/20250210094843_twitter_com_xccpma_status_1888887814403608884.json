@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1888886254407741815",
+    "created_at": "2025-02-10T09:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T10:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888887814403608884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888887814403608884",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888886254407741815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 还得加上最重要的一条：禁止向李老师投稿！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1888886254407741815",
+        "created_at": "2025-02-10T09:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T10:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888887814403608884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888887814403608884",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888886254407741815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 还得加上最重要的一条：禁止向李老师投稿！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888885216544014337"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1888886254407741815",
+        "created_at": "2025-02-10T09:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T10:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888886254407741815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "611Study 是指“早6点上学，晚11点放学，生病 ICU”。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。 “611”学制，指的是一种近年来中国初高中普遍执行的上课模式（早上 6 点到校 ~ 晚上 11 点放学，每周 6 天甚至 7 天）。在一个实行“611”学制的学校上课就意味着每周至少要在学校学习 102 个小时。 611Study.ICU 是中国不堪重负超时学习学生们的呐喊，我们欢迎其他领域、其他国家的人士加入讨论。 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。 此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。 在此处查看反 996 许可证下的 完整项目列表 该草案改编自 MIT 许可证，如需更多信息请查看 Wiki。此许可证旨在与所有主流开源许可证兼容。 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 Anti-996-License-1.0。感谢你的帮助。",
+              "display_url": "611Study.ICU",
+              "end": 143,
+              "expanded_url": "http://611Study.ICU",
+              "start": 120,
+              "status": 200,
+              "title": "611Study.ICU",
+              "unwound_url": "http://611Study.ICU",
+              "url": "https://t.co/3p82wc97Sr"
+            },
+            {
+              "display_url": "pic.x.com/ZuYIhJxoYN",
+              "end": 182,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1888886254407741815/photo/1",
+              "media_key": "3_1888885216544014337",
+              "start": 159,
+              "url": "https://t.co/ZuYIhJxoYN"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1886070694766911523",
+              "start": 183,
+              "url": "https://t.co/h0Tzq3dFuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888886254407741815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3071,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886070694766911523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2月10日，有呼和浩特的学校向学生发布通知称接到上级教育主管部门的通知，要求学生不参加以下活动\n1，不登录外网\n2，未经批准不参与任何调研，调查活动\n3，不随意在网上跟帖发帖\n4，注意加强个人信息保护\n5，树立国家安全意识，保守国家秘密\n\nhttps://t.co/3p82wc97Sr将继续监督各地学校和教育部门。 https://t.co/ZuYIhJxoYN https://t.co/h0Tzq3dFuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 50,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 30
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926589,
+          "following_count": 936,
+          "like_count": 5790,
+          "listed_count": 8024,
+          "media_count": 23097,
+          "tweet_count": 29418
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

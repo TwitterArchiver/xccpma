@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069748533792784384"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2069748551069122695",
+    "created_at": "2026-06-24T11:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069748551069122695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6KG8M7J3wF",
+          "end": 25,
+          "expanded_url": "https://x.com/xccpma/status/2069748551069122695/photo/1",
+          "media_key": "3_2069748533792784384",
+          "start": 2,
+          "url": "https://t.co/6KG8M7J3wF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069748551069122695",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😭 https://t.co/6KG8M7J3wF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1234,
+        "media_key": "3_2069748533792784384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLk5U1MawAA-vbQ.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069748533792784384"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2069748551069122695",
+        "created_at": "2026-06-24T11:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069748551069122695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KG8M7J3wF",
+              "end": 25,
+              "expanded_url": "https://x.com/xccpma/status/2069748551069122695/photo/1",
+              "media_key": "3_2069748533792784384",
+              "start": 2,
+              "url": "https://t.co/6KG8M7J3wF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069748551069122695",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/6KG8M7J3wF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 86,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

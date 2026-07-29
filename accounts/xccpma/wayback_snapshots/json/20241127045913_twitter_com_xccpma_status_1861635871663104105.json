@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1861635252030185569",
+    "created_at": "2024-11-27T04:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T05:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861635871663104105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861635871663104105",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861635252030185569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 孝子急了，原来宠物比人重要😍他们对父母有没有这么关心啊🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1861635252030185569",
+        "created_at": "2024-11-27T04:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T05:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861635871663104105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861635871663104105",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861635252030185569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 孝子急了，原来宠物比人重要😍他们对父母有没有这么关心啊🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861635037948715010",
+            "7_1861635065673064453",
+            "3_1861635090654339073",
+            "3_1861635099160387587"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1861635252030185569",
+        "created_at": "2024-11-27T04:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T05:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861635252030185569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u51NH0GOI3",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1861635252030185569/video/1",
+              "media_key": "3_1861635037948715010",
+              "start": 121,
+              "url": "https://t.co/u51NH0GOI3"
+            },
+            {
+              "display_url": "pic.x.com/u51NH0GOI3",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1861635252030185569/video/1",
+              "media_key": "7_1861635065673064453",
+              "start": 121,
+              "url": "https://t.co/u51NH0GOI3"
+            },
+            {
+              "display_url": "pic.x.com/u51NH0GOI3",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1861635252030185569/video/1",
+              "media_key": "3_1861635090654339073",
+              "start": 121,
+              "url": "https://t.co/u51NH0GOI3"
+            },
+            {
+              "display_url": "pic.x.com/u51NH0GOI3",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1861635252030185569/video/1",
+              "media_key": "3_1861635099160387587",
+              "start": 121,
+              "url": "https://t.co/u51NH0GOI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861635252030185569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近期，广州多名网友在社交平台反映，自家宠物狗遭投毒身亡，投毒方式除了食物外，还包括吸入式毒药。有网友疑似抓到投毒女子，女子称“它们吵我睡觉，我犯什么法了”\n 11月16日，广东省宠物行业协会通报，目前已确认有超过40只宠物狗疑似中毒死亡。\n 11月18日，广东省宠物行业协会工作人员告诉记者，通报之后死亡数据还在上升，但具体数据不方便对外公布，后续再发通报。该名工作人员提醒，宠物狗疑似中毒的地点主要分布在公共道路、小广场等地。\n 目前广州市公安局荔湾区分局彩虹派出所已经立案调查。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1367,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "近期，广州多名网友在社交平台反映，自家宠物狗遭投毒身亡，投毒方式除了食物外，还包括吸入式毒药。有网友疑似抓到投毒女子，女子称“它们吵我睡觉，我犯什么法了”\n 11月16日，广东省宠物行业协会通报，目前已确认有超过40只宠物狗疑似中毒死亡。… https://t.co/u51NH0GOI3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "location": "西北政法大学",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 45,
+          "like_count": 157,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843414,
+          "following_count": 925,
+          "like_count": 5499,
+          "listed_count": 7985,
+          "tweet_count": 25537
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

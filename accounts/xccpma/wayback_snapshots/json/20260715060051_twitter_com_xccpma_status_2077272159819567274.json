@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077272139779239936"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2077250764674883684",
+    "created_at": "2026-07-15T06:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077272159819567274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920869622670393344",
+          "start": 0,
+          "username": "remiria_jp89"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XdJuZIx61i",
+          "end": 49,
+          "expanded_url": "https://x.com/xccpma/status/2077272159819567274/photo/1",
+          "media_key": "3_2077272139779239936",
+          "start": 26,
+          "url": "https://t.co/XdJuZIx61i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077272159819567274",
+    "in_reply_to_user_id": "1920869622670393344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077250764674883684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remiria_jp89 李彦宏你器官不想要了😱 https://t.co/XdJuZIx61i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2077272139779239936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP0AVlbcAAjjW1.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077250507379515392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPgVKnbIAAVY8o.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077272139779239936"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2077250764674883684",
+        "created_at": "2026-07-15T06:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077272159819567274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920869622670393344",
+              "start": 0,
+              "username": "remiria_jp89"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XdJuZIx61i",
+              "end": 49,
+              "expanded_url": "https://x.com/xccpma/status/2077272159819567274/photo/1",
+              "media_key": "3_2077272139779239936",
+              "start": 26,
+              "url": "https://t.co/XdJuZIx61i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077272159819567274",
+        "in_reply_to_user_id": "1920869622670393344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077250764674883684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remiria_jp89 李彦宏你器官不想要了😱 https://t.co/XdJuZIx61i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077250507379515392"
+          ]
+        },
+        "author_id": "1920869622670393344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2077250764674883684",
+        "created_at": "2026-07-15T04:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:34:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077250524496396721",
+          "2077250764674883684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NevTGYA7Lz",
+              "end": 72,
+              "expanded_url": "https://x.com/remiria_jp89/status/2077250764674883684/photo/1",
+              "media_key": "3_2077250507379515392",
+              "start": 49,
+              "url": "https://t.co/NevTGYA7Lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077250764674883684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1878,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近想支持支持国产买了华为mate80 pro，本来想用百度查一点资料的，为什么给我弹出这个？😳 https://t.co/NevTGYA7Lz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 189,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T15:53:17.000Z",
+        "description": "追踪我讲好中国故事、中华民族同胞之间暖心故事，带你了解真正的中国🥰\n无立场全部中立| 梗图每日分享 | 少政｜蓝勾、浪蛆互fo｜友好讨论不好的留言会删",
+        "id": "1920869622670393344",
+        "location": "革命湾冲浪里",
+        "name": "小野寺薄瓜瓜_オノデラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068513298073464832/wfEQdkrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 1059,
+          "like_count": 8470,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "remiria_jp89",
+        "verified": true
+      }
+    ]
+  }
+}

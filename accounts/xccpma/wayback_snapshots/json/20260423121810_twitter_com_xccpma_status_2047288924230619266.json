@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047288905033240576"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2047288924230619266",
+    "created_at": "2026-04-23T12:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047288924230619266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ruRPSGf6go",
+          "end": 54,
+          "expanded_url": "https://x.com/xccpma/status/2047288924230619266/photo/1",
+          "media_key": "3_2047288905033240576",
+          "start": 31,
+          "url": "https://t.co/ruRPSGf6go"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047288924230619266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "医生我手上起皮了，能给我开点那个盐酸吗啡注射液和芬太尼止痛吗 https://t.co/ruRPSGf6go"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047288905033240576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGluaYEa0AAdjkP.jpg",
+        "width": 783
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047288905033240576"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2047288924230619266",
+        "created_at": "2026-04-23T12:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047288924230619266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruRPSGf6go",
+              "end": 54,
+              "expanded_url": "https://x.com/xccpma/status/2047288924230619266/photo/1",
+              "media_key": "3_2047288905033240576",
+              "start": 31,
+              "url": "https://t.co/ruRPSGf6go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047288924230619266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生我手上起皮了，能给我开点那个盐酸吗啡注射液和芬太尼止痛吗 https://t.co/ruRPSGf6go"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 30,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 24
+        },
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

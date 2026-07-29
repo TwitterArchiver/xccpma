@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074711113795780608",
+        "3_2074711113820938240",
+        "3_2074711113816825856"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074711180971856163",
+    "created_at": "2026-07-08T04:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074711180971856163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gwoXnNaLHq",
+          "end": 40,
+          "expanded_url": "https://x.com/xccpma/status/2074711180971856163/photo/1",
+          "media_key": "3_2074711113795780608",
+          "start": 17,
+          "url": "https://t.co/gwoXnNaLHq"
+        },
+        {
+          "display_url": "pic.x.com/gwoXnNaLHq",
+          "end": 40,
+          "expanded_url": "https://x.com/xccpma/status/2074711180971856163/photo/1",
+          "media_key": "3_2074711113820938240",
+          "start": 17,
+          "url": "https://t.co/gwoXnNaLHq"
+        },
+        {
+          "display_url": "pic.x.com/gwoXnNaLHq",
+          "end": 40,
+          "expanded_url": "https://x.com/xccpma/status/2074711180971856163/photo/1",
+          "media_key": "3_2074711113816825856",
+          "start": 17,
+          "url": "https://t.co/gwoXnNaLHq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074711180971856163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "楼下捡了只大肥🐈，我也是有猫了😍 https://t.co/gwoXnNaLHq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2074711113795780608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMraxAVaQAAyjnH.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2074711113820938240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMraxAbaIAACaIi.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2074711113816825856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMraxAabYAA1fw-.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074711113795780608",
+            "3_2074711113820938240",
+            "3_2074711113816825856"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074711180971856163",
+        "created_at": "2026-07-08T04:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074711180971856163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwoXnNaLHq",
+              "end": 40,
+              "expanded_url": "https://x.com/xccpma/status/2074711180971856163/photo/1",
+              "media_key": "3_2074711113795780608",
+              "start": 17,
+              "url": "https://t.co/gwoXnNaLHq"
+            },
+            {
+              "display_url": "pic.x.com/gwoXnNaLHq",
+              "end": 40,
+              "expanded_url": "https://x.com/xccpma/status/2074711180971856163/photo/1",
+              "media_key": "3_2074711113820938240",
+              "start": 17,
+              "url": "https://t.co/gwoXnNaLHq"
+            },
+            {
+              "display_url": "pic.x.com/gwoXnNaLHq",
+              "end": 40,
+              "expanded_url": "https://x.com/xccpma/status/2074711180971856163/photo/1",
+              "media_key": "3_2074711113816825856",
+              "start": 17,
+              "url": "https://t.co/gwoXnNaLHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074711180971856163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "楼下捡了只大肥🐈，我也是有猫了😍 https://t.co/gwoXnNaLHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 151,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

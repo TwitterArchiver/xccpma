@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2076088379578683867",
+    "created_at": "2026-07-12T11:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076260555070079376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885134120340381697",
+          "start": 0,
+          "username": "alexX79749"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076260555070079376",
+    "in_reply_to_user_id": "1885134120340381697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076258747794784378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexX79749 很难开省着点😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2076088379578683867",
+        "created_at": "2026-07-12T11:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076260555070079376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885134120340381697",
+              "start": 0,
+              "username": "alexX79749"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076260555070079376",
+        "in_reply_to_user_id": "1885134120340381697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076258747794784378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexX79749 很难开省着点😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885134120340381697",
+        "conversation_id": "2076088379578683867",
+        "created_at": "2026-07-12T10:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076258747794784378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076258747794784378",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076088379578683867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 居然才50mg嘛（悲）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 169,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T01:12:59.000Z",
+        "description": "od蛆一只～喜欢打三角洲～互fo看到就回哦",
+        "id": "1885134120340381697",
+        "name": "alex X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059855388376436736/Tf_C_Ooa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 118,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "alexX79749",
+        "verified": false
+      }
+    ]
+  }
+}

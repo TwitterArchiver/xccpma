@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1857834084447433058",
+    "created_at": "2024-11-16T17:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T18:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857834084447433058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857834084447433058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 931
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857770445887648219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 11月16日，江苏无锡。无锡工艺学院发生无差别持刀伤人事件，多人倒地不起。\n网传行凶者因被工厂拖欠工资，并且每天上班16个小时。此外学校还不给他发毕业证导致无法毕业。\n 行凶者表示“我希望我的死可以推动劳动法进步”“别以为我是老实人，有些…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1857834084447433058",
+        "created_at": "2024-11-16T17:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T18:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857834084447433058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857834084447433058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 931
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857770445887648219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 11月16日，江苏无锡。无锡工艺学院发生无差别持刀伤人事件，多人倒地不起。\n网传行凶者因被工厂拖欠工资，并且每天上班16个小时。此外学校还不给他发毕业证导致无法毕业。\n 行凶者表示“我希望我的死可以推动劳动法进步”“别以为我是老实人，有些…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1857767646714028032",
+            "3_1857770240232636416",
+            "3_1857770258075131904",
+            "7_1857770272960688133"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1857770445887648219",
+        "created_at": "2024-11-16T12:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T13:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857770445887648219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7FW8pQ0AFz",
+              "end": 169,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1857770445887648219/video/1",
+              "media_key": "7_1857767646714028032",
+              "start": 146,
+              "url": "https://t.co/7FW8pQ0AFz"
+            },
+            {
+              "display_url": "pic.x.com/7FW8pQ0AFz",
+              "end": 169,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1857770445887648219/video/1",
+              "media_key": "3_1857770240232636416",
+              "start": 146,
+              "url": "https://t.co/7FW8pQ0AFz"
+            },
+            {
+              "display_url": "pic.x.com/7FW8pQ0AFz",
+              "end": 169,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1857770445887648219/video/1",
+              "media_key": "3_1857770258075131904",
+              "start": 146,
+              "url": "https://t.co/7FW8pQ0AFz"
+            },
+            {
+              "display_url": "pic.x.com/7FW8pQ0AFz",
+              "end": 169,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1857770445887648219/video/1",
+              "media_key": "7_1857770272960688133",
+              "start": 146,
+              "url": "https://t.co/7FW8pQ0AFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857770445887648219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1294,
+          "impression_count": 2022813,
+          "like_count": 5085,
+          "quote_count": 309,
+          "reply_count": 975,
+          "retweet_count": 931
+        },
+        "reply_settings": "everyone",
+        "text": "11月16日，江苏无锡。无锡工艺学院发生无差别持刀伤人事件，多人倒地不起。\n网传行凶者因被工厂拖欠工资，并且每天上班16个小时。此外学校还不给他发毕业证导致无法毕业。\n 行凶者表示“我希望我的死可以推动劳动法进步”“别以为我是老实人，有些账总是要清算的”\n 知情者：“已经抢救了，太多人了” https://t.co/7FW8pQ0AFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "location": "西北政法大学",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 42,
+          "like_count": 104,
+          "listed_count": 0,
+          "tweet_count": 13
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810642,
+          "following_count": 925,
+          "like_count": 5491,
+          "listed_count": 7926,
+          "tweet_count": 25181
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

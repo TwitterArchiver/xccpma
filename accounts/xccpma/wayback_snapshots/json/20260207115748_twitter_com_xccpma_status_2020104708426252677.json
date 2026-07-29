@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2020097709550543062",
+    "created_at": "2026-02-07T11:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T12:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020104708426252677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 29,
+          "id": "1907366568897703936",
+          "start": 16,
+          "username": "realFurinana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020104708426252677",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020097709550543062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele @realFurinana 怎么回事"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8892,
+        "height": 2796,
+        "media_key": "13_2019921885450903554",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019921885450903554/img/1_fRXP8F0mL_30AL.jpg",
+        "public_metrics": {
+          "view_count": 2461
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019921885450903554/vid/avc1/480x1040/667jkFWEcdeyvR61.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019921885450903554/vid/avc1/720x1560/kbCYuB-a_FH9ZBnK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019921885450903554/vid/avc1/1290x2796/I9vuEhdpCEZj4SGU.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019921885450903554/vid/avc1/320x692/4QNK4Ijsw6dSH6Da.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019921885450903554/pl/2UfqMigO8bWms2x3.m3u8"
+          }
+        ],
+        "width": 1290
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2019921908632834048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAg0Rh4W0AAq39D.jpg",
+        "width": 626
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2019921941042245632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAg0TanXMAAZBg6.jpg",
+        "width": 651
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2020097709550543062",
+        "created_at": "2026-02-07T11:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020104708426252677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 29,
+              "id": "1907366568897703936",
+              "start": 16,
+              "username": "realFurinana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020104708426252677",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020097709550543062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele @realFurinana 怎么回事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019921885450903554",
+            "3_2019921908632834048",
+            "3_2019921941042245632"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020097709550543062",
+        "created_at": "2026-02-07T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020097709550543062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9AS5DbbEN",
+              "end": 80,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2020097709550543062/video/1",
+              "media_key": "13_2019921885450903554",
+              "start": 57,
+              "url": "https://t.co/b9AS5DbbEN"
+            },
+            {
+              "display_url": "pic.x.com/b9AS5DbbEN",
+              "end": 80,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2020097709550543062/video/1",
+              "media_key": "3_2019921908632834048",
+              "start": 57,
+              "url": "https://t.co/b9AS5DbbEN"
+            },
+            {
+              "display_url": "pic.x.com/b9AS5DbbEN",
+              "end": 80,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2020097709550543062/video/1",
+              "media_key": "3_2019921941042245632",
+              "start": 57,
+              "url": "https://t.co/b9AS5DbbEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020097709550543062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6255,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "2月6日，一名网友拍马路上的路牌，只因路牌的名称有个“习”字，\n随后评论被全部清空。\n几个小时后，视频也被删除。 https://t.co/b9AS5DbbEN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 34,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 22
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192061,
+          "following_count": 1014,
+          "like_count": 8931,
+          "listed_count": 8549,
+          "media_count": 41171,
+          "tweet_count": 48159
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-02T09:37:03.000Z",
+        "description": "太好啦！太好啦！听妈妈说，我手机里的推特自动关注了芙宁娜娜，我不知所云地欢呼起来。芙宁娜娜这个恶俗玩意儿到底是什么呢？爸爸告诉我，她就像一个遍布网络的巨大屎壳郎，把抽象乐子和魔怔烂梗搬运得到处都是。有了芙宁娜娜，咱们的推特就变成了一个小垃圾堆，五洲四海的浪蛆们可以随时进行别样的炒作大战。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "http://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/ETo1KQCAPu"
+              }
+            ]
+          }
+        },
+        "id": "1907366568897703936",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912430744879742976/sQV0wJvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 16,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/ETo1KQCAPu",
+        "username": "realFurinana",
+        "verified": false
+      }
+    ]
+  }
+}

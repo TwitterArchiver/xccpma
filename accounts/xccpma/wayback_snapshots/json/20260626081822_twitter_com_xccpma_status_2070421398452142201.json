@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070421383885254656"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2070335516197962154",
+    "created_at": "2026-06-26T08:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070421398452142201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622255626066731010",
+          "start": 0,
+          "username": "SagerRgyalpo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zENFVCzJPr",
+          "end": 44,
+          "expanded_url": "https://x.com/xccpma/status/2070421398452142201/photo/1",
+          "media_key": "3_2070421383885254656",
+          "start": 21,
+          "url": "https://t.co/zENFVCzJPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070421398452142201",
+    "in_reply_to_user_id": "1622255626066731010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070335516197962154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SagerRgyalpo 你是不是想找 https://t.co/zENFVCzJPr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_2070421383885254656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLudR3HacAAg3KF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070335509759688704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtPLVEagAAcp_1.jpg",
+        "width": 1104
+      },
+      {
+        "height": 1681,
+        "media_key": "3_2070335509742927872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtPLVAawAA1hPP.jpg",
+        "width": 829
+      },
+      {
+        "height": 1784,
+        "media_key": "3_2070335508400730112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtPLQAacAABEzm.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070335509910761472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtPLVobsAAfd2O.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070421383885254656"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2070335516197962154",
+        "created_at": "2026-06-26T08:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070421398452142201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622255626066731010",
+              "start": 0,
+              "username": "SagerRgyalpo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zENFVCzJPr",
+              "end": 44,
+              "expanded_url": "https://x.com/xccpma/status/2070421398452142201/photo/1",
+              "media_key": "3_2070421383885254656",
+              "start": 21,
+              "url": "https://t.co/zENFVCzJPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070421398452142201",
+        "in_reply_to_user_id": "1622255626066731010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070335516197962154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagerRgyalpo 你是不是想找 https://t.co/zENFVCzJPr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070335509759688704",
+            "3_2070335509742927872",
+            "3_2070335508400730112",
+            "3_2070335509910761472"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "2070335516197962154",
+        "created_at": "2026-06-26T02:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070335516197962154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwRZi6qRGB",
+              "end": 47,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2070335516197962154/photo/1",
+              "media_key": "3_2070335509759688704",
+              "start": 24,
+              "url": "https://t.co/uwRZi6qRGB"
+            },
+            {
+              "display_url": "pic.x.com/uwRZi6qRGB",
+              "end": 47,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2070335516197962154/photo/1",
+              "media_key": "3_2070335509742927872",
+              "start": 24,
+              "url": "https://t.co/uwRZi6qRGB"
+            },
+            {
+              "display_url": "pic.x.com/uwRZi6qRGB",
+              "end": 47,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2070335516197962154/photo/1",
+              "media_key": "3_2070335508400730112",
+              "start": 24,
+              "url": "https://t.co/uwRZi6qRGB"
+            },
+            {
+              "display_url": "pic.x.com/uwRZi6qRGB",
+              "end": 47,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2070335516197962154/photo/1",
+              "media_key": "3_2070335509910761472",
+              "start": 24,
+              "url": "https://t.co/uwRZi6qRGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070335516197962154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 77828,
+          "like_count": 245,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "高中嘉欣研发痛经药，申请查看豆包使用记录。🤣🤣 https://t.co/uwRZi6qRGB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 96,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿！｜女男平等议题小博主｜gender equality｜반페미｜アンチフェミ｜антифем｜🕊️☮️反战｜🚫🪶反白羽毛｜支持童权",
+        "id": "1622255626066731010",
+        "location": "Russia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "2055728973553021273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058190297641922560/jwhVYdBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10645,
+          "following_count": 908,
+          "like_count": 1397,
+          "listed_count": 44,
+          "media_count": 2468,
+          "tweet_count": 5113
+        },
+        "url": "",
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068990776839921665"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2068990791406813409",
+    "created_at": "2026-06-22T09:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068990791406813409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PDCRGc9w6B",
+          "end": 47,
+          "expanded_url": "https://x.com/xccpma/status/2068990791406813409/photo/1",
+          "media_key": "3_2068990776839921665",
+          "start": 24,
+          "url": "https://t.co/PDCRGc9w6B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068990791406813409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神秘诊所😋真正的老资历\n\n话说能进去点一杯吗😋 https://t.co/PDCRGc9w6B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068990776839921665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaIJkkaYAEGQWt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068990776839921665"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2068990791406813409",
+        "created_at": "2026-06-22T09:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068990791406813409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PDCRGc9w6B",
+              "end": 47,
+              "expanded_url": "https://x.com/xccpma/status/2068990791406813409/photo/1",
+              "media_key": "3_2068990776839921665",
+              "start": 24,
+              "url": "https://t.co/PDCRGc9w6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068990791406813409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘诊所😋真正的老资历\n\n话说能进去点一杯吗😋 https://t.co/PDCRGc9w6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 80,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

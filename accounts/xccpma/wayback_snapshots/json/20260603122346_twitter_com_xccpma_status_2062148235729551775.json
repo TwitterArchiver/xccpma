@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062148219963113473"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062145947698905482",
+    "created_at": "2026-06-03T12:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062148235729551775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837114188046684161",
+          "start": 0,
+          "username": "winterfruit_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CTkQLzWz1r",
+          "end": 38,
+          "expanded_url": "https://x.com/xccpma/status/2062148235729551775/photo/1",
+          "media_key": "3_2062148219963113473",
+          "start": 15,
+          "url": "https://t.co/CTkQLzWz1r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062148235729551775",
+    "in_reply_to_user_id": "1837114188046684161",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062145947698905482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winterfruit_1 https://t.co/CTkQLzWz1r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062148219963113473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ444V0bAAEdFd6.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062148219963113473"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062145947698905482",
+        "created_at": "2026-06-03T12:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062148235729551775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CTkQLzWz1r",
+              "end": 38,
+              "expanded_url": "https://x.com/xccpma/status/2062148235729551775/photo/1",
+              "media_key": "3_2062148219963113473",
+              "start": 15,
+              "url": "https://t.co/CTkQLzWz1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062148235729551775",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062145947698905482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 https://t.co/CTkQLzWz1r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2062145947698905482",
+        "created_at": "2026-06-03T12:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062145947698905482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062145947698905482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吗，我现在打字打 xiduo “喜多”，第一个出来的是“吸毒哦”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 27,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 22
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 1470,
+          "like_count": 42583,
+          "listed_count": 6,
+          "media_count": 1844,
+          "tweet_count": 12650
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

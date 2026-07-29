@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855580556853149696"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "1855580574834127228",
+    "created_at": "2024-11-10T11:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T12:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855580574834127228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4PsfnBoxTY",
+          "end": 42,
+          "expanded_url": "https://x.com/xccpma/status/1855580574834127228/photo/1",
+          "media_key": "3_1855580556853149696",
+          "start": 19,
+          "url": "https://t.co/4PsfnBoxTY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855580574834127228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国人做的每件事都能说成是“革命”🤣 https://t.co/4PsfnBoxTY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1855580556853149696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcBYr2dagAAMk4h.jpg",
+        "width": 1132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855580556853149696"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "1855580574834127228",
+        "created_at": "2024-11-10T11:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T12:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855580574834127228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PsfnBoxTY",
+              "end": 42,
+              "expanded_url": "https://x.com/xccpma/status/1855580574834127228/photo/1",
+              "media_key": "3_1855580556853149696",
+              "start": 19,
+              "url": "https://t.co/4PsfnBoxTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855580574834127228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人做的每件事都能说成是“革命”🤣 https://t.co/4PsfnBoxTY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "location": "西北政法大学",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 36,
+          "like_count": 67,
+          "listed_count": 0,
+          "tweet_count": 18
+        },
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

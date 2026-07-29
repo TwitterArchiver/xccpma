@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2074335521883746430",
+    "created_at": "2026-07-08T03:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074703169008107835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920869622670393344",
+          "start": 0,
+          "username": "remiria_jp89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074703169008107835",
+    "in_reply_to_user_id": "1920869622670393344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074335521883746430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remiria_jp89 哇这个好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2074335515558719488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmFKT3asAA0bsg.jpg",
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2074335521883746430",
+        "created_at": "2026-07-08T03:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074703169008107835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920869622670393344",
+              "start": 0,
+              "username": "remiria_jp89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074703169008107835",
+        "in_reply_to_user_id": "1920869622670393344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074335521883746430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remiria_jp89 哇这个好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074335515558719488"
+          ]
+        },
+        "author_id": "1920869622670393344",
+        "conversation_id": "2074335521883746430",
+        "created_at": "2026-07-07T03:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074335521883746430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XiaEZ2ylNs",
+              "end": 32,
+              "expanded_url": "https://x.com/remiria_jp89/status/2074335521883746430/photo/1",
+              "media_key": "3_2074335515558719488",
+              "start": 9,
+              "url": "https://t.co/XiaEZ2ylNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074335521883746430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇哇哇，考考你啊 https://t.co/XiaEZ2ylNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 151,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T15:53:17.000Z",
+        "description": "追踪我讲好中国故事，带你了解真正的中国\n日本語を勉強しています| 梗图每日分享 | 少政避政｜哎😮‍💨没有一个无辜的",
+        "id": "1920869622670393344",
+        "location": "革命湾冲浪里",
+        "name": "小野寺薄瓜瓜_オノデラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068513298073464832/wfEQdkrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 1035,
+          "like_count": 7732,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "remiria_jp89",
+        "verified": true
+      }
+    ]
+  }
+}

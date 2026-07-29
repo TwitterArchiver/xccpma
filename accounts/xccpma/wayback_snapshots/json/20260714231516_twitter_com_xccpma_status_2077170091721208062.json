@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077170063019524096"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2077170091721208062",
+    "created_at": "2026-07-14T23:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T00:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077170091721208062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/89wk6keaMI",
+          "end": 78,
+          "expanded_url": "https://x.com/xccpma/status/2077170091721208062/photo/1",
+          "media_key": "3_2077170063019524096",
+          "start": 55,
+          "url": "https://t.co/89wk6keaMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077170091721208062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新版1元钞票太适合鼻腔实验了🧪\n\n纸质好，大小合适，有涂层不会粘粉末\n（影剧的经典场景用美元其实太薄了容易断 https://t.co/89wk6keaMI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2077170063019524096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOXKsBawAAJI6F.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077170063019524096"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2077170091721208062",
+        "created_at": "2026-07-14T23:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077170091721208062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/89wk6keaMI",
+              "end": 78,
+              "expanded_url": "https://x.com/xccpma/status/2077170091721208062/photo/1",
+              "media_key": "3_2077170063019524096",
+              "start": 55,
+              "url": "https://t.co/89wk6keaMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077170091721208062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新版1元钞票太适合鼻腔实验了🧪\n\n纸质好，大小合适，有涂层不会粘粉末\n（影剧的经典场景用美元其实太薄了容易断 https://t.co/89wk6keaMI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 185,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

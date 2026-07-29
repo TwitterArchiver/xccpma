@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047247076132818944"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2047247143610765665",
+    "created_at": "2026-04-23T09:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047247143610765665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IocfR0F7bp",
+          "end": 54,
+          "expanded_url": "https://x.com/xccpma/status/2047247143610765665/photo/1",
+          "media_key": "3_2047247076132818944",
+          "start": 31,
+          "url": "https://t.co/IocfR0F7bp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047247143610765665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安，普瑞巴林\n\n这是最后一次吃了，以前从不舍得吃这个进口的 https://t.co/IocfR0F7bp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2047247076132818944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlIXnRakAAPf-w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047247076132818944"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2047247143610765665",
+        "created_at": "2026-04-23T09:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047247143610765665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IocfR0F7bp",
+              "end": 54,
+              "expanded_url": "https://x.com/xccpma/status/2047247143610765665/photo/1",
+              "media_key": "3_2047247076132818944",
+              "start": 31,
+              "url": "https://t.co/IocfR0F7bp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047247143610765665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安，普瑞巴林\n\n这是最后一次吃了，以前从不舍得吃这个进口的 https://t.co/IocfR0F7bp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 30,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 24
+        },
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

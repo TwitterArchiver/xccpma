@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080167170584334336"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2078636953269071960",
+    "created_at": "2026-07-23T05:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080167208601423971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1776704652483891200",
+          "start": 0,
+          "username": "xingxing_byd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hQlxdj6CaC",
+          "end": 37,
+          "expanded_url": "https://x.com/xccpma/status/2080167208601423971/photo/1",
+          "media_key": "3_2080167170584334336",
+          "start": 14,
+          "url": "https://t.co/hQlxdj6CaC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080167208601423971",
+    "in_reply_to_user_id": "1776704652483891200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080164281832902945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingxing_byd https://t.co/hQlxdj6CaC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2080167170584334336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN49BTwb0AALUW4.jpg",
+        "width": 2387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080167170584334336"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2078636953269071960",
+        "created_at": "2026-07-23T05:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080167208601423971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776704652483891200",
+              "start": 0,
+              "username": "xingxing_byd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQlxdj6CaC",
+              "end": 37,
+              "expanded_url": "https://x.com/xccpma/status/2080167208601423971/photo/1",
+              "media_key": "3_2080167170584334336",
+              "start": 14,
+              "url": "https://t.co/hQlxdj6CaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080167208601423971",
+        "in_reply_to_user_id": "1776704652483891200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080164281832902945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxing_byd https://t.co/hQlxdj6CaC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "conversation_id": "2078636953269071960",
+        "created_at": "2026-07-23T05:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080164281832902945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080164281832902945",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078636953269071960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 249,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "这都是要应验的，不要干这种事情。（欢迎互fo）",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "星猫✨🍔🍟🍜🍛",
+        "pinned_tweet_id": "2069084068957086087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076773360927924224/qa-1H01f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 314,
+          "like_count": 1620,
+          "listed_count": 0,
+          "media_count": 500,
+          "tweet_count": 2144
+        },
+        "url": "",
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

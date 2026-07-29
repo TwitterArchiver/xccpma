@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1858735074617000144",
+    "created_at": "2024-11-19T05:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T06:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858739297782034859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "791197",
+          "start": 0,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858739297782034859",
+    "in_reply_to_user_id": "791197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858735074617000144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbcchinese 爱你驾车闯暗巷\n爱你图纸的模样\n爱你挡黑皮的枪\n不肯跑一场\n撞吗  撞啊\n以最孤高的梦\n沙吗  沙啊\n以最后的怒吼\n把那恶俗支➗都送进坟场\n致那血汗下的卑微与倔强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1858735074617000144",
+        "created_at": "2024-11-19T05:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T06:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858739297782034859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858739297782034859",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858735074617000144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 爱你驾车闯暗巷\n爱你图纸的模样\n爱你挡黑皮的枪\n不肯跑一场\n撞吗  撞啊\n以最孤高的梦\n沙吗  沙啊\n以最后的怒吼\n把那恶俗支➗都送进坟场\n致那血汗下的卑微与倔强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858734276692635650"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1858735074617000144",
+        "created_at": "2024-11-19T04:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T05:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858735074617000144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0LL3XpOBs",
+              "end": 161,
+              "expanded_url": "https://x.com/bbcchinese/status/1858735074617000144/video/1",
+              "media_key": "7_1858734276692635650",
+              "start": 138,
+              "url": "https://t.co/x0LL3XpOBs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858735074617000144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 18328,
+          "like_count": 111,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "中国中部湖南省常德市一所小学附近周二（11月19日）发生汽车冲撞人群事件。\n\n据官方媒体报道，有多名学生被撞受伤。目前尚不清楚事发原因，但中国近期已发生多起似乎是随机针对平民的袭击事件。\n\n现场画面显示，肇事车辆为一辆白色SUV。愤怒的家长和保安人员将司机抓获并移交给警方。 https://t.co/x0LL3XpOBs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "location": "西北政法大学",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 43,
+          "like_count": 114,
+          "listed_count": 0,
+          "tweet_count": 14
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4487962,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11542,
+          "tweet_count": 151482
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

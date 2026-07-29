@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1903050088114688037",
+    "created_at": "2025-03-21T12:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T13:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903054832384041354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903054832384041354",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903050088114688037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 徐俊平是吧😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 106506,
+        "height": 720,
+        "media_key": "7_1903049061948907520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1903049061948907520/pu/img/vrhEOv9moof6wxhz.jpg",
+        "public_metrics": {
+          "view_count": 3611
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903049061948907520/pu/vid/avc1/320x564/imCMjZRevU6aPw7N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903049061948907520/pu/vid/avc1/408x720/pW8PML3T3M-qRKo5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1903049061948907520/pu/pl/PJ6SSn8hvkEtIoGS.m3u8?tag=12&v=c56"
+          }
+        ],
+        "width": 408
+      },
+      {
+        "duration_ms": 17647,
+        "height": 1280,
+        "media_key": "7_1903049506977206272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1903049506977206272/pu/img/59AoYrGwcKN-yajP.jpg",
+        "public_metrics": {
+          "view_count": 409
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903049506977206272/pu/vid/avc1/320x568/Csi5BJPQE2wK5ctx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903049506977206272/pu/vid/avc1/480x852/HcLiK4m46YS8v7WR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903049506977206272/pu/vid/avc1/720x1280/nEwcXvH3GulVo8Ny.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1903049506977206272/pu/pl/faN1ANtS2e8Yrs1v.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 11888,
+        "height": 960,
+        "media_key": "7_1903049093007749120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1903049093007749120/pu/img/kQTU5gRfG2b_xgx_.jpg",
+        "public_metrics": {
+          "view_count": 357
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903049093007749120/pu/vid/avc1/320x564/czAI0RaUKdmqfAAH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903049093007749120/pu/vid/avc1/480x846/dZLU9SycWKXnHMim.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903049093007749120/pu/vid/avc1/544x960/YYTSUb4dz0LAJfeG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1903049093007749120/pu/pl/oKmn0bBX5mxf8cSB.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 1991,
+        "media_key": "3_1903049272205119492",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmj9OvPaEAQO5ff.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1903050088114688037",
+        "created_at": "2025-03-21T12:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T13:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903054832384041354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903054832384041354",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903050088114688037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 徐俊平是吧😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1903049061948907520",
+            "7_1903049506977206272",
+            "7_1903049093007749120",
+            "3_1903049272205119492"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1903050088114688037",
+        "created_at": "2025-03-21T11:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T12:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903050088114688037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2G7A9Bgq7z",
+              "end": 126,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1903050088114688037/video/1",
+              "media_key": "7_1903049061948907520",
+              "start": 103,
+              "url": "https://t.co/2G7A9Bgq7z"
+            },
+            {
+              "display_url": "pic.x.com/2G7A9Bgq7z",
+              "end": 126,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1903050088114688037/video/1",
+              "media_key": "7_1903049506977206272",
+              "start": 103,
+              "url": "https://t.co/2G7A9Bgq7z"
+            },
+            {
+              "display_url": "pic.x.com/2G7A9Bgq7z",
+              "end": 126,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1903050088114688037/video/1",
+              "media_key": "7_1903049093007749120",
+              "start": 103,
+              "url": "https://t.co/2G7A9Bgq7z"
+            },
+            {
+              "display_url": "pic.x.com/2G7A9Bgq7z",
+              "end": 126,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1903050088114688037/video/1",
+              "media_key": "3_1903049272205119492",
+              "start": 103,
+              "url": "https://t.co/2G7A9Bgq7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903050088114688037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7143,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "3月21日，福建平潭。一男子抢劫一家金店后，又持刀进入一家手机店与民警对峙，还自拍视频将部分抢劫视频发布到网上。“兄弟们，今天俊哥来真实啦，俊哥今天要杀人啊”\n 截至目前发文，该男子快手账号已被平台封禁。 https://t.co/2G7A9Bgq7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 46,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963058,
+          "following_count": 942,
+          "like_count": 5943,
+          "listed_count": 8073,
+          "media_count": 25108,
+          "tweet_count": 31491
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1895488935264178482",
+    "created_at": "2025-02-28T15:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T16:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895490444160815500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895490444160815500",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895488935264178482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 不是你撞的为什么要扶😤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32133,
+        "height": 1920,
+        "media_key": "7_1895487234364850176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1895487234364850176/pu/img/BDu_3m4fbXmcadTB.jpg",
+        "public_metrics": {
+          "view_count": 881
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895487234364850176/pu/vid/avc1/320x568/gI-Ja1cULkPze6D8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895487234364850176/pu/vid/avc1/480x852/Q64QgiX0tZ6F5EL0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895487234364850176/pu/vid/avc1/720x1280/FZHrTy0OuRPZMArM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1895487234364850176/pu/pl/a5_rmx2j3ig3Kr-K.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 450,
+        "media_key": "3_1895488924505473024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4hIlTWAAApuVi.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1895488935264178482",
+        "created_at": "2025-02-28T15:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T16:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895490444160815500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895490444160815500",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895488935264178482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 不是你撞的为什么要扶😤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1895487234364850176",
+            "3_1895488924505473024"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1895488935264178482",
+        "created_at": "2025-02-28T14:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T15:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895488935264178482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbSn9PMdi4",
+              "end": 121,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1895488935264178482/video/1",
+              "media_key": "7_1895487234364850176",
+              "start": 98,
+              "url": "https://t.co/sbSn9PMdi4"
+            },
+            {
+              "display_url": "pic.x.com/sbSn9PMdi4",
+              "end": 121,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1895488935264178482/video/1",
+              "media_key": "3_1895488924505473024",
+              "start": 98,
+              "url": "https://t.co/sbSn9PMdi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895488935264178482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3480,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "2月26日，北京。路边一男子摔到无法起身，期间周围不断有人骑车路过，却没有人关注，彷佛什么都没发生一样。\n 最终一名司机帮忙叫的救护车，司机称：“你们见死不救良心不会痛吗？这个社会到底怎么了？” https://t.co/sbSn9PMdi4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 49,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 23
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895449388467851374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943000,
+          "following_count": 936,
+          "like_count": 5844,
+          "listed_count": 8047,
+          "media_count": 23955,
+          "tweet_count": 30292
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

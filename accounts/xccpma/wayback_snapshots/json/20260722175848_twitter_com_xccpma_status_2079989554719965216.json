@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2079829871258464391",
+    "created_at": "2026-07-22T17:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079989554719965216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052432401289363456",
+          "start": 0,
+          "username": "hyacinthcxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079989554719965216",
+    "in_reply_to_user_id": "2052432401289363456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079969086558343322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyacinthcxi 是肾病不是癌症，但也差不多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2079829871258464391",
+        "created_at": "2026-07-22T17:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079989554719965216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052432401289363456",
+              "start": 0,
+              "username": "hyacinthcxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079989554719965216",
+        "in_reply_to_user_id": "2052432401289363456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079969086558343322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyacinthcxi 是肾病不是癌症，但也差不多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052432401289363456",
+        "conversation_id": "2079829871258464391",
+        "created_at": "2026-07-22T16:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079969086558343322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079969086558343322",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079829871258464391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 我草，真癌症吗？🥺祝好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 246,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T17:02:25.000Z",
+        "description": "2009 休学4年 抑郁 ptsd bpd\n🚪45 好友位+陪聊 图包/线下另算 女生不用\n前世@camelliacxi @hyacxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "camelliacxi"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "username": "hyacxi"
+              }
+            ]
+          }
+        },
+        "id": "2052432401289363456",
+        "name": "Hyacinth",
+        "pinned_tweet_id": "2075831905199808582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075683920000225280/TEtE_bCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 13,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "hyacinthcxi",
+        "verified": false
+      }
+    ]
+  }
+}

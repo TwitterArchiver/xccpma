@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1885927655301656576"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "1885922707575074965",
+    "created_at": "2025-02-02T05:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T06:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885927722733486457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1072109417200414720",
+          "start": 0,
+          "username": "wangzhian8848"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F4cQKx47dt",
+          "end": 48,
+          "expanded_url": "https://x.com/xccpma/status/1885927722733486457/video/1",
+          "media_key": "13_1885927655301656576",
+          "start": 25,
+          "url": "https://t.co/F4cQKx47dt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885927722733486457",
+    "in_reply_to_user_id": "1072109417200414720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885922707575074965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangzhian8848 有当总书记的潜质👍 https://t.co/F4cQKx47dt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7121,
+        "height": 1280,
+        "media_key": "13_1885927655301656576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1885927655301656576/img/sdInPt3eotHn5MKV.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1885927655301656576/vid/avc1/320x694/z4WbwRDFiWR8BGoe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1885927655301656576/vid/avc1/480x1040/q-XqiQwFEXcSHQ56.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1885927655301656576/vid/avc1/590x1280/NblAtYn-YrhTB3K3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1885927655301656576/pl/goFWEuD6DmcIctSI.m3u8?tag=14"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1885927655301656576"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "1885922707575074965",
+        "created_at": "2025-02-02T05:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T06:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885927722733486457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072109417200414720",
+              "start": 0,
+              "username": "wangzhian8848"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4cQKx47dt",
+              "end": 48,
+              "expanded_url": "https://x.com/xccpma/status/1885927722733486457/video/1",
+              "media_key": "13_1885927655301656576",
+              "start": 25,
+              "url": "https://t.co/F4cQKx47dt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885927722733486457",
+        "in_reply_to_user_id": "1072109417200414720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885922707575074965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangzhian8848 有当总书记的潜质👍 https://t.co/F4cQKx47dt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072109417200414720",
+        "conversation_id": "1885922707575074965",
+        "created_at": "2025-02-02T05:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T06:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885922707575074965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885922707575074965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "四川内江市资中县小孩燃放鞭炮引起沼气燃爆，并炸翻多辆豪车引发广大网友关注和讨论，并有网友核算后认为各辆豪车赔偿总额在580万，目前均已被辟谣。小孩父亲张某表示，自己和家属从未在任何时间通过任何平台任何账号发表过任何声明。目前在网络上传播的声明均属谣言。\n据央视报道，此事件共涉及8辆受损车辆，分别在3家保险公司投保，记者采访了涉及的3家保险公司。受损较为严重的林肯、雷克萨斯，在综合考虑车龄、车辆损失险保险金额后，分别预估损10万元和6万元，另有一辆宝马预估损6000元。保时捷预估损4万元，理想预估损1.5万元，吉利预估损2000元，奥迪预估损5.4万元，路虎预估损8000元。\n根据这3家保险公司的预估，涉及车辆受损金额总计约28.5万元。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12488,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "四川内江市资中县小孩燃放鞭炮引起沼气燃爆，并炸翻多辆豪车引发广大网友关注和讨论，并有网友核算后认为各辆豪车赔偿总额在580万，目前均已被辟谣。小孩父亲张某表示，自己和家属从未在任何时间通过任何平台任何账号发表过任何声明。目前在网络上传播的声明均属谣言。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 49,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 29
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342099,
+          "following_count": 643,
+          "like_count": 250,
+          "listed_count": 3600,
+          "media_count": 3553,
+          "tweet_count": 14580
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true
+      }
+    ]
+  }
+}

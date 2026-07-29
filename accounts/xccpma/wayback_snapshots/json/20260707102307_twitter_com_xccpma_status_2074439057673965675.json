@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074439044197695488"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2074439057673965675",
+    "created_at": "2026-07-07T10:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074439057673965675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KWgLQF83sv",
+          "end": 50,
+          "expanded_url": "https://x.com/xccpma/status/2074439057673965675/photo/1",
+          "media_key": "3_2074439044197695488",
+          "start": 27,
+          "url": "https://t.co/KWgLQF83sv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074439057673965675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像狗被挠肚子一样打滚🥰\n\n旧号被封重发，拒绝滥用药物 https://t.co/KWgLQF83sv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1737,
+        "media_key": "3_2074439044197695488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnjUeGawAAhaMg.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074439044197695488"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2074439057673965675",
+        "created_at": "2026-07-07T10:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074439057673965675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWgLQF83sv",
+              "end": 50,
+              "expanded_url": "https://x.com/xccpma/status/2074439057673965675/photo/1",
+              "media_key": "3_2074439044197695488",
+              "start": 27,
+              "url": "https://t.co/KWgLQF83sv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074439057673965675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像狗被挠肚子一样打滚🥰\n\n旧号被封重发，拒绝滥用药物 https://t.co/KWgLQF83sv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 146,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

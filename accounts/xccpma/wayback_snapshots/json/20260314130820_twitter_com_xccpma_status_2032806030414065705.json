@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2032806030414065705",
+    "created_at": "2026-03-14T13:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T14:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032806030414065705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916824571128287232",
+          "start": 3,
+          "username": "fayoubaike666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032806030414065705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032760985946370438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fayoubaike666: 严格规范经营行为自2026年4月1日起，各药品零售企业严格管控含右美沙芬复方制剂、普瑞巴林销售行为，\n\n严禁直接向未满18周岁未成年人销售上述药品，未成年人确需购买的，须监护人在场、凭处方购买并核验身份信息。含右美沙芬复方制剂、普瑞巴林不得…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2032760976848867328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXRVqJaUAA75Hf.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2032806030414065705",
+        "created_at": "2026-03-14T13:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032806030414065705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916824571128287232",
+              "start": 3,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032806030414065705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032760985946370438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fayoubaike666: 严格规范经营行为自2026年4月1日起，各药品零售企业严格管控含右美沙芬复方制剂、普瑞巴林销售行为，\n\n严禁直接向未满18周岁未成年人销售上述药品，未成年人确需购买的，须监护人在场、凭处方购买并核验身份信息。含右美沙芬复方制剂、普瑞巴林不得…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032760976848867328"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "conversation_id": "2032760985946370438",
+        "created_at": "2026-03-14T10:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032760985946370438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5vBPgii7B",
+              "end": 151,
+              "expanded_url": "https://x.com/fayoubaike666/status/2032760985946370438/photo/1",
+              "media_key": "3_2032760976848867328",
+              "start": 128,
+              "url": "https://t.co/A5vBPgii7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032760985946370438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9031,
+          "like_count": 67,
+          "quote_count": 20,
+          "reply_count": 17,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "严格规范经营行为自2026年4月1日起，各药品零售企业严格管控含右美沙芬复方制剂、普瑞巴林销售行为，\n\n严禁直接向未满18周岁未成年人销售上述药品，未成年人确需购买的，须监护人在场、凭处方购买并核验身份信息。含右美沙芬复方制剂、普瑞巴林不得进行网络零售。 https://t.co/A5vBPgii7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 34,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "由法友百科Sakura与meng运营\n个人博客：https://t.co/N5OWFEYlEo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 47,
+                "expanded_url": "https://pr80.bid/",
+                "start": 24,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 23,
+                "expanded_url": "https://pr80.bid/",
+                "start": 0,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          }
+        },
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "法友百科#物质研究",
+        "pinned_tweet_id": "2031291592368337051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 319,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/N5OWFEYlEo",
+        "username": "fayoubaike666",
+        "verified": false
+      }
+    ]
+  }
+}

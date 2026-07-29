@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067805232349028352",
+        "3_2067805232340574208",
+        "3_2067805232349020160"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2067805261151215664",
+    "created_at": "2026-06-19T03:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067805261151215664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PC8Ak8NmgS",
+          "end": 51,
+          "expanded_url": "https://x.com/xccpma/status/2067805261151215664/photo/1",
+          "media_key": "3_2067805232349028352",
+          "start": 28,
+          "url": "https://t.co/PC8Ak8NmgS"
+        },
+        {
+          "display_url": "pic.x.com/PC8Ak8NmgS",
+          "end": 51,
+          "expanded_url": "https://x.com/xccpma/status/2067805261151215664/photo/1",
+          "media_key": "3_2067805232340574208",
+          "start": 28,
+          "url": "https://t.co/PC8Ak8NmgS"
+        },
+        {
+          "display_url": "pic.x.com/PC8Ak8NmgS",
+          "end": 51,
+          "expanded_url": "https://x.com/xccpma/status/2067805261151215664/photo/1",
+          "media_key": "3_2067805232349020160",
+          "start": 28,
+          "url": "https://t.co/PC8Ak8NmgS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067805261151215664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "换了家医院挺漂亮，有医疗剧的感觉，不过思诺思只能开7片 https://t.co/PC8Ak8NmgS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067805232349028352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJR5zLboAAgPER.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2067805232340574208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJR5zJaoAA6k-N.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067805232349020160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJR5zLbgAAaoMG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067805232349028352",
+            "3_2067805232340574208",
+            "3_2067805232349020160"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2067805261151215664",
+        "created_at": "2026-06-19T03:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067805261151215664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PC8Ak8NmgS",
+              "end": 51,
+              "expanded_url": "https://x.com/xccpma/status/2067805261151215664/photo/1",
+              "media_key": "3_2067805232349028352",
+              "start": 28,
+              "url": "https://t.co/PC8Ak8NmgS"
+            },
+            {
+              "display_url": "pic.x.com/PC8Ak8NmgS",
+              "end": 51,
+              "expanded_url": "https://x.com/xccpma/status/2067805261151215664/photo/1",
+              "media_key": "3_2067805232340574208",
+              "start": 28,
+              "url": "https://t.co/PC8Ak8NmgS"
+            },
+            {
+              "display_url": "pic.x.com/PC8Ak8NmgS",
+              "end": 51,
+              "expanded_url": "https://x.com/xccpma/status/2067805261151215664/photo/1",
+              "media_key": "3_2067805232349020160",
+              "start": 28,
+              "url": "https://t.co/PC8Ak8NmgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067805261151215664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换了家医院挺漂亮，有医疗剧的感觉，不过思诺思只能开7片 https://t.co/PC8Ak8NmgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 68,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

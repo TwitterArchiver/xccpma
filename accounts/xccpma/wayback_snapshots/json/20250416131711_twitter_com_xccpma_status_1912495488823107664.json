@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1912494345334452465",
+    "created_at": "2025-04-16T13:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T14:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912495488823107664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912495488823107664",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912494345334452465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 《我生活压力也很大的》《这减速带怎么软绵绵的》《你跟法医说去吧》"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 122889,
+        "height": 720,
+        "media_key": "13_1912493274679390208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912493274679390208/img/dJKx_XIeCgX2oEOD.jpg",
+        "public_metrics": {
+          "view_count": 1101
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912493274679390208/vid/avc1/320x564/AniO5ENykjQlOP_v.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912493274679390208/vid/avc1/408x720/XKWuczf0BCMhZrcS.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912493274679390208/pl/8145iPXolb0JDVBP.m3u8?tag=16&v=e33"
+          }
+        ],
+        "width": 408
+      },
+      {
+        "duration_ms": 14866,
+        "height": 1280,
+        "media_key": "13_1912493304924487680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912493304924487680/img/XqfZTOx-TUFIE-hk.jpg",
+        "public_metrics": {
+          "view_count": 45
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912493304924487680/vid/avc1/320x568/RrqI_56lEtNAdmSg.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912493304924487680/vid/avc1/480x852/q9jIutdqDpbYuhmk.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912493304924487680/vid/avc1/720x1280/qklR4rBD1q7z0Wfq.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912493304924487680/pl/7mvMYvsoumZbGaLd.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1794,
+        "media_key": "3_1912493313774559232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoqKiTrXoAAftc5.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1912494345334452465",
+        "created_at": "2025-04-16T13:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T14:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912495488823107664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912495488823107664",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912494345334452465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 《我生活压力也很大的》《这减速带怎么软绵绵的》《你跟法医说去吧》"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912493274679390208",
+            "13_1912493304924487680",
+            "3_1912493313774559232"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1912494345334452465",
+        "created_at": "2025-04-16T13:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T14:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912494345334452465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLuSmDp4IU",
+              "end": 139,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1912494345334452465/video/1",
+              "media_key": "13_1912493274679390208",
+              "start": 116,
+              "url": "https://t.co/yLuSmDp4IU"
+            },
+            {
+              "display_url": "pic.x.com/yLuSmDp4IU",
+              "end": 139,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1912494345334452465/video/1",
+              "media_key": "13_1912493304924487680",
+              "start": 116,
+              "url": "https://t.co/yLuSmDp4IU"
+            },
+            {
+              "display_url": "pic.x.com/yLuSmDp4IU",
+              "end": 139,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1912494345334452465/video/1",
+              "media_key": "3_1912493313774559232",
+              "start": 116,
+              "url": "https://t.co/yLuSmDp4IU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912494345334452465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2155,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "4月16日下午，海南三亚。金鸡岭街发生一起厢式货车沿街冲撞行人车辆事件。视频显示，现场一片狼藉。有大人小孩倒地不起，拍摄者称“从这边一路撞过来，这里也撞了七八个人”另一名拍摄者称“压死很多人”据当地居民称，事发时正处于放学时间段。 https://t.co/yLuSmDp4IU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 41,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 19
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976355,
+          "following_count": 948,
+          "like_count": 6210,
+          "listed_count": 8097,
+          "media_count": 26557,
+          "tweet_count": 32985
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

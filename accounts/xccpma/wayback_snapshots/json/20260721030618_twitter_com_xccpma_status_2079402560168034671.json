@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079402513271541760"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079402560168034671",
+    "created_at": "2026-07-21T03:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079402560168034671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2zxM3bEJ8d",
+          "end": 63,
+          "expanded_url": "https://x.com/xccpma/status/2079402560168034671/photo/1",
+          "media_key": "3_2079402513271541760",
+          "start": 40,
+          "url": "https://t.co/2zxM3bEJ8d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079402560168034671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇，美味🤤比曲马多好吃😋\n\n医疗剂量合理用药\n\n详细开药教程可私信我，无偿分享 https://t.co/2zxM3bEJ8d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079402513271541760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuFkZSa0AATNk1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079402513271541760"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079402560168034671",
+        "created_at": "2026-07-21T03:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079402560168034671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zxM3bEJ8d",
+              "end": 63,
+              "expanded_url": "https://x.com/xccpma/status/2079402560168034671/photo/1",
+              "media_key": "3_2079402513271541760",
+              "start": 40,
+              "url": "https://t.co/2zxM3bEJ8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079402560168034671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇，美味🤤比曲马多好吃😋\n\n医疗剂量合理用药\n\n详细开药教程可私信我，无偿分享 https://t.co/2zxM3bEJ8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 230,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

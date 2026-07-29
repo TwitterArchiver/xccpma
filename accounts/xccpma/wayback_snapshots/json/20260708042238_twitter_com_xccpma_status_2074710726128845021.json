@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074710676845846529",
+        "3_2074710676870938624"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2074710726128845021",
+    "created_at": "2026-07-08T04:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074710726128845021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KIFdqzHMMF",
+          "end": 40,
+          "expanded_url": "https://x.com/xccpma/status/2074710726128845021/photo/1",
+          "media_key": "3_2074710676845846529",
+          "start": 17,
+          "url": "https://t.co/KIFdqzHMMF"
+        },
+        {
+          "display_url": "pic.x.com/KIFdqzHMMF",
+          "end": 40,
+          "expanded_url": "https://x.com/xccpma/status/2074710726128845021/photo/1",
+          "media_key": "3_2074710676870938624",
+          "start": 17,
+          "url": "https://t.co/KIFdqzHMMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074710726128845021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "楼下捡了只大肥🐈，我也是有猫了😽 https://t.co/KIFdqzHMMF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2074710676845846529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMraXkkbYAE6P3i.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2074710676870938624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMraXkqaQAAdN98.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074710676845846529",
+            "3_2074710676870938624"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2074710726128845021",
+        "created_at": "2026-07-08T04:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074710726128845021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KIFdqzHMMF",
+              "end": 40,
+              "expanded_url": "https://x.com/xccpma/status/2074710726128845021/photo/1",
+              "media_key": "3_2074710676845846529",
+              "start": 17,
+              "url": "https://t.co/KIFdqzHMMF"
+            },
+            {
+              "display_url": "pic.x.com/KIFdqzHMMF",
+              "end": 40,
+              "expanded_url": "https://x.com/xccpma/status/2074710726128845021/photo/1",
+              "media_key": "3_2074710676870938624",
+              "start": 17,
+              "url": "https://t.co/KIFdqzHMMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074710726128845021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "楼下捡了只大肥🐈，我也是有猫了😽 https://t.co/KIFdqzHMMF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 151,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

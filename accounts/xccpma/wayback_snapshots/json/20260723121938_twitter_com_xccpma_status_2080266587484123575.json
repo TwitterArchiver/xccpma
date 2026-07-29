@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2080232798275895372",
+    "created_at": "2026-07-23T12:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080266587484123575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987421067884048384",
+          "start": 0,
+          "username": "yznb1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080266587484123575",
+    "in_reply_to_user_id": "1987421067884048384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080232798275895372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yznb1234 这是太敏感了吧😢得病了越来越会觉得这种真没什么，除了肉体疼痛其他都不算事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2080232798275895372",
+        "created_at": "2026-07-23T12:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080266587484123575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987421067884048384",
+              "start": 0,
+              "username": "yznb1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080266587484123575",
+        "in_reply_to_user_id": "1987421067884048384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080232798275895372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yznb1234 这是太敏感了吧😢得病了越来越会觉得这种真没什么，除了肉体疼痛其他都不算事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987421067884048384",
+        "conversation_id": "2080232798275895372",
+        "created_at": "2026-07-23T10:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080232798275895372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080232798275895372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1150,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备出门时如果听到邻居在楼道里，立马停下动作等他们离开再出门。有没有懂的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2080175558504144896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 260,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T07:24:57.000Z",
+        "description": "万人为我写诗而幸福却是此时",
+        "id": "1987421067884048384",
+        "location": "707",
+        "name": "(＾ω＾)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040669525604212736/vauyoVIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 620,
+          "like_count": 8671,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1875
+        },
+        "url": "",
+        "username": "yznb1234",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1902343471559799224",
+    "created_at": "2025-03-19T13:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T14:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902349248592568437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1072109417200414720",
+          "start": 0,
+          "username": "wangzhian8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902349248592568437",
+    "in_reply_to_user_id": "1072109417200414720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902343471559799224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangzhian8848 你前妻也是个坏b，趁这个时候搞你还卖惨骗钱，一定要付诸法律！支持王局！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1902343471559799224",
+        "created_at": "2025-03-19T13:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T14:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902349248592568437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072109417200414720",
+              "start": 0,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902349248592568437",
+        "in_reply_to_user_id": "1072109417200414720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902343471559799224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangzhian8848 你前妻也是个坏b，趁这个时候搞你还卖惨骗钱，一定要付诸法律！支持王局！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072109417200414720",
+        "conversation_id": "1902343471559799224",
+        "created_at": "2025-03-19T12:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T13:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902343471559799224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902343471559799224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我想提醒网上随意跟风污蔑诽谤我的人，注意法律风险。我的前妻李汀长期患有精神类疾病，她这段时间在网上发布的言论，均为不实信息，传播这些不实信息，无论在哪个国家，均需要承担法律责任。\n\n再次强调，我从未对李汀进行过任何家暴，无论婚前婚内还是离婚后。相反，长期以来，作为精神类疾病患者的家属，我一直在承受着常人难以理解和承受的家庭暴力。任何传播我家暴的言论均属诽谤。\n\n我目前给李汀母女每年的经济支持约为1000万日元左右，任何传播我每年只付给100万日元的言论，均属诽谤。\n\n我和李汀有关抚养费以及孩子陪伴时间的争议，合理的做法是通过调解和诉讼解决。日本社会有一整套完善的司法制度，保证儿童和父母的权益。我在今天已经正式聘请律师来处理我和李汀之间的分歧，话说日本家事法庭的律师费并不贵，调解程序封顶一百万日元。李汀也表示会尽早聘请律师来进行协商和沟通。\n\n我个人认为，通过正常的法律程序解决分分歧，是现代文明社会的基本原则。任何煽动网络舆论对当事人进行网暴，都和正义相差十万八千里，也都和现代文明背道而驰。希望所有围观此事的人，均能呼吁通过正当程序解决纷争。\n\n最后，我保留对我名誉进行侵害的一切行为追究法律责任的权利。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 22891,
+          "like_count": 342,
+          "quote_count": 7,
+          "reply_count": 226,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我想提醒网上随意跟风污蔑诽谤我的人，注意法律风险。我的前妻李汀长期患有精神类疾病，她这段时间在网上发布的言论，均为不实信息，传播这些不实信息，无论在哪个国家，均需要承担法律责任。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 46,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376957,
+          "following_count": 643,
+          "like_count": 280,
+          "listed_count": 3668,
+          "media_count": 3918,
+          "tweet_count": 15272
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true
+      }
+    ]
+  }
+}

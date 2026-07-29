@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2078301101577863305",
+    "created_at": "2026-07-18T13:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078479653803872630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1619529064389443586",
+          "start": 0,
+          "username": "Fe2O311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078479653803872630",
+    "in_reply_to_user_id": "1619529064389443586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078478840951980160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fe2O311 5千，15天内得交上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2078301101577863305",
+        "created_at": "2026-07-18T13:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078479653803872630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1619529064389443586",
+              "start": 0,
+              "username": "Fe2O311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078479653803872630",
+        "in_reply_to_user_id": "1619529064389443586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078478840951980160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fe2O311 5千，15天内得交上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619529064389443586",
+        "conversation_id": "2078301101577863305",
+        "created_at": "2026-07-18T13:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078478840951980160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078478840951980160",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078301101577863305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 取保交了多少钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 215,
+          "like_count": 260,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T02:53:23.000Z",
+        "description": "08 od的宝宝们可以找我互fo",
+        "id": "1619529064389443586",
+        "location": "距离你0.1km",
+        "name": "天真淚",
+        "pinned_tweet_id": "1868967392375980274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076973755973488640/bG-AKiWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 39,
+          "like_count": 2070,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "Fe2O311",
+        "verified": false
+      }
+    ]
+  }
+}

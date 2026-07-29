@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071426789344419840",
+        "3_2071426789340233728"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2071426803462480254",
+    "created_at": "2026-06-29T02:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071426803462480254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B3nGn4QNW5",
+          "end": 89,
+          "expanded_url": "https://x.com/xccpma/status/2071426803462480254/photo/1",
+          "media_key": "3_2071426789344419840",
+          "start": 66,
+          "url": "https://t.co/B3nGn4QNW5"
+        },
+        {
+          "display_url": "pic.x.com/B3nGn4QNW5",
+          "end": 89,
+          "expanded_url": "https://x.com/xccpma/status/2071426803462480254/photo/1",
+          "media_key": "3_2071426789340233728",
+          "start": 66,
+          "url": "https://t.co/B3nGn4QNW5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071426803462480254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用别人身份证和现金开药不会留记录，一般查不太严，就说老人行动不便\n\n❌用实名信息和网络：等于自首\n    未戴口罩：警务通拍照识别 https://t.co/B3nGn4QNW5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071426789344419840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8vsKUaIAA2N2c.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071426789340233728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8vsKTaQAAtw9l.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071426789344419840",
+            "3_2071426789340233728"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2071426803462480254",
+        "created_at": "2026-06-29T02:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071426803462480254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3nGn4QNW5",
+              "end": 89,
+              "expanded_url": "https://x.com/xccpma/status/2071426803462480254/photo/1",
+              "media_key": "3_2071426789344419840",
+              "start": 66,
+              "url": "https://t.co/B3nGn4QNW5"
+            },
+            {
+              "display_url": "pic.x.com/B3nGn4QNW5",
+              "end": 89,
+              "expanded_url": "https://x.com/xccpma/status/2071426803462480254/photo/1",
+              "media_key": "3_2071426789340233728",
+              "start": 66,
+              "url": "https://t.co/B3nGn4QNW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071426803462480254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用别人身份证和现金开药不会留记录，一般查不太严，就说老人行动不便\n\n❌用实名信息和网络：等于自首\n    未戴口罩：警务通拍照识别 https://t.co/B3nGn4QNW5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 116,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

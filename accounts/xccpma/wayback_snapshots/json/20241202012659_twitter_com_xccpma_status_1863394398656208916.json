@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1863345908429000704",
+        "13_1863345908311633920"
+      ],
+      "media_source_tweet_id": [
+        "1863345967589720180",
+        "1863345967589720180"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1863394398656208916",
+    "created_at": "2024-12-02T01:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T02:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863394398656208916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "722848046321508352",
+          "start": 3,
+          "username": "woyongdehuawei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zLhvZOUZQA",
+          "end": 129,
+          "expanded_url": "https://x.com/woyongdehuawei/status/1863345967589720180/video/1",
+          "media_key": "13_1863345908429000704",
+          "start": 106,
+          "url": "https://t.co/zLhvZOUZQA"
+        },
+        {
+          "display_url": "pic.x.com/zLhvZOUZQA",
+          "end": 129,
+          "expanded_url": "https://x.com/woyongdehuawei/status/1863345967589720180/video/1",
+          "media_key": "13_1863345908311633920",
+          "start": 106,
+          "url": "https://t.co/zLhvZOUZQA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863394398656208916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863345967589720180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woyongdehuawei: “物业军事化管理业主”\n\n12月2日凌晨，广东深圳，顺明园小区的物业规定业主不得深夜出小区，不吃这一套的业主硬闯小区大门，最后被全副武装的保安拿下。最后警察赶到也束手无策 https://t.co/zLhvZOUZQA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36741,
+        "height": 544,
+        "media_key": "13_1863345908429000704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1863345908429000704/img/aIiz_Y3N4yIoy-fj.jpg",
+        "public_metrics": {
+          "view_count": 27414
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1863345908429000704/vid/avc1/476x270/WZGXzkmpemRQaiVp.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1863345908429000704/vid/avc1/634x360/hGyNn1w_GxoB68b4.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1863345908429000704/vid/avc1/960x544/CYz4F73gur6CLPlM.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1863345908429000704/pl/EsSKVcvnolGUONzu.m3u8?tag=16&v=135"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 7133,
+        "height": 1024,
+        "media_key": "13_1863345908311633920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1863345908311633920/img/GfcY5wC0OvfLC8io.jpg",
+        "public_metrics": {
+          "view_count": 4461
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1863345908311633920/vid/avc1/320x568/gwrRtE0foeVBoPxH.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1863345908311633920/vid/avc1/480x852/13YzV8g0CVlFhUlk.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1863345908311633920/vid/avc1/576x1024/bwH3L9vX01oqoUsp.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1863345908311633920/pl/yNleaZQeAaau2LuK.m3u8?tag=16"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1863345908429000704",
+            "13_1863345908311633920"
+          ],
+          "media_source_tweet_id": [
+            "1863345967589720180",
+            "1863345967589720180"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1863394398656208916",
+        "created_at": "2024-12-02T01:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T02:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863394398656208916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "722848046321508352",
+              "start": 3,
+              "username": "woyongdehuawei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zLhvZOUZQA",
+              "end": 129,
+              "expanded_url": "https://x.com/woyongdehuawei/status/1863345967589720180/video/1",
+              "media_key": "13_1863345908429000704",
+              "start": 106,
+              "url": "https://t.co/zLhvZOUZQA"
+            },
+            {
+              "display_url": "pic.x.com/zLhvZOUZQA",
+              "end": 129,
+              "expanded_url": "https://x.com/woyongdehuawei/status/1863345967589720180/video/1",
+              "media_key": "13_1863345908311633920",
+              "start": 106,
+              "url": "https://t.co/zLhvZOUZQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863394398656208916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863345967589720180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woyongdehuawei: “物业军事化管理业主”\n\n12月2日凌晨，广东深圳，顺明园小区的物业规定业主不得深夜出小区，不吃这一套的业主硬闯小区大门，最后被全副武装的保安拿下。最后警察赶到也束手无策 https://t.co/zLhvZOUZQA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1863345908429000704",
+            "13_1863345908311633920"
+          ]
+        },
+        "author_id": "722848046321508352",
+        "conversation_id": "1863345967589720180",
+        "created_at": "2024-12-01T22:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T23:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863345967589720180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zLhvZOUZQA",
+              "end": 109,
+              "expanded_url": "https://x.com/woyongdehuawei/status/1863345967589720180/video/1",
+              "media_key": "13_1863345908429000704",
+              "start": 86,
+              "url": "https://t.co/zLhvZOUZQA"
+            },
+            {
+              "display_url": "pic.x.com/zLhvZOUZQA",
+              "end": 109,
+              "expanded_url": "https://x.com/woyongdehuawei/status/1863345967589720180/video/1",
+              "media_key": "13_1863345908311633920",
+              "start": 86,
+              "url": "https://t.co/zLhvZOUZQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863345967589720180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 59974,
+          "like_count": 276,
+          "quote_count": 10,
+          "reply_count": 79,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "“物业军事化管理业主”\n\n12月2日凌晨，广东深圳，顺明园小区的物业规定业主不得深夜出小区，不吃这一套的业主硬闯小区大门，最后被全副武装的保安拿下。最后警察赶到也束手无策 https://t.co/zLhvZOUZQA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 48,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 19
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-20T18:02:58.000Z",
+        "description": "Christian/British Patriot/Conservatives/中国叛逃公职人员/YT：https://t.co/GrFL00gP7a Discord：https://t.co/f0Zs060Gmm 投稿邮箱：lundunbagong@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@woyongdehuawei",
+                "end": 75,
+                "expanded_url": "http://www.youtube.com/@woyongdehuawei",
+                "start": 52,
+                "url": "https://t.co/GrFL00gP7a"
+              },
+              {
+                "display_url": "discord.gg/GKP2WG7ABx",
+                "end": 107,
+                "expanded_url": "https://discord.gg/GKP2WG7ABx",
+                "start": 84,
+                "url": "https://t.co/f0Zs060Gmm"
+              }
+            ]
+          }
+        },
+        "id": "722848046321508352",
+        "location": "乌鲁木齐中路，伦敦",
+        "name": "清丝老师谈治国理政",
+        "pinned_tweet_id": "1862824550662033492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829410849577938944/lduE7qLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72996,
+          "following_count": 834,
+          "like_count": 22711,
+          "listed_count": 308,
+          "media_count": 5252,
+          "tweet_count": 21089
+        },
+        "username": "woyongdehuawei",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080856772303355904"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2080856819459842469",
+    "created_at": "2026-07-25T03:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080856819459842469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GRezHSH8fQ",
+          "end": 42,
+          "expanded_url": "https://x.com/xccpma/status/2080856819459842469/photo/1",
+          "media_key": "3_2080856772303355904",
+          "start": 19,
+          "url": "https://t.co/GRezHSH8fQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080856819459842469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "搞点垃圾试试，毕竟太垃圾了玩一次就行 https://t.co/GRezHSH8fQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2248,
+        "media_key": "3_2080856772303355904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCwNaWbgAALwGQ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080856772303355904"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2080856819459842469",
+        "created_at": "2026-07-25T03:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080856819459842469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRezHSH8fQ",
+              "end": 42,
+              "expanded_url": "https://x.com/xccpma/status/2080856819459842469/photo/1",
+              "media_key": "3_2080856772303355904",
+              "start": 19,
+              "url": "https://t.co/GRezHSH8fQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080856819459842469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞点垃圾试试，毕竟太垃圾了玩一次就行 https://t.co/GRezHSH8fQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2080175558504144896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 269,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

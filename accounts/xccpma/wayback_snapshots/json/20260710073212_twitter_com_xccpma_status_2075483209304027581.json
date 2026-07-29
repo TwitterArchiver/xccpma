@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075483172687769600",
+        "3_2075483172687810560"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2075483209304027581",
+    "created_at": "2026-07-10T07:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075483209304027581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P3C4i2xlJ3",
+          "end": 71,
+          "expanded_url": "https://x.com/xccpma/status/2075483209304027581/photo/1",
+          "media_key": "3_2075483172687769600",
+          "start": 48,
+          "url": "https://t.co/P3C4i2xlJ3"
+        },
+        {
+          "display_url": "pic.x.com/P3C4i2xlJ3",
+          "end": 71,
+          "expanded_url": "https://x.com/xccpma/status/2075483209304027581/photo/1",
+          "media_key": "3_2075483172687810560",
+          "start": 48,
+          "url": "https://t.co/P3C4i2xlJ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075483209304027581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次开pr没想到点击就送😍\n\n推友们直接挂精神或者神内点菜就行    没那么严，又不是开麻药 https://t.co/P3C4i2xlJ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3087,
+        "media_key": "3_2075483172687769600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2Y8v1a8AAjJ5V.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2075483172687810560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2Y8v1bkAAWckt.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075483172687769600",
+            "3_2075483172687810560"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2075483209304027581",
+        "created_at": "2026-07-10T07:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075483209304027581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P3C4i2xlJ3",
+              "end": 71,
+              "expanded_url": "https://x.com/xccpma/status/2075483209304027581/photo/1",
+              "media_key": "3_2075483172687769600",
+              "start": 48,
+              "url": "https://t.co/P3C4i2xlJ3"
+            },
+            {
+              "display_url": "pic.x.com/P3C4i2xlJ3",
+              "end": 71,
+              "expanded_url": "https://x.com/xccpma/status/2075483209304027581/photo/1",
+              "media_key": "3_2075483172687810560",
+              "start": 48,
+              "url": "https://t.co/P3C4i2xlJ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075483209304027581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次开pr没想到点击就送😍\n\n推友们直接挂精神或者神内点菜就行    没那么严，又不是开麻药 https://t.co/P3C4i2xlJ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 157,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

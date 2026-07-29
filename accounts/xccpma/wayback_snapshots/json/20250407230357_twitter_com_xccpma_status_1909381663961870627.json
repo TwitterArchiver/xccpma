@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1909363807526265266",
+    "created_at": "2025-04-07T23:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T00:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909381663961870627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909381663961870627",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909363807526265266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 商学院24级报到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1909363652462850048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn9sICwXMAA5wZl.jpg",
+        "width": 591
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1909363703838900224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn9sLCJXgAAYNOk.jpg",
+        "width": 170
+      },
+      {
+        "height": 727,
+        "media_key": "3_1909363734444695552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn9sM0KW4AAgnxB.jpg",
+        "width": 908
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1909363765092478976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn9sOmVW8AAAdy4.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1909363807526265266",
+        "created_at": "2025-04-07T23:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T00:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909381663961870627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909381663961870627",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909363807526265266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 商学院24级报到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909363652462850048",
+            "3_1909363703838900224",
+            "3_1909363734444695552",
+            "3_1909363765092478976"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1909363807526265266",
+        "created_at": "2025-04-07T21:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T22:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909363807526265266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRRXcw4bWH",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1909363807526265266/photo/1",
+              "media_key": "3_1909363652462850048",
+              "start": 107,
+              "url": "https://t.co/KRRXcw4bWH"
+            },
+            {
+              "display_url": "pic.x.com/KRRXcw4bWH",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1909363807526265266/photo/1",
+              "media_key": "3_1909363703838900224",
+              "start": 107,
+              "url": "https://t.co/KRRXcw4bWH"
+            },
+            {
+              "display_url": "pic.x.com/KRRXcw4bWH",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1909363807526265266/photo/1",
+              "media_key": "3_1909363734444695552",
+              "start": 107,
+              "url": "https://t.co/KRRXcw4bWH"
+            },
+            {
+              "display_url": "pic.x.com/KRRXcw4bWH",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1909363807526265266/photo/1",
+              "media_key": "3_1909363765092478976",
+              "start": 107,
+              "url": "https://t.co/KRRXcw4bWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909363807526265266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，西北政法大学的学生投稿，新任党委书记赵万东推行了大学高中化改革，让师生怨声载道。据学生反映，具体有大力监控课堂、纪律老师后门拍照、强制收缴手机、拖欠助学金、用奖金评职称等方式威胁老师、干涉老师上课内容等等。\n有同学在公众号“躺平学原理”上写文章批评书记，当天即获得近6万阅读和几千的点赞转发，然而立刻就有老师在学生组织群内警告同学禁止转发。文章第二天上午也被删除。\n据投稿人说，现在，已经有人打印了传单，分发在食堂宿舍和教学楼附近，矛头直指党委书记赵万东。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15010,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "近日，西北政法大学的学生投稿，新任党委书记赵万东推行了大学高中化改革，让师生怨声载道。据学生反映，具体有大力监控课堂、纪律老师后门拍照、强制收缴手机、拖欠助学金、用奖金评职称等方式威胁老师、干涉老师上课内容等等。 https://t.co/KRRXcw4bWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 40,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 18
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967915,
+          "following_count": 947,
+          "like_count": 6183,
+          "listed_count": 8086,
+          "media_count": 26090,
+          "tweet_count": 32513
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

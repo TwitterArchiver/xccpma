@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047126504497414144"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2046953316324958656",
+    "created_at": "2026-04-23T01:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T02:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047126515050283088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3022697779",
+          "start": 0,
+          "username": "RXdruglab"
+        },
+        {
+          "end": 26,
+          "id": "1930994094265991168",
+          "start": 11,
+          "username": "FriskKali37868"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JSPxA4qVo4",
+          "end": 85,
+          "expanded_url": "https://x.com/xccpma/status/2047126515050283088/photo/1",
+          "media_key": "3_2047126504497414144",
+          "start": 62,
+          "url": "https://t.co/JSPxA4qVo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047126515050283088",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047021099175886930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXdruglab @FriskKali37868 右美是中枢镇咳药，主要用于严重干咳，如果剧烈咳嗽甚至能开到单方可待因 https://t.co/JSPxA4qVo4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1816,
+        "media_key": "3_2047126504497414144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjata7bAAAcHC1.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047126504497414144"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2046953316324958656",
+        "created_at": "2026-04-23T01:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047126515050283088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 26,
+              "id": "1930994094265991168",
+              "start": 11,
+              "username": "FriskKali37868"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSPxA4qVo4",
+              "end": 85,
+              "expanded_url": "https://x.com/xccpma/status/2047126515050283088/photo/1",
+              "media_key": "3_2047126504497414144",
+              "start": 62,
+              "url": "https://t.co/JSPxA4qVo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047126515050283088",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047021099175886930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @FriskKali37868 右美是中枢镇咳药，主要用于严重干咳，如果剧烈咳嗽甚至能开到单方可待因 https://t.co/JSPxA4qVo4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2046953316324958656",
+        "created_at": "2026-04-22T18:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047021099175886930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1930994094265991168",
+              "start": 0,
+              "username": "FriskKali37868"
+            },
+            {
+              "end": 23,
+              "id": "1844356739539533829",
+              "start": 16,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047021099175886930",
+        "in_reply_to_user_id": "1930994094265991168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046987509754994744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FriskKali37868 @xccpma 咳嗽啊，咳嗽很严重的，我之前有一次持续不断的咳嗽咳嗽了两天，当时不知道右美沙芬，真的太惨了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 30,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 23
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18658,
+          "following_count": 15,
+          "like_count": 36,
+          "listed_count": 22,
+          "media_count": 54,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T14:24:20.000Z",
+        "description": "",
+        "id": "1930994094265991168",
+        "name": "?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034540734842580993/GUaJNGid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 1805,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 369
+        },
+        "username": "FriskKali37868",
+        "verified": false
+      }
+    ]
+  }
+}

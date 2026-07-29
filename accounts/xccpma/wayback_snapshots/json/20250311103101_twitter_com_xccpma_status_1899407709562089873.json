@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1899406417217601558",
+    "created_at": "2025-03-11T10:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T11:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899407709562089873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899407709562089873",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899406417217601558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 谁说中医有害？把他这种人清除掉不就是对社会最大的贡献吗😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2572,
+        "media_key": "3_1899405813984194560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlwLhjrW8AAKlps.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2532,
+        "media_key": "3_1899405846402191360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlwLjccaUAAjL3v.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2212,
+        "media_key": "3_1899405889691598848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlwLl9taQAArscN.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2011,
+        "media_key": "3_1899405909606141953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlwLnH5aEAEryoy.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1899406417217601558",
+        "created_at": "2025-03-11T10:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T11:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899407709562089873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899407709562089873",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899406417217601558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 谁说中医有害？把他这种人清除掉不就是对社会最大的贡献吗😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899405813984194560",
+            "3_1899405846402191360",
+            "3_1899405889691598848",
+            "3_1899405909606141953"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1899406417217601558",
+        "created_at": "2025-03-11T10:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T11:24:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899406145040883996",
+          "1899406417217601558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEx1B7oloY",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1899406417217601558/photo/1",
+              "media_key": "3_1899405813984194560",
+              "start": 127,
+              "url": "https://t.co/zEx1B7oloY"
+            },
+            {
+              "display_url": "pic.x.com/zEx1B7oloY",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1899406417217601558/photo/1",
+              "media_key": "3_1899405846402191360",
+              "start": 127,
+              "url": "https://t.co/zEx1B7oloY"
+            },
+            {
+              "display_url": "pic.x.com/zEx1B7oloY",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1899406417217601558/photo/1",
+              "media_key": "3_1899405889691598848",
+              "start": 127,
+              "url": "https://t.co/zEx1B7oloY"
+            },
+            {
+              "display_url": "pic.x.com/zEx1B7oloY",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1899406417217601558/photo/1",
+              "media_key": "3_1899405909606141953",
+              "start": 127,
+              "url": "https://t.co/zEx1B7oloY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899406417217601558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2090,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "3月11日，湖北。一名网友称，父母强行把妹妹送到广州的全封闭军事化管理学校。网友抱怨父母不关心妹妹抑郁症，反而一再指责妹妹不听话。\n 此前，该网友还称，母亲主打一个西医不靠谱，她认为拍片有辐射，西药都有副作用，母亲百分百信任中医，认为中医完全无副作用。 https://t.co/zEx1B7oloY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 47,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 16
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952644,
+          "following_count": 938,
+          "like_count": 5865,
+          "listed_count": 8049,
+          "media_count": 24473,
+          "tweet_count": 30825
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

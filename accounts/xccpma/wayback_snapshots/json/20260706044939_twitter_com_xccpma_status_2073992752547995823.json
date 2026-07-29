@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2073897104230199753",
+    "created_at": "2026-07-06T04:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073992752547995823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2052994836266196992",
+          "start": 0,
+          "username": "Nanwhju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073992752547995823",
+    "in_reply_to_user_id": "2052994836266196992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073897104230199753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nanwhju 你跟阿片有仇吗，怎么夸张"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2073897086102503424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf2aW3bgAAj95Z.jpg",
+        "width": 1119
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2073897086060515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf2aWta0AAptp0.jpg",
+        "width": 1134
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2073897086064758784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf2aWubkAAzPZi.jpg",
+        "width": 1126
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2073897086094032896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf2aW1aQAAxl9z.jpg",
+        "width": 1119
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2073897104230199753",
+        "created_at": "2026-07-06T04:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073992752547995823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2052994836266196992",
+              "start": 0,
+              "username": "Nanwhju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073992752547995823",
+        "in_reply_to_user_id": "2052994836266196992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073897104230199753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanwhju 你跟阿片有仇吗，怎么夸张"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073897086102503424",
+            "3_2073897086060515328",
+            "3_2073897086064758784",
+            "3_2073897086094032896"
+          ]
+        },
+        "author_id": "2052994836266196992",
+        "conversation_id": "2073897104230199753",
+        "created_at": "2026-07-05T22:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073897104230199753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 50,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086102503424",
+              "start": 27,
+              "url": "https://t.co/s6Mzk4PuF1"
+            },
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 50,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086060515328",
+              "start": 27,
+              "url": "https://t.co/s6Mzk4PuF1"
+            },
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 50,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086064758784",
+              "start": 27,
+              "url": "https://t.co/s6Mzk4PuF1"
+            },
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 50,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086094032896",
+              "start": 27,
+              "url": "https://t.co/s6Mzk4PuF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073897104230199753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 478,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲得很好很专业，阿片类戒断反应的天花板，远离阿片类！ https://t.co/s6Mzk4PuF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 139,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T06:11:46.000Z",
+        "description": "楠教授三世：https://t.co/RgOC6C06xC\n\n飞机✈️客服专人回复，推特私信无人回复",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 29,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 6,
+                "url": "https://t.co/RgOC6C06xC"
+              }
+            ]
+          }
+        },
+        "id": "2052994836266196992",
+        "location": "专注一款产品",
+        "name": "分享4-ho-met不好体验//jiel全网倡议禁止阿片类",
+        "pinned_tweet_id": "2057661451872125082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053016318086201344/0a8jdtk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 320,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "Nanwhju",
+        "verified": false
+      }
+    ]
+  }
+}

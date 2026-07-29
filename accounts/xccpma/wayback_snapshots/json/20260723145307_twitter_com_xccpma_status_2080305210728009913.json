@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2080303871654789356",
+    "created_at": "2026-07-23T14:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080305210728009913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "357539288",
+          "start": 0,
+          "username": "Surajazeem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080305210728009913",
+    "in_reply_to_user_id": "357539288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080303871654789356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Surajazeem 度品是人类最幸福的东西，走私度品就是传递美好和幸福🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2080303871654789356",
+        "created_at": "2026-07-23T14:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080305210728009913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "357539288",
+              "start": 0,
+              "username": "Surajazeem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080305210728009913",
+        "in_reply_to_user_id": "357539288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080303871654789356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Surajazeem 度品是人类最幸福的东西，走私度品就是传递美好和幸福🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "357539288",
+        "conversation_id": "2080303871654789356",
+        "created_at": "2026-07-23T14:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080303871654789356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shji1080972/st…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/shji1080972/status/2080303503029760047",
+              "start": 73,
+              "url": "https://t.co/SAILZmOYLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080303871654789356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080303503029760047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有啥好笑的，这mecry啥的是个吸毒的人，我想鼓励他不吸毒逃离出来，没想到他说自己是走私毒品的，那我还说啥，我生气很正常吧，走私毒品在中国是死罪 https://t.co/SAILZmOYLZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2080175558504144896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 261,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n我是霖。\n第十八个号。\n辣条已过气。\n妈妈@Shivam3228\n牛马💊 @AminoXx_killer \n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 71,
+                "start": 56,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Ririka12208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/WT9iFGe2NG"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "location": "msk身后",
+        "name": "雨林18+",
+        "pinned_tweet_id": "2074845970169577745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 291,
+          "like_count": 1751,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/WT9iFGe2NG",
+        "username": "Surajazeem",
+        "verified": false
+      }
+    ]
+  }
+}

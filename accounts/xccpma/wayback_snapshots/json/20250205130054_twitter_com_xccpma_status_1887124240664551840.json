@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1887123197948207368",
+    "created_at": "2025-02-05T13:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T14:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887124240664551840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887124240664551840",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887123197948207368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 要是没有安卓还能有你国遥遥领先的滑伪😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1887123197948207368",
+        "created_at": "2025-02-05T13:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T14:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887124240664551840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887124240664551840",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887123197948207368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 要是没有安卓还能有你国遥遥领先的滑伪😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887122031394897921",
+            "3_1887122031386447872"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1887123197948207368",
+        "created_at": "2025-02-05T12:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T13:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887123197948207368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fAOiV7XZN",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1887123197948207368/photo/1",
+              "media_key": "3_1887122031394897921",
+              "start": 101,
+              "url": "https://t.co/6fAOiV7XZN"
+            },
+            {
+              "display_url": "pic.x.com/6fAOiV7XZN",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1887123197948207368/photo/1",
+              "media_key": "3_1887122031386447872",
+              "start": 101,
+              "url": "https://t.co/6fAOiV7XZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887123197948207368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2445,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "2月5日，人民日报发文：一直以来，谷歌公司的安卓操作系统被业内诟病为 “假开源、真垄断” 并在技术和商业上，对中国手机厂商施加诸多限制和约束。\n此前，中国国家市场监督管理总局宣布对谷歌开展反垄断调查。 https://t.co/6fAOiV7XZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 48,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 30
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919460,
+          "following_count": 937,
+          "like_count": 5709,
+          "listed_count": 8025,
+          "media_count": 22925,
+          "tweet_count": 29238
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

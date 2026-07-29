@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1863465702868627797",
+    "created_at": "2024-12-02T06:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T07:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863470209878913161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863470209878913161",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863465702868627797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 史称停车革命是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1863465702868627797",
+        "created_at": "2024-12-02T06:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T07:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863470209878913161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863470209878913161",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863465702868627797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 史称停车革命是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1863462673452765184",
+            "7_1863462703693807616",
+            "3_1863463446668603393",
+            "3_1863465187413737472"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1863465702868627797",
+        "created_at": "2024-12-02T06:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T07:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863465702868627797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMJoll9h98",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1863465702868627797/video/1",
+              "media_key": "7_1863462673452765184",
+              "start": 145,
+              "url": "https://t.co/XMJoll9h98"
+            },
+            {
+              "display_url": "pic.x.com/XMJoll9h98",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1863465702868627797/video/1",
+              "media_key": "7_1863462703693807616",
+              "start": 145,
+              "url": "https://t.co/XMJoll9h98"
+            },
+            {
+              "display_url": "pic.x.com/XMJoll9h98",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1863465702868627797/video/1",
+              "media_key": "3_1863463446668603393",
+              "start": 145,
+              "url": "https://t.co/XMJoll9h98"
+            },
+            {
+              "display_url": "pic.x.com/XMJoll9h98",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1863465702868627797/video/1",
+              "media_key": "3_1863465187413737472",
+              "start": 145,
+              "url": "https://t.co/XMJoll9h98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863465702868627797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "12月1日晚 广州新塘镇大墩村 大量民众聚集抗议停车收费，有民众怒砸收费岗亭，大批特警前往现场维稳\n据悉 村委把村内所有的停车点都承包了出去，承包商设岗收费。当地居民认为收费过高，之前停在里面的车也要补交费用，遂聚集抗议。愤怒的民众围住了派出所门口，一男子砸毁收费岗亭，围观民众大喊加油\n大批武警和特警前往该村维稳。\n在当地官员宣布取消收费后，民众才散去。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12524,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "12月1日晚 广州新塘镇大墩村 大量民众聚集抗议停车收费，有民众怒砸收费岗亭，大批特警前往现场维稳\n据悉 村委把村内所有的停车点都承包了出去，承包商设岗收费。当地居民认为收费过高，之前停在里面的车也要补交费用，遂聚集抗议。愤怒的民众围住了派出所门口，一男子砸毁收费岗亭，围观民众大喊加油… https://t.co/XMJoll9h98"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 21
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851530,
+          "following_count": 928,
+          "like_count": 5518,
+          "listed_count": 8003,
+          "media_count": 19586,
+          "tweet_count": 25797
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

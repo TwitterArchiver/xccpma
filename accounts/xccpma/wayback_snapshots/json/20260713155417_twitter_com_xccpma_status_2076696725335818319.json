@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076696619450540032"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2076696725335818319",
+    "created_at": "2026-07-13T15:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076696725335818319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M6Rog3zVHu",
+          "end": 58,
+          "expanded_url": "https://x.com/xccpma/status/2076696725335818319/video/1",
+          "media_key": "13_2076696619450540032",
+          "start": 35,
+          "url": "https://t.co/M6Rog3zVHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076696725335818319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫你为什么偷吃实验室里的合法物质🧪\n\n对不起都怪我没把药品柜锁好😭 https://t.co/M6Rog3zVHu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17336,
+        "height": 1280,
+        "media_key": "13_2076696619450540032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076696619450540032/img/cXQQh_vDTK8PNS6a.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076696619450540032/vid/avc1/320x568/ey4dCRxZgN64ft57.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076696619450540032/vid/avc1/480x852/ZK1qxgXyyCXldo6s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076696619450540032/vid/avc1/720x1280/DLkRIHi3nUB2QQoh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076696619450540032/pl/qraBIGU3hXH67ZSe.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076696619450540032"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2076696725335818319",
+        "created_at": "2026-07-13T15:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076696725335818319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6Rog3zVHu",
+              "end": 58,
+              "expanded_url": "https://x.com/xccpma/status/2076696725335818319/video/1",
+              "media_key": "13_2076696619450540032",
+              "start": 35,
+              "url": "https://t.co/M6Rog3zVHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076696725335818319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫你为什么偷吃实验室里的合法物质🧪\n\n对不起都怪我没把药品柜锁好😭 https://t.co/M6Rog3zVHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 181,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

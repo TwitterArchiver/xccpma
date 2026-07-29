@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900875242597478402",
+        "3_1900875242622623744"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "1900874080058024376",
+    "created_at": "2025-03-15T11:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T12:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900875259152056753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GarLn8MhO8",
+          "end": 51,
+          "expanded_url": "https://x.com/xccpma/status/1900875259152056753/photo/1",
+          "media_key": "3_1900875242597478402",
+          "start": 28,
+          "url": "https://t.co/GarLn8MhO8"
+        },
+        {
+          "display_url": "pic.x.com/GarLn8MhO8",
+          "end": 51,
+          "expanded_url": "https://x.com/xccpma/status/1900875259152056753/photo/1",
+          "media_key": "3_1900875242622623744",
+          "start": 28,
+          "url": "https://t.co/GarLn8MhO8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900875259152056753",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900874080058024376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 碗碎🤚😭🤚🤚😭🤚🤚😭🤚 https://t.co/GarLn8MhO8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_1900875242597478402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmFD9j1bcAIHHo9.jpg",
+        "width": 680
+      },
+      {
+        "height": 900,
+        "media_key": "3_1900875242622623744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmFD9j7bIAA_TWW.jpg",
+        "width": 473
+      },
+      {
+        "height": 3484,
+        "media_key": "3_1900872962561224704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmFB42CbMAA7xxx.jpg",
+        "width": 1290
+      },
+      {
+        "height": 3505,
+        "media_key": "3_1900872975936876546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmFB5n3bcAI0h5s.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900875242597478402",
+            "3_1900875242622623744"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "1900874080058024376",
+        "created_at": "2025-03-15T11:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T12:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900875259152056753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GarLn8MhO8",
+              "end": 51,
+              "expanded_url": "https://x.com/xccpma/status/1900875259152056753/photo/1",
+              "media_key": "3_1900875242597478402",
+              "start": 28,
+              "url": "https://t.co/GarLn8MhO8"
+            },
+            {
+              "display_url": "pic.x.com/GarLn8MhO8",
+              "end": 51,
+              "expanded_url": "https://x.com/xccpma/status/1900875259152056753/photo/1",
+              "media_key": "3_1900875242622623744",
+              "start": 28,
+              "url": "https://t.co/GarLn8MhO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900875259152056753",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900874080058024376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 碗碎🤚😭🤚🤚😭🤚🤚😭🤚 https://t.co/GarLn8MhO8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900872962561224704",
+            "3_1900872975936876546"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1900874080058024376",
+        "created_at": "2025-03-15T11:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T12:33:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900873040948605427",
+          "1900874080058024376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQ1ENf3m2R",
+              "end": 89,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1900874080058024376/photo/1",
+              "media_key": "3_1900872962561224704",
+              "start": 66,
+              "url": "https://t.co/zQ1ENf3m2R"
+            },
+            {
+              "display_url": "pic.x.com/zQ1ENf3m2R",
+              "end": 89,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1900874080058024376/photo/1",
+              "media_key": "3_1900872975936876546",
+              "start": 66,
+              "url": "https://t.co/zQ1ENf3m2R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900874080058024376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "上个月，西藏自治区昌都市边坝县，当地教育局发起了一场面向中小学生的线上讲故事比赛，要求学生讲述有关共产党如何伟大的“红色故事”。\n 官方公告称，此次比赛共收到44份视频投稿，吸引了100多名学生和家长参与。此次活动让青少年深刻领悟红色文化内涵，传承红色基因，也成功搭建了家校合作桥梁，为孩子营造了积极向上的成长环境。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1434,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上个月，西藏自治区昌都市边坝县，当地教育局发起了一场面向中小学生的线上讲故事比赛，要求学生讲述有关共产党如何伟大的“红色故事”。… https://t.co/zQ1ENf3m2R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 46,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 19
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956985,
+          "following_count": 939,
+          "like_count": 5887,
+          "listed_count": 8052,
+          "media_count": 24726,
+          "tweet_count": 31094
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

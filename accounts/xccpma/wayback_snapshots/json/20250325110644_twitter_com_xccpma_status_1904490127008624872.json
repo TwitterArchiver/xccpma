@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1904488308857872700",
+    "created_at": "2025-03-25T11:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T12:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904490127008624872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1585145286598483968",
+          "start": 0,
+          "username": "lianyiganyu"
+        },
+        {
+          "end": 24,
+          "id": "1681992776626602014",
+          "start": 13,
+          "username": "_XnanX_418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904490127008624872",
+    "in_reply_to_user_id": "1585145286598483968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904488308857872700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianyiganyu @_XnanX_418 这是个骗子，收了钱不发货，能曝光一下吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1925,
+        "media_key": "3_1904488295628967936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm4aA7PakAA_SQZ.jpg",
+        "width": 1061
+      },
+      {
+        "height": 1276,
+        "media_key": "3_1904488297512239104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm4aBCQbAAAtXRT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1904488296090304512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm4aA89aAAA5zUm.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1904488296757313536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm4aA_cbwAAsamP.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1904488308857872700",
+        "created_at": "2025-03-25T11:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T12:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904490127008624872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1585145286598483968",
+              "start": 0,
+              "username": "lianyiganyu"
+            },
+            {
+              "end": 24,
+              "id": "1681992776626602014",
+              "start": 13,
+              "username": "_XnanX_418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904490127008624872",
+        "in_reply_to_user_id": "1585145286598483968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904488308857872700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianyiganyu @_XnanX_418 这是个骗子，收了钱不发货，能曝光一下吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904488295628967936",
+            "3_1904488297512239104",
+            "3_1904488296090304512",
+            "3_1904488296757313536"
+          ]
+        },
+        "author_id": "1585145286598483968",
+        "conversation_id": "1904488308857872700",
+        "created_at": "2025-03-25T10:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T11:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904488308857872700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wYol4B693T",
+              "end": 105,
+              "expanded_url": "https://x.com/lianyiganyu/status/1904488308857872700/photo/1",
+              "media_key": "3_1904488295628967936",
+              "start": 82,
+              "url": "https://t.co/wYol4B693T"
+            },
+            {
+              "display_url": "pic.x.com/wYol4B693T",
+              "end": 105,
+              "expanded_url": "https://x.com/lianyiganyu/status/1904488308857872700/photo/1",
+              "media_key": "3_1904488297512239104",
+              "start": 82,
+              "url": "https://t.co/wYol4B693T"
+            },
+            {
+              "display_url": "pic.x.com/wYol4B693T",
+              "end": 105,
+              "expanded_url": "https://x.com/lianyiganyu/status/1904488308857872700/photo/1",
+              "media_key": "3_1904488296090304512",
+              "start": 82,
+              "url": "https://t.co/wYol4B693T"
+            },
+            {
+              "display_url": "pic.x.com/wYol4B693T",
+              "end": 105,
+              "expanded_url": "https://x.com/lianyiganyu/status/1904488308857872700/photo/1",
+              "media_key": "3_1904488296757313536",
+              "start": 82,
+              "url": "https://t.co/wYol4B693T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904488308857872700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们全力请求并希望大家尽可能在多个平台转发本文章并且尽可能的扩大该文章的影响力！让更多的受骗人看到这个文章，联系到更多的受骗人，预防更多的受骗人因为被诈骗而自杀！\n\n我们需要尽快收集和整理更多王孝天诈骗的证据，尽快联系更多的受骗人，尽快让诈骗犯被绳之以法！（如果集体报案的总金额能达到100万元以上，将直接由刑侦队接案）请大家尽可能转发！\n\n如果您有被王孝天诈骗的经历，请整理自己的被诈骗证据并且提交给QQ账号2122574631（图一），如果您没有QQ，可将诈骗证据提交给微信账号Anne-wysa（图二）\n我们已经和当地的公安局做好提前沟通，将在同一时间联系所有受骗人一同前往当地公安局进行集体报案！\n\n王孝天，身份证110114200502034610\n曾用电话一：+86 157 1130 2247\n曾用电话二：+86 158 1488 4124\n曾用电话三：+86 132 6342 1726\n曾用电话四：+44 77 3032 3652\n曾用电话五：+852 4405 1750\n微信账号一：LGBT_AIRZONE （图三）\n微信账号二：JULY_AIRZONE\nQQ账号一：3458486038\nQQ账号二： 2856894146\ntelegram账号一：LGBT_AIRZONE\n推特账号：cearadishcarrot（图四）\n\n家住北京市昌平区上苑村62-1，北京电子科技职业学院集成电路学院（人工智能学院）（已休学），曾就读于昌平职业学校信息技术系大数据20-2。\n\n母亲：廖福秀 13520019247\n父亲：王福州 13521265254 汇航桃园中控室\n\n王孝天于2022年开始到2025年至今三年时间，以各种虚构的身份和理由累计诈骗至少200万元以上，已经确认的受骗人就已经达到60人以上，未经确认的更是不计其数。光是王孝天的同班同学就存在大量被王孝天诈骗的情况，王孝天甚至已经在他所在的学校“出名”。\n\n几乎所有的受骗人都是抑郁症患者，被骗金额大部分为受骗人被王孝天教唆网贷后又被骗走的钱。\n\n已确认至少有三位受骗人在被王孝天诈骗金钱以后自杀身亡，因被诈骗而加重自杀倾向的人至少在三十人以上。\n\n被骗金额达到五十万元的一位受骗人更是在被王孝天骗钱以后因为自杀住院三个多月。被骗金额达到二十多万元的一位受骗人被王孝天诈骗以后二年来多次因为自杀被送入医院ICU抢救以及多次因为自杀长期住院。被骗金额达到十万元的一位受骗人也因为被诈骗抑郁大幅度恶化，两年来多次尝试自杀。\n\n绝大多数受骗者都有精神疾病且处于自杀边缘。其中不少受骗者因为被骗而欠下大量贷款，精神状态严重恶化，因为行动力极差的原因难以维护自身权益，更有人自杀死亡，死无对证！\n\n在此我鼓励所有受骗者报警！我们已经和当地派出所做好提前沟通进行集体报案，将诈骗犯绳之以法，并且预防更多的人上当受骗！\n\n在报警前，请一定提前写好前因后果，保留相关证据，最好提前打印下来。并且将所有信息提前记录在便签本上，方便做笔录和叙述信息。\n\n王孝天诈骗手段如下：\n\n伪造自己是阿里外包工程师，香港和加拿大户籍，在加拿大有外汇，在海淀有多套房，在政府机关里有人，曾与“寒涟漪”有合作关系，正在帮助地中海贫血患者筹款，实际上当事人已经在2025年2月死亡，直到死亡都没有得到过王孝天的一分钱，王孝天却利用募集善款的名义诈骗大量钱财！\n\n伪造自己有加拿大医学生学位，在北京大学第六医院有导师，伪造自己母亲承接大型园林绿化种植工作，在近些年因口罩原因破产后准备“东山再起” ，父亲看大门是给其母亲的产业所效力。\n\n伪造自己卖药人的身份。以自己在王府医院开雌激素的照片，编造王府医院是自己在国内的仓库的事实，并以此骗得几位受骗人的钱财。在伪造卖药人身份的同时，宣称要在国内招收所谓代理，并为代理提供工资、使用仓库内雌激素免费等。 除自己卖药人的虚假身份之外，王孝天也同时开始准备售卖精二药品，谎称自己有能力（曾经说自己是医疗相关研究生），与王府医院的医生合作给对方开具处方，以此为由骗取钱款\n\n王孝天多次谎称自己在北京名下有几套别墅（例如丰台和海淀的两套），并称别墅中有大量贵重物品，也多次许诺以拿取赠送贵重物品为由进行诈骗金钱，最后都编造各种原因无法前往自己的房产所在地\n\n以银行风控且自身没有钱款为由，向多位受骗人许诺好处，并且谎称只要给钱“投资”和周转就可以得到好处，进行诈骗，并承诺解除风控后会赠送更多资金。以此为由诈骗大量钱财。\n\n伪造自己是心理工作者和公司法人的身份，利用以上噱头，欺骗他人自己在香港有所谓的公益救助组织。并以在日后向对方提供香港居留和工作岗位为诱饵，进一步伪造了自身有偿还能力的假象，在获取信任后骗得钱款\n其家长对王孝天处于撒手不管的状态，放任王孝天的诈骗行为。在经济纠纷的受害者联系上他家长后，其家长毫无歉意，甚至站在王孝天一边不愿还款。在针对之前的巨额诈骗的事情上，拒绝归还所有诈骗款项\n\n靠套近乎和施加小恩小惠骗取受骗人信任，骗钱的同时进行威胁和精神控制，受骗人在被骗取钱款的同时，王孝天利用这份信任再次骗得对方的个人信息，并且以公开受骗人个人信息来威胁受骗人，导致对方不敢冒着被开盒的风险进行揭发，使得受骗人不敢继续强硬要求还款"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我们全力请求并希望大家尽可能在多个平台转发本文章并且尽可能的扩大该文章的影响力！让更多的受骗人看到这个文章，联系到更多的受骗人，预防更多的受骗人因为被诈骗而自杀！ https://t.co/wYol4B693T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 44,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1904488308857872700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3249,
+          "following_count": 4,
+          "like_count": 9,
+          "listed_count": 5,
+          "media_count": 28,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T11:41:43.000Z",
+        "description": "🚪41.8  女友→@LannnOrz 07年/休学/od/负能量/疯话闲话  欢迎找我聊天/我会视奸你们每一个人👁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "LannnOrz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/gzA0tNZPKC"
+              }
+            ]
+          }
+        },
+        "id": "1681992776626602014",
+        "location": "距你2.6公里",
+        "name": "Psy",
+        "pinned_tweet_id": "1903718213697085766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896596115887357952/R3GyOOEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 59,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/gzA0tNZPKC",
+        "username": "_XnanX_418",
+        "verified": false
+      }
+    ]
+  }
+}

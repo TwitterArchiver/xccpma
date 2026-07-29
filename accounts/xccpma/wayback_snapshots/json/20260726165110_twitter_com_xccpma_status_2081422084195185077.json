@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2081393005190320295",
+    "created_at": "2026-07-26T16:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081422084195185077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081422084195185077",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081393005190320295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 是李颖封的他号吗，怎么矛头都指不对？是谁严格管控言论的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081392996390666241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKX5wvaAAEQLVA.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2081393005190320295",
+        "created_at": "2026-07-26T16:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081422084195185077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081422084195185077",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081393005190320295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 是李颖封的他号吗，怎么矛头都指不对？是谁严格管控言论的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081392996390666241"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2081393005190320295",
+        "created_at": "2026-07-26T14:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081393005190320295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fs9bLUShlQ",
+              "end": 128,
+              "expanded_url": "https://x.com/Goldwater8964/status/2081393005190320295/photo/1",
+              "media_key": "3_2081392996390666241",
+              "start": 105,
+              "url": "https://t.co/fs9bLUShlQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081393005190320295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 363,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼李颖，天天死亡笔记别人，我就在想，人家国内互联网我的世界大战迷你世界你怎么不管呢，现在别人玩cos的去骂两句恋与深空你就急了，你没活了可以去咬打火机，而不是莫名其妙盯着和键政无关的普通up主打，弱智东西😅 https://t.co/fs9bLUShlQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2080175558504144896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 282,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "成和败努力尝试\n人若有志应该不怕迟\n谁人在我未为意\n成就靠真本事\n做个真的汉子\n承担起苦痛跟失意",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2072446798132883670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 1058,
+          "like_count": 8711,
+          "listed_count": 5,
+          "media_count": 397,
+          "tweet_count": 1599
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

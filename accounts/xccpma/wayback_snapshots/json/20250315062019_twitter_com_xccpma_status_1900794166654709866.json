@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1900789093610778634",
+    "created_at": "2025-03-15T06:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T07:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900794166654709866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900794166654709866",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900789093610778634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 这不是非法拘禁吗？这种情况把这几条狗杀了这么处理？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18901,
+        "height": 960,
+        "media_key": "7_1900788741784170502",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1900788741784170502/pu/img/6vfMqml23dMdWJbC.jpg",
+        "public_metrics": {
+          "view_count": 3837
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900788741784170502/pu/vid/avc1/320x564/m5OkFJuCwbn3Qd3p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900788741784170502/pu/vid/avc1/480x846/vWL6m0w-hO8PyAer.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900788741784170502/pu/vid/avc1/544x960/JsEdiU6ysMU1CBzu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1900788741784170502/pu/pl/xm8LaUUYArY83cCA.m3u8?tag=12&v=ca8"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 31439,
+        "height": 1280,
+        "media_key": "7_1900788752404094976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1900788752404094976/pu/img/6UxanT4jxP2_hZnV.jpg",
+        "public_metrics": {
+          "view_count": 634
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900788752404094976/pu/vid/avc1/320x568/L7gfOnKo5uLmwjlo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900788752404094976/pu/vid/avc1/480x852/uvce8u6NN_EsCL3a.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900788752404094976/pu/vid/avc1/720x1280/O81laN6jGVb81GaT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1900788752404094976/pu/pl/oeirSnpmI2HkWBHY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1900789093610778634",
+        "created_at": "2025-03-15T06:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T07:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900794166654709866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900794166654709866",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900789093610778634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 这不是非法拘禁吗？这种情况把这几条狗杀了这么处理？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1900788741784170502",
+            "7_1900788752404094976"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1900789093610778634",
+        "created_at": "2025-03-15T06:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T07:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900789093610778634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHe62lEsIM",
+              "end": 62,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1900789093610778634/video/1",
+              "media_key": "7_1900788741784170502",
+              "start": 39,
+              "url": "https://t.co/aHe62lEsIM"
+            },
+            {
+              "display_url": "pic.x.com/aHe62lEsIM",
+              "end": 62,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1900789093610778634/video/1",
+              "media_key": "7_1900788752404094976",
+              "start": 39,
+              "url": "https://t.co/aHe62lEsIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900789093610778634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8231,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "3月14日，北京。一名女子因上访每天被数名便衣严防死守，就连下楼吃饭都不让。 https://t.co/aHe62lEsIM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 46,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956664,
+          "following_count": 940,
+          "like_count": 5887,
+          "listed_count": 8052,
+          "media_count": 24703,
+          "tweet_count": 31071
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

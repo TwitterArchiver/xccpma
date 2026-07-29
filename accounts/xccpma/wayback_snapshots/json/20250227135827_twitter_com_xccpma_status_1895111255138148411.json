@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1895110401995743344",
+    "created_at": "2025-02-27T13:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T14:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895111255138148411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895111255138148411",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895110401995743344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 截至2025年，中国总书记人数已突破1人，占总人口14亿分之一，切将延续至2050年"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2255,
+        "media_key": "3_1895109300164665345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkzH3ibaoAEQga_.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1338,
+        "media_key": "3_1895109300298579968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkzH3i7WAAACaOH.jpg",
+        "width": 913
+      },
+      {
+        "height": 1194,
+        "media_key": "3_1895110267702517761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkzIv2yaoAEyvP0.jpg",
+        "width": 957
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1895110401995743344",
+        "created_at": "2025-02-27T13:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T14:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895111255138148411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895111255138148411",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895110401995743344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 截至2025年，中国总书记人数已突破1人，占总人口14亿分之一，切将延续至2050年"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895109300164665345",
+            "3_1895109300298579968",
+            "3_1895110267702517761"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1895110401995743344",
+        "created_at": "2025-02-27T13:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T14:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895110401995743344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srEWXikqR0",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1895110401995743344/photo/1",
+              "media_key": "3_1895109300164665345",
+              "start": 121,
+              "url": "https://t.co/srEWXikqR0"
+            },
+            {
+              "display_url": "pic.x.com/srEWXikqR0",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1895110401995743344/photo/1",
+              "media_key": "3_1895109300298579968",
+              "start": 121,
+              "url": "https://t.co/srEWXikqR0"
+            },
+            {
+              "display_url": "pic.x.com/srEWXikqR0",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1895110401995743344/photo/1",
+              "media_key": "3_1895110267702517761",
+              "start": 121,
+              "url": "https://t.co/srEWXikqR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895110401995743344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1449,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "财经智库在报道中提到：截至2024年年底，中国灵活就业人员已突破2亿，占劳动人口比例接近三分之一，有研究报告预测：中国灵活就业人员到2036年或将达到4亿人。\n 网友回复 “委婉含蓄的表达了失业情况”\n “tmd，都这数据了，它还骄傲上了” https://t.co/srEWXikqR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 48,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 24
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942045,
+          "following_count": 936,
+          "like_count": 5844,
+          "listed_count": 8049,
+          "media_count": 23900,
+          "tweet_count": 30235
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

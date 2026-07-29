@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1894048446119829557",
+    "created_at": "2025-02-24T15:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T16:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894049379259961657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894049379259961657",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894048446119829557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 如果献血有好处，还能轮的上你😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_1894047907491504128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkkCiWmaYAAfRXx.jpg",
+        "width": 690
+      },
+      {
+        "height": 302,
+        "media_key": "3_1894047917587021824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkkCi8NXwAAcl6y.png",
+        "width": 900
+      },
+      {
+        "height": 580,
+        "media_key": "3_1894047981944401920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkkCmr9XcAA4eL-.png",
+        "width": 726
+      },
+      {
+        "height": 382,
+        "media_key": "3_1894047990039597056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkkCnKHaUAAAFH5.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1894048446119829557",
+        "created_at": "2025-02-24T15:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T16:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894049379259961657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894049379259961657",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894048446119829557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 如果献血有好处，还能轮的上你😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894047907491504128",
+            "3_1894047917587021824",
+            "3_1894047981944401920",
+            "3_1894047990039597056"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1894048446119829557",
+        "created_at": "2025-02-24T15:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T16:34:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894048180758863975",
+          "1894048446119829557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGFqhVAXwA",
+              "end": 162,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1894048446119829557/photo/1",
+              "media_key": "3_1894047907491504128",
+              "start": 139,
+              "url": "https://t.co/tGFqhVAXwA"
+            },
+            {
+              "display_url": "pic.x.com/tGFqhVAXwA",
+              "end": 162,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1894048446119829557/photo/1",
+              "media_key": "3_1894047917587021824",
+              "start": 139,
+              "url": "https://t.co/tGFqhVAXwA"
+            },
+            {
+              "display_url": "pic.x.com/tGFqhVAXwA",
+              "end": 162,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1894048446119829557/photo/1",
+              "media_key": "3_1894047981944401920",
+              "start": 139,
+              "url": "https://t.co/tGFqhVAXwA"
+            },
+            {
+              "display_url": "pic.x.com/tGFqhVAXwA",
+              "end": 162,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1894048446119829557/photo/1",
+              "media_key": "3_1894047990039597056",
+              "start": 139,
+              "url": "https://t.co/tGFqhVAXwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894048446119829557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2月24日(发布) 四川绵阳。当地一名52岁妇女在三台县血浆站献血后死亡，死亡证明书上显示死亡原因为脑梗死。\n 死者家属陈女士称，18日母亲听到村里有大喇叭说有“免费体检”母亲和姑姑听闻后便赶去体检，体检后紧接着又被带到血浆站。家属认为三台县血浆站用免费体检来引诱农村老人。\n 陈女士称：“我妈妈很健康，之前没有脑梗病史，我姑姑抽完血浆后也有眩晕的感觉。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1829,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2月24日(发布) 四川绵阳。当地一名52岁妇女在三台县血浆站献血后死亡，死亡证明书上显示死亡原因为脑梗死。\n 死者家属陈女士称，18日母亲听到村里有大喇叭说有“免费体检”母亲和姑姑听闻后便赶去体检，体检后紧接着又被带到血浆站。家属认为三台县血浆站用免费体检来引诱农村老人。… https://t.co/tGFqhVAXwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 48,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 23
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1940020,
+          "following_count": 936,
+          "like_count": 5839,
+          "listed_count": 8043,
+          "media_count": 23770,
+          "tweet_count": 30104
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2071024520752984130",
+    "created_at": "2026-06-28T00:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T01:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071024520752984130"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071024520752984130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去，一下都200fo了，感谢大家的陪伴🙏后面会定期更新药物报告等🥰\n欢迎互fo分享就诊经验"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2071024520752984130",
+        "created_at": "2026-06-28T00:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071024520752984130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071024520752984130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去，一下都200fo了，感谢大家的陪伴🙏后面会定期更新药物报告等🥰\n欢迎互fo分享就诊经验"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 105,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

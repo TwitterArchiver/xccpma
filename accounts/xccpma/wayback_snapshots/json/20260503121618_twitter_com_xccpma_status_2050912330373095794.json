@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050912314443116544"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2050911260099678536",
+    "created_at": "2026-05-03T12:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050912330373095794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SyLR7FjaFP",
+          "end": 39,
+          "expanded_url": "https://x.com/xccpma/status/2050912330373095794/photo/1",
+          "media_key": "3_2050912314443116544",
+          "start": 16,
+          "url": "https://t.co/SyLR7FjaFP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050912330373095794",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050911260099678536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele https://t.co/SyLR7FjaFP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 398,
+        "media_key": "3_2050912314443116544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZN4j_bMAAEGYW.jpg",
+        "width": 679
+      },
+      {
+        "duration_ms": 45487,
+        "height": 1280,
+        "media_key": "13_2050910594169974784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050910594169974784/img/lKHXRJoSfMo9_zG5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050910594169974784/vid/avc1/320x568/hTfuX_7QoW8ppYQZ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050910594169974784/vid/avc1/480x852/SLnDImC4dk2V8bKn.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050910594169974784/vid/avc1/720x1280/X6dBCiTsg2-Jzjn1.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050910594169974784/pl/4xbc98KqizEXaZwF.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 45463,
+        "height": 1280,
+        "media_key": "13_2050910621231636480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050910621231636480/img/QGSzxdScaMRt-Ehr.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050910621231636480/vid/avc1/320x568/hKo48HziJ3fcffbK.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050910621231636480/vid/avc1/480x852/wARAg--1t69nivMj.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050910621231636480/vid/avc1/720x1280/WufIDGOEsOm5dqqv.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050910621231636480/pl/-FNRW2-ekhEjVWJf.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 7755,
+        "height": 1280,
+        "media_key": "13_2050910636524109824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050910636524109824/img/2eZfp01pigiyWiy2.jpg",
+        "public_metrics": {
+          "view_count": 56
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050910636524109824/vid/avc1/320x568/br8oqLNuImzFD3hh.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050910636524109824/vid/avc1/480x852/X8ExmI637wVEVq7K.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050910636524109824/vid/avc1/720x1280/kmNU44XikAIrOAFl.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050910636524109824/pl/IrRCmUaqYSFGfw_y.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050912314443116544"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2050911260099678536",
+        "created_at": "2026-05-03T12:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050912330373095794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyLR7FjaFP",
+              "end": 39,
+              "expanded_url": "https://x.com/xccpma/status/2050912330373095794/photo/1",
+              "media_key": "3_2050912314443116544",
+              "start": 16,
+              "url": "https://t.co/SyLR7FjaFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050912330373095794",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050911260099678536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele https://t.co/SyLR7FjaFP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050910594169974784",
+            "13_2050910621231636480",
+            "13_2050910636524109824"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2050911260099678536",
+        "created_at": "2026-05-03T12:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050911260099678536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMXKyXm9e7",
+              "end": 65,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050911260099678536/video/1",
+              "media_key": "13_2050910594169974784",
+              "start": 42,
+              "url": "https://t.co/VMXKyXm9e7"
+            },
+            {
+              "display_url": "pic.x.com/VMXKyXm9e7",
+              "end": 65,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050911260099678536/video/1",
+              "media_key": "13_2050910621231636480",
+              "start": 42,
+              "url": "https://t.co/VMXKyXm9e7"
+            },
+            {
+              "display_url": "pic.x.com/VMXKyXm9e7",
+              "end": 65,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050911260099678536/video/1",
+              "media_key": "13_2050910636524109824",
+              "start": 42,
+              "url": "https://t.co/VMXKyXm9e7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050911260099678536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1029,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5月3日，浙江平阳林庄发生汽车冲撞行人事件。\n视频显示，现场至少7人被撞倒地不起。 https://t.co/VMXKyXm9e7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 29,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 26
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214248,
+          "following_count": 1041,
+          "like_count": 9456,
+          "listed_count": 8715,
+          "media_count": 46164,
+          "tweet_count": 53254
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

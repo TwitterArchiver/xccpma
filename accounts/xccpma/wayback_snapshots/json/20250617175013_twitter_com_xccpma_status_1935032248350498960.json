@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1935027159279796478",
+    "created_at": "2025-06-17T17:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T18:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935032248350498960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935032248350498960",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935027159279796478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 你们今天就敢看合订本，明天干什么都不敢想😤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1935006317451894784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtqF_l3bYAAudHU.jpg",
+        "width": 332
+      },
+      {
+        "height": 808,
+        "media_key": "3_1935007563507970050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtqHIHyWMAIDpEj.jpg",
+        "width": 1059
+      },
+      {
+        "height": 1037,
+        "media_key": "3_1935008917555130368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtqIW8AWMAAtz1k.jpg",
+        "width": 502
+      },
+      {
+        "duration_ms": 263709,
+        "height": 1080,
+        "media_key": "13_1935010580051775488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935010580051775488/img/bOPxNROp-OHV3UN3.jpg",
+        "public_metrics": {
+          "view_count": 3080
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935010580051775488/vid/avc1/1280x720/zEfqe_-uysgU1tTH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935010580051775488/vid/avc1/640x360/P_npLtr8UBmMkSHa.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935010580051775488/vid/avc1/1920x1080/UQDG5NGhmB3chmpu.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935010580051775488/vid/avc1/480x270/-a_I85W0sumdpzKt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935010580051775488/pl/ggA2Vc6Mz_TqM4bz.m3u8?v=fd5"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1935027159279796478",
+        "created_at": "2025-06-17T17:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T18:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935032248350498960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935032248350498960",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935027159279796478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 你们今天就敢看合订本，明天干什么都不敢想😤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935006317451894784",
+            "3_1935007563507970050",
+            "3_1935008917555130368",
+            "13_1935010580051775488"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1935027159279796478",
+        "created_at": "2025-06-17T17:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T18:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935027159279796478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSqPVVDjT4",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935027159279796478/video/1",
+              "media_key": "3_1935006317451894784",
+              "start": 142,
+              "url": "https://t.co/RSqPVVDjT4"
+            },
+            {
+              "display_url": "pic.x.com/RSqPVVDjT4",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935027159279796478/video/1",
+              "media_key": "3_1935007563507970050",
+              "start": 142,
+              "url": "https://t.co/RSqPVVDjT4"
+            },
+            {
+              "display_url": "pic.x.com/RSqPVVDjT4",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935027159279796478/video/1",
+              "media_key": "3_1935008917555130368",
+              "start": 142,
+              "url": "https://t.co/RSqPVVDjT4"
+            },
+            {
+              "display_url": "pic.x.com/RSqPVVDjT4",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1935027159279796478/video/1",
+              "media_key": "13_1935010580051775488",
+              "start": 142,
+              "url": "https://t.co/RSqPVVDjT4"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1932792435480088742",
+              "start": 166,
+              "url": "https://t.co/XRzwvLtoOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935027159279796478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "高考试卷疑似出现印刷错误事件仍在发酵，初期福建考生做过社会调查，结果出现巨大分歧，福建官方表示已经核实，印刷不存在问题。安徽一考生希望查看原卷，但真正看到后表示原卷可能存在问题，他的原卷是“正确”印刷版本。山东一考生也得到查看原卷机会，最终表示印刷无误，签署保密协议；有考生致电省考试院，被告知不能查看原卷，全省试卷印刷无误。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14774,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932792435480088742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高考试卷疑似出现印刷错误事件仍在发酵，初期福建考生做过社会调查，结果出现巨大分歧，福建官方表示已经核实，印刷不存在问题。安徽一考生希望查看原卷，但真正看到后表示原卷可能存在问题，他的原卷是“正确”印刷版本。山东一考生也得到查看原卷机会，最终表示印刷无误，签署保密协议；有考生致电省考 https://t.co/RSqPVVDjT4 https://t.co/XRzwvLtoOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 39,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 20
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1933896398610526577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015840,
+          "following_count": 965,
+          "like_count": 7002,
+          "listed_count": 8165,
+          "media_count": 30047,
+          "tweet_count": 36599
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

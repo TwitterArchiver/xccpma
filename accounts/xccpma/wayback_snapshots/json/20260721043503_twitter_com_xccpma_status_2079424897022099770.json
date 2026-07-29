@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2079424897022099770",
+    "created_at": "2026-07-21T04:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079424897022099770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huantim7/statu…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/huantim7/status/2079402164481601630",
+          "start": 41,
+          "url": "https://t.co/zK7vPxb44t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079424897022099770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079402164481601630",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Ciallo~(∠・ω&lt; )⌒☆\n今天是2026年7月21日，你系度了吗🤤 https://t.co/zK7vPxb44t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2079424897022099770",
+        "created_at": "2026-07-21T04:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079424897022099770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huantim7/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/huantim7/status/2079402164481601630",
+              "start": 41,
+              "url": "https://t.co/zK7vPxb44t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079424897022099770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079402164481601630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ciallo~(∠・ω&lt; )⌒☆\n今天是2026年7月21日，你系度了吗🤤 https://t.co/zK7vPxb44t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781510736000274432",
+        "conversation_id": "2079402164481601630",
+        "created_at": "2026-07-21T03:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079402164481601630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sylvielove2022…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/sylvielove2022/status/2079326123297767761",
+              "start": 43,
+              "url": "https://t.co/jvIPSsbfep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079402164481601630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079326123297767761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ciallo~(∠・ω&lt; )⌒☆\n今天是2026年7月21日，你0721了吗🤤 https://t.co/jvIPSsbfep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 230,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 796,
+          "like_count": 96103,
+          "listed_count": 1,
+          "media_count": 515,
+          "tweet_count": 6367
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": true
+      }
+    ]
+  }
+}

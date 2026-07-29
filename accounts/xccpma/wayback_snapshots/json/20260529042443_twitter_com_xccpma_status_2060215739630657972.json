@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060215731699273728"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060215739630657972",
+    "created_at": "2026-05-29T04:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060215739630657972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eSviebbQkg",
+          "end": 37,
+          "expanded_url": "https://x.com/xccpma/status/2060215739630657972/photo/1",
+          "media_key": "3_2060215731699273728",
+          "start": 14,
+          "url": "https://t.co/eSviebbQkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060215739630657972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么还没到货😤毒瘾剧烈发作 https://t.co/eSviebbQkg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2060215731699273728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdbSuCbUAAUM7q.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060215731699273728"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060215739630657972",
+        "created_at": "2026-05-29T04:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060215739630657972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSviebbQkg",
+              "end": 37,
+              "expanded_url": "https://x.com/xccpma/status/2060215739630657972/photo/1",
+              "media_key": "3_2060215731699273728",
+              "start": 14,
+              "url": "https://t.co/eSviebbQkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060215739630657972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么还没到货😤毒瘾剧烈发作 https://t.co/eSviebbQkg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 27,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 25
+        },
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

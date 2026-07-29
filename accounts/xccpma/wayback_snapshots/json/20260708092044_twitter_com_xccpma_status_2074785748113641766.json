@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2074709606643933618",
+    "created_at": "2026-07-08T09:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074785748113641766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927025054203715584",
+          "start": 0,
+          "username": "pr80_NightHaven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074785748113641766",
+    "in_reply_to_user_id": "1927025054203715584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074709606643933618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80_NightHaven 主规格是40/20mg，属于红处方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2074709606643933618",
+        "created_at": "2026-07-08T09:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074785748113641766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927025054203715584",
+              "start": 0,
+              "username": "pr80_NightHaven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074785748113641766",
+        "in_reply_to_user_id": "1927025054203715584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074709606643933618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80_NightHaven 主规格是40/20mg，属于红处方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927025054203715584",
+        "conversation_id": "2074709606643933618",
+        "created_at": "2026-07-08T04:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074709606643933618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pr80_NightHave…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/pr80_NightHaven/status/2074709062290440241",
+              "start": 115,
+              "url": "https://t.co/q0zuhGNEdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074709606643933618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074709062290440241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并且最重要的一个点是，单方羟考酮缓释片属于麻醉药品管制，而纳洛酮羟考酮是精二管制，不需要麻卡并且更好开了更方便了，只要你是口服的方式，这就是最好的羟考酮复方，缺点是这个药比较新大部分医院都没有谈判和引进，可能再等一年就比较常见啦 https://t.co/q0zuhGNEdX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 151,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:32:44.000Z",
+        "description": "永夜安港 https://t.co/L5ua0XjoNE\n没有恶俗与药贩，只有温馨与减害。\nhttps://t.co/HsCioOgdzr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "or80.net",
+                "end": 28,
+                "expanded_url": "http://or80.net",
+                "start": 5,
+                "url": "https://t.co/L5ua0XjoNE"
+              },
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 69,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 46,
+                "url": "https://t.co/HsCioOgdzr"
+              }
+            ]
+          }
+        },
+        "id": "1927025054203715584",
+        "location": "NightHaven",
+        "name": "⚓️永夜安港 pr80.net",
+        "pinned_tweet_id": "2071982831732142419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069981304528265216/T45W7wQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 342,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "pr80_NightHaven",
+        "verified": true
+      }
+    ]
+  }
+}

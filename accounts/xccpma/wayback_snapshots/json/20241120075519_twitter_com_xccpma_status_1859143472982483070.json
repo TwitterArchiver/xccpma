@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1859143472982483070",
+    "created_at": "2024-11-20T07:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T08:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859143472982483070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chinesev/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/chinesev/status/39143821669449728",
+          "start": 23,
+          "url": "https://t.co/yn4Jm78qzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859143472982483070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "39143821669449728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "过了十几年，五毛的身价还没变😂粉红太不值钱了 https://t.co/yn4Jm78qzb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1859143472982483070",
+        "created_at": "2024-11-20T07:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T08:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859143472982483070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chinesev/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/chinesev/status/39143821669449728",
+              "start": 23,
+              "url": "https://t.co/yn4Jm78qzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859143472982483070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "39143821669449728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过了十几年，五毛的身价还没变😂粉红太不值钱了 https://t.co/yn4Jm78qzb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "136148974",
+        "conversation_id": "39143821669449728",
+        "created_at": "2011-02-20T02:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2011-02-20T02:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "39143821669449728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "43654274",
+              "start": 23,
+              "username": "aiww"
+            },
+            {
+              "end": 53,
+              "id": "254576539",
+              "start": 41,
+              "username": "zhangzhijun"
+            },
+            {
+              "end": 60,
+              "id": "43654274",
+              "start": 55,
+              "username": "aiww"
+            },
+            {
+              "end": 70,
+              "id": "3229894466",
+              "start": 61,
+              "username": "paco2046"
+            },
+            {
+              "end": 78,
+              "id": "154438271",
+              "start": 71,
+              "username": "wwxmfj"
+            },
+            {
+              "end": 90,
+              "id": "87849051",
+              "start": 79,
+              "username": "lizhanchen"
+            },
+            {
+              "end": 97,
+              "id": "1216611804",
+              "start": 91,
+              "username": "atrrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "39143821669449728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "标准的五毛，也是最菜鸟段的五毛，无甚威胁RT @aiww: 看来茉莉招五毛。RT @zhangzhijun: @aiww @paco2046 @wwxmfj @lizhanchen @atrrr 中国稳定容易吗？家庭幸福不好吗？擦亮眼睛，看清挑事儿的幕后黑手，你们无非是美国等西方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "location": "西北政法大学",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 40,
+          "like_count": 124,
+          "listed_count": 0,
+          "tweet_count": 15
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-23T04:25:19.000Z",
+        "description": "",
+        "id": "136148974",
+        "name": "pei武",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/844617493/2006216101829_8552617_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 112
+        },
+        "username": "ChineseV",
+        "verified": false
+      }
+    ]
+  }
+}

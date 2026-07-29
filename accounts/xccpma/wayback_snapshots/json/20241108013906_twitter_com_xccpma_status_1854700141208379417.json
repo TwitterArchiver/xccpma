@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1854694858646081573",
+    "created_at": "2024-11-08T01:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T02:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854700141208379417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477342523555135490",
+          "start": 0,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854700141208379417",
+    "in_reply_to_user_id": "1477342523555135490",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854694858646081573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@torontobigface 当年内涵段子被封禁，它能不能起诉中国政府要求恢复业务🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1854694858646081573",
+        "created_at": "2024-11-08T01:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T02:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854700141208379417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477342523555135490",
+              "start": 0,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854700141208379417",
+        "in_reply_to_user_id": "1477342523555135490",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854694858646081573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@torontobigface 当年内涵段子被封禁，它能不能起诉中国政府要求恢复业务🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854694340343279623"
+          ]
+        },
+        "author_id": "1477342523555135490",
+        "conversation_id": "1854694858646081573",
+        "created_at": "2024-11-08T01:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T02:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854694858646081573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLrAF7FBRq",
+              "end": 113,
+              "expanded_url": "https://x.com/torontobigface/status/1854694858646081573/photo/1",
+              "media_key": "3_1854694340343279623",
+              "start": 90,
+              "url": "https://t.co/XLrAF7FBRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854694858646081573",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7187,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "加拿大政府以违反国家安全为由\n关闭了tiktok在加拿大的业务，禁止tiktok在加拿大展开商业活动\n但是并不禁止用户使用tiktok\n\n目前tiktok已经开始起诉加拿大政府了 https://t.co/XLrAF7FBRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "location": "西北政法大学",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 37,
+          "like_count": 65,
+          "listed_count": 0,
+          "tweet_count": 15
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNcDSW 投稿邮箱:Torontosquareface@gmail.com 电报群https://t.co/7fI2XsnFaH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNcDSW"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 91,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 68,
+                "url": "https://t.co/7fI2XsnFaH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrn0gco"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，温哥华",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1853739035732443497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633690,
+          "following_count": 243,
+          "like_count": 3988,
+          "listed_count": 2040,
+          "tweet_count": 15750
+        },
+        "url": "https://t.co/t3lSrn0gco",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

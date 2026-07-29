@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2079982271856271750",
+    "created_at": "2026-07-22T17:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079982271856271750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/donna1054957/s…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/donna1054957/status/2079576893398176009",
+          "start": 25,
+          "url": "https://t.co/PDAwpTvFaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079982271856271750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079576893398176009",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "您好，鉴于您磕过药，我们这边给您直接打似送太平间 https://t.co/PDAwpTvFaz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2079982271856271750",
+        "created_at": "2026-07-22T17:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079982271856271750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/donna1054957/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/donna1054957/status/2079576893398176009",
+              "start": 25,
+              "url": "https://t.co/PDAwpTvFaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079982271856271750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079576893398176009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您好，鉴于您磕过药，我们这边给您直接打似送太平间 https://t.co/PDAwpTvFaz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2079576893398176009",
+        "created_at": "2026-07-21T14:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079576893398176009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079576893398176009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4935,
+          "like_count": 155,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "您好，鉴于您磕过药，我们这边给你一颗肾的报价是10块钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 245,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 155,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

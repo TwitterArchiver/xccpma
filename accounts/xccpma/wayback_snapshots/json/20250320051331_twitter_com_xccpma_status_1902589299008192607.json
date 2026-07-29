@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1902584003414409549",
+    "created_at": "2025-03-20T05:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T06:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902589299008192607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902589299008192607",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902584003414409549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 不要在意这些，我年轻的时候啊经常玩女同志，他们很和我口味。继续糟蹋支人吧，用我的思想武装自己。\n——习近平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_1902582439215869952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmdUpe1bsAA4Ie_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1902584003414409549",
+        "created_at": "2025-03-20T05:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T06:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902589299008192607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902589299008192607",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902584003414409549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 不要在意这些，我年轻的时候啊经常玩女同志，他们很和我口味。继续糟蹋支人吧，用我的思想武装自己。\n——习近平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902582439215869952"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1902584003414409549",
+        "created_at": "2025-03-20T04:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T05:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902584003414409549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44yNZFQYX0",
+              "end": 164,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1902584003414409549/photo/1",
+              "media_key": "3_1902582439215869952",
+              "start": 141,
+              "url": "https://t.co/44yNZFQYX0"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1902265808832856290",
+              "start": 165,
+              "url": "https://t.co/6NulW5JbOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902584003414409549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "北海中学除了劣迹校长王建刚，还有女同学举报北海中学前副校长潘康林\n潘康林之子潘婷彧持续骚扰的一帮女学生，学生们多次报警无果。这些女学生中有的已被他连续骚扰五年，精神状态都出现了异常，有的放学被他跟踪骚扰无法正常生活⋯\n“保守估计三千不认识他与他无关的人都接收到他那恶心龌龊的文字”\n“以前我们一忍再忍，希望大事化小，小事化了，希望潘康林副校长能够改变，可以在百忙之中掏出一点时间来教育一下自己的孩子，解救一下曾经作为北中学子的许多名女学生！然而潘康林之子潘婷彧放肆不改，继续加剧对大家的骚扰。我们的多个社交媒体，微博、微信、知乎甚至于qq音乐，都有他的见缝插针的恶心言论。保守估计三千不认识他与他无关的人都接收到他那恶心龌龊的文字，他就像一个无孔不入的偷窥狂，在明处窥窃着他所谓“喜欢”的女生。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14820,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902265808832856290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "北海中学除了劣迹校长王建刚，还有女同学举报北海中学前副校长潘康林\n潘康林之子潘婷彧持续骚扰的一帮女学生，学生们多次报警无果。这些女学生中有的已被他连续骚扰五年，精神状态都出现了异常，有的放学被他跟踪骚扰无法正常生活⋯\n“保守估计三千不认识他与他无关的人都接收到他那恶心龌龊的文字” https://t.co/44yNZFQYX0 https://t.co/6NulW5JbOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 46,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961884,
+          "following_count": 941,
+          "like_count": 5939,
+          "listed_count": 8069,
+          "media_count": 25013,
+          "tweet_count": 31394
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

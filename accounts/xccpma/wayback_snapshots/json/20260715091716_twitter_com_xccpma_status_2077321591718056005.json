@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077321574794072064"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2077321591718056005",
+    "created_at": "2026-07-15T09:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077321591718056005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7QwMztsisI",
+          "end": 51,
+          "expanded_url": "https://x.com/xccpma/status/2077321591718056005/photo/1",
+          "media_key": "3_2077321574794072064",
+          "start": 28,
+          "url": "https://t.co/7QwMztsisI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077321591718056005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这家医院狩猎失败☹️\n\n主任说你们年轻人怎么都神经痛？ https://t.co/7QwMztsisI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_2077321574794072064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQg91XbEAAAY7E.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077321574794072064"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2077321591718056005",
+        "created_at": "2026-07-15T09:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077321591718056005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QwMztsisI",
+              "end": 51,
+              "expanded_url": "https://x.com/xccpma/status/2077321591718056005/photo/1",
+              "media_key": "3_2077321574794072064",
+              "start": 28,
+              "url": "https://t.co/7QwMztsisI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077321591718056005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这家医院狩猎失败☹️\n\n主任说你们年轻人怎么都神经痛？ https://t.co/7QwMztsisI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 189,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

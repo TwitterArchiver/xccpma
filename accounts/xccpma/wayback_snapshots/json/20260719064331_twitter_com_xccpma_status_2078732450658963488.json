@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078732405880594432"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2078636953269071960",
+    "created_at": "2026-07-19T06:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078732450658963488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1878828387369926656",
+          "start": 0,
+          "username": "hmj404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ph5PenMA24",
+          "end": 31,
+          "expanded_url": "https://x.com/xccpma/status/2078732450658963488/photo/1",
+          "media_key": "3_2078732405880594432",
+          "start": 8,
+          "url": "https://t.co/Ph5PenMA24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078732450658963488",
+    "in_reply_to_user_id": "1878828387369926656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078714874113536295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hmj404 https://t.co/Ph5PenMA24"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2078732405880594432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkkHAubIAAMceS.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078732405880594432"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2078636953269071960",
+        "created_at": "2026-07-19T06:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078732450658963488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878828387369926656",
+              "start": 0,
+              "username": "hmj404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ph5PenMA24",
+              "end": 31,
+              "expanded_url": "https://x.com/xccpma/status/2078732450658963488/photo/1",
+              "media_key": "3_2078732405880594432",
+              "start": 8,
+              "url": "https://t.co/Ph5PenMA24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078732450658963488",
+        "in_reply_to_user_id": "1878828387369926656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078714874113536295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hmj404 https://t.co/Ph5PenMA24"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878828387369926656",
+        "conversation_id": "2078636953269071960",
+        "created_at": "2026-07-19T05:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078714874113536295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078714874113536295",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078636953269071960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 写字很好看呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 219,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T15:36:29.000Z",
+        "description": "我自己的试卷 乱写也是满分/我是负能推请block我/联系方式https://t.co/dj3lGEzAi7 / ⬇️提问箱/无键政内容",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hmj404",
+                "end": 54,
+                "expanded_url": "http://t.me/hmj404",
+                "start": 31,
+                "url": "https://t.co/dj3lGEzAi7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hmj404",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hmj404",
+                "start": 0,
+                "url": "https://t.co/mdOBMXZ5La"
+              }
+            ]
+          }
+        },
+        "id": "1878828387369926656",
+        "location": "火星",
+        "name": "烬欢Ashley",
+        "pinned_tweet_id": "2070172337341960441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066008787765624834/6pa3K0At_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 101,
+          "like_count": 2712,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/mdOBMXZ5La",
+        "username": "hmj404",
+        "verified": false
+      }
+    ]
+  }
+}

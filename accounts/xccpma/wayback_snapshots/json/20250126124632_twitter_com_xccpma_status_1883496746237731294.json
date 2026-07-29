@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1883494777683108207",
+    "created_at": "2025-01-26T12:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T13:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883496746237731294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883496746237731294",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883494777683108207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 前面忘了，中国人没有自由，只能靠炸包子表示不满，史称爆炸革命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1883494777683108207",
+        "created_at": "2025-01-26T12:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T13:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883496746237731294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883496746237731294",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883494777683108207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 前面忘了，中国人没有自由，只能靠炸包子表示不满，史称爆炸革命"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883492678949634048"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1883494777683108207",
+        "created_at": "2025-01-26T12:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T13:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883494777683108207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cr9ZSb5ET2",
+              "end": 125,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1883494777683108207/video/1",
+              "media_key": "7_1883492678949634048",
+              "start": 102,
+              "url": "https://t.co/Cr9ZSb5ET2"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1883443469613723769",
+              "start": 126,
+              "url": "https://t.co/Ytink831fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883494777683108207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 9762,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883443469613723769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沈阳大东副食品商场爆炸瞬间画面\n视频中，一名黑衣戴帽男子疑似在一辆电动车前等待了片刻，并弯腰进行某些操作。他的操作引起旁边男子的注意。\n在黑衣人离开几米后，男子似乎察觉不对准备离开，但随后爆炸瞬间发生。 https://t.co/Cr9ZSb5ET2 https://t.co/Ytink831fu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 46,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 29
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1878245513012892001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912446,
+          "following_count": 923,
+          "like_count": 5651,
+          "listed_count": 8007,
+          "media_count": 22570,
+          "tweet_count": 28869
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

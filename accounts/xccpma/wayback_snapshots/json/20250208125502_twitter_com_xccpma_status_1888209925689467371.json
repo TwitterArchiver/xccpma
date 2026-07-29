@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1888208469913714877",
+    "created_at": "2025-02-08T12:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T13:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888209925689467371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888209925689467371",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888208469913714877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 敢跳楼不敢献忠？鉴定为还是练少了😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1888208469913714877",
+        "created_at": "2025-02-08T12:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T13:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888209925689467371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888209925689467371",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888208469913714877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 敢跳楼不敢献忠？鉴定为还是练少了😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260553941714186241",
+        "conversation_id": "1888208469913714877",
+        "created_at": "2025-02-08T12:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T13:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888208469913714877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888208469913714877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "山西省大同市浑源县浑源中学学生投稿\n李老师你好，我是山西省大同市浑源县浑源中学的一名学生，我们这里是国家级贫困县。在李老师为这些高中发声后，我深有感触，也感谢李老师能让大家知道，在抖音发布视频均被该校举报下架，今天我来向李老师控诉浑源中学对学生和家长的压榨。\n今年大年初四，即2月1日 ，我们学校便开学了，期间放假就是不到一周的时间，作息就更不用提了，就是早6晚11，很典型。而是在这样一个贫困的地区，学校仍收取高额托管费，在双减开始后，国家允许收费托管，而我们这显然高出了收费标准的几十倍，我们是两周放一次假，也就是一个月托管四天，之前学校经常不定期收取托管费用300-400元，并且从未公开托管时间，单价，明细，想怎么收怎么收，一天单价接近一百元，学校每个年级有1000多人，共3000多人，托管费用难以想象，不知道进了谁的口袋里。\n在暑假托管的一个月结束后，难以想象高一也要托管，提前开学，托管费用从来都是口头，不在任何微信群留痕迹，在开学后的一次家长会，未事先说明收费，进去后便让家长缴纳托管费3000元，全校这就是900w，实在难以想象，国家也不对这部分钱进行监管和审查，据说上面查到我校有巨额资金流动，但也之后查完不了了之。在现在如此差的经济形势之下，学校老师，领导依然剥削学生家长，让社会钱财的分配更加不合理，就进了部分人的口袋，据学校老师所说托管期间一天上一节课有400元的收入，所以在我们这个国家级贫困县，有很多老师收入也有一万以上，这给学生家长造成了极大的压力，我们这有很多家长都是务农的，根本没什么收入，就这样，全县都很穷，只有这所学校的老师，领导盆满钵满。\n再者，该校极不重视学生的身体和心理健康，建立学生规范行为规范，处处扣分，事事违反扣分，来训练学生听话，扣到五十分强制开除，而被开除的一般都是没背景的，没关系的，有关系的过两天就回来了。真的可笑。\n在两名学生尝试跳楼后，校长便把全校的窗户都封死了，以免阻挡他的升官发财之路。此后便没有任何人性化的将该两名学生开除了，哈哈哈哈，我是第一次见。之后再也没人敢有这样的举动。\n再一个，高考成绩提升的原因也是高考考场秩序极乱，我们本地人，及考生都知道，由于高考主场优势，早就在考场模拟完了，也知道同校的谁跟自己坐在一起，并不是由如此疯狂的托管时间来提升的成绩。\n更无奈的是自己只是知道这一切，却无力改变，便更痛苦了。希望大家能知道这所学校所作所为。\n\n此致"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3232,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "山西省大同市浑源县浑源中学学生投稿\n李老师你好，我是山西省大同市浑源县浑源中学的一名学生，我们这里是国家级贫困县。在李老师为这些高中发声后，我深有感触，也感谢李老师能让大家知道，在抖音发布视频均被该校举报下架，今天我来向李老师控诉浑源中学对学生和家长的压榨。\n今年大年初四，即2月1日…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 49,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 30
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924430,
+          "following_count": 936,
+          "like_count": 5781,
+          "listed_count": 8027,
+          "media_count": 23035,
+          "tweet_count": 29354
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

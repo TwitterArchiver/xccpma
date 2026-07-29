@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1859403982940275086",
+    "created_at": "2024-11-22T01:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T02:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859767290319003665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1598958815436836865",
+          "start": 0,
+          "username": "lnxhn1"
+        },
+        {
+          "end": 22,
+          "id": "1612878425978699776",
+          "start": 8,
+          "username": "shenmiren0000"
+        },
+        {
+          "end": 39,
+          "id": "1249525383797456898",
+          "start": 23,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859767290319003665",
+    "in_reply_to_user_id": "1598958815436836865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859743286157770802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnxhn1 @shenmiren0000 @jakobsonradical 贱畜翻你妈墙呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1859403982940275086",
+        "created_at": "2024-11-22T01:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T02:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859767290319003665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1598958815436836865",
+              "start": 0,
+              "username": "lnxhn1"
+            },
+            {
+              "end": 22,
+              "id": "1612878425978699776",
+              "start": 8,
+              "username": "shenmiren0000"
+            },
+            {
+              "end": 39,
+              "id": "1249525383797456898",
+              "start": 23,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859767290319003665",
+        "in_reply_to_user_id": "1598958815436836865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859743286157770802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnxhn1 @shenmiren0000 @jakobsonradical 贱畜翻你妈墙呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598958815436836865",
+        "conversation_id": "1859403982940275086",
+        "created_at": "2024-11-21T23:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T00:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859743286157770802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1612878425978699776",
+              "start": 0,
+              "username": "shenmiren0000"
+            },
+            {
+              "end": 31,
+              "id": "1249525383797456898",
+              "start": 15,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859743286157770802",
+        "in_reply_to_user_id": "1612878425978699776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859420773942993095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenmiren0000 @jakobsonradical 牲口，还生为男人最重要的欲望，你是牲口你知道吗，牲口都不会有你的想法，你是猪，你是畜生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "location": "西北政法大学",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 41,
+          "like_count": 133,
+          "listed_count": 0,
+          "tweet_count": 16
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T08:34:32.000Z",
+        "description": "色蓝",
+        "id": "1598958815436836865",
+        "location": "Fujian",
+        "name": "性要有爱才好做",
+        "pinned_tweet_id": "1605742225056337921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612058303567216640/_B1qBxtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 78,
+          "like_count": 43,
+          "listed_count": 0,
+          "tweet_count": 56
+        },
+        "username": "lnxhn1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T18:26:18.000Z",
+        "description": "攜手世界團結一切可以團結的力量消滅反人類共匪！",
+        "id": "1612878425978699776",
+        "name": "🇹🇼神秘人🇺🇸🇯🇵🇮🇱🇺🇦",
+        "pinned_tweet_id": "1857328539504169315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758896127376805888/TbM1qNOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 666,
+          "like_count": 12442,
+          "listed_count": 5,
+          "tweet_count": 5552
+        },
+        "username": "shenmiren0000",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221238,
+          "following_count": 1495,
+          "like_count": 43763,
+          "listed_count": 908,
+          "tweet_count": 23827
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

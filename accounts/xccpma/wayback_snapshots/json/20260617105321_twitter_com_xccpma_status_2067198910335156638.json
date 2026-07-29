@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2067147073879986400",
+    "created_at": "2026-06-17T10:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067198910335156638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1834129912061411328",
+          "start": 0,
+          "username": "biqun42094"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067198910335156638",
+    "in_reply_to_user_id": "1834129912061411328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067194146570522775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biqun42094 就说神经痛，吃了别的还疼，把之前的盒子给他看，我失败几次才开到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2067147073879986400",
+        "created_at": "2026-06-17T10:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067198910335156638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1834129912061411328",
+              "start": 0,
+              "username": "biqun42094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067198910335156638",
+        "in_reply_to_user_id": "1834129912061411328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067194146570522775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biqun42094 就说神经痛，吃了别的还疼，把之前的盒子给他看，我失败几次才开到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834129912061411328",
+        "conversation_id": "2067147073879986400",
+        "created_at": "2026-06-17T10:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067194146570522775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067194146570522775",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067147073879986400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 老大你怎么开的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 51,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T07:20:31.000Z",
+        "description": "",
+        "id": "1834129912061411328",
+        "name": "Tell me",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065051624377298944/Ebgkmpi0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 67,
+          "like_count": 1165,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "biqun42094",
+        "verified": false
+      }
+    ]
+  }
+}

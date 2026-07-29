@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1886407986387571148",
+    "created_at": "2025-02-03T13:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T14:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886408695203926396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886408695203926396",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886407986387571148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 嗨，维权还是得靠境外势力，你们负责上升，它们负责曲折😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1886407986387571148",
+        "created_at": "2025-02-03T13:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T14:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886408695203926396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886408695203926396",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886407986387571148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 嗨，维权还是得靠境外势力，你们负责上升，它们负责曲折😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886407823468183552"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1886407986387571148",
+        "created_at": "2025-02-03T13:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T14:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886407986387571148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "611Study 是指“早6点上学，晚11点放学，生病 ICU”。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。 “611”学制，指的是一种近年来中国初高中普遍执行的上课模式（早上 6 点到校 ~ 晚上 11 点放学，每周 6 天甚至 7 天）。在一个实行“611”学制的学校上课就意味着每周至少要在学校学习 102 个小时。 611Study.ICU 是中国不堪重负超时学习学生们的呐喊，我们欢迎其他领域、其他国家的人士加入讨论。 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。 此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。 在此处查看反 996 许可证下的 完整项目列表 该草案改编自 MIT 许可证，如需更多信息请查看 Wiki。此许可证旨在与所有主流开源许可证兼容。 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 Anti-996-License-1.0。感谢你的帮助。",
+              "display_url": "611Study.ICU",
+              "end": 28,
+              "expanded_url": "http://611Study.ICU",
+              "start": 5,
+              "status": 200,
+              "title": "611Study.ICU",
+              "unwound_url": "http://611Study.ICU",
+              "url": "https://t.co/3p82wc97Sr"
+            },
+            {
+              "display_url": "pic.x.com/kaQGjHITAQ",
+              "end": 70,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1886407986387571148/photo/1",
+              "media_key": "3_1886407823468183552",
+              "start": 47,
+              "url": "https://t.co/kaQGjHITAQ"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1886406422042165708",
+              "start": 71,
+              "url": "https://t.co/YCejT0TKqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886407986387571148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1276,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886406422042165708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我们发起https://t.co/3p82wc97Sr之后，有上榜学校开学一天后宣布放假。 https://t.co/kaQGjHITAQ https://t.co/YCejT0TKqn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 50,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 29
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917180,
+          "following_count": 931,
+          "like_count": 5688,
+          "listed_count": 8021,
+          "media_count": 22862,
+          "tweet_count": 29171
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

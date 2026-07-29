@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1897986337644429347",
+    "created_at": "2025-03-07T12:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T13:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897990712945213646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897990712945213646",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897986337644429347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 如果在驾驶舱随便按几下或者推个杆🤓☝️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1897955535187484672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlbkgOJWIAAk8mj.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1897986337644429347",
+        "created_at": "2025-03-07T12:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T13:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897990712945213646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897990712945213646",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897986337644429347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 如果在驾驶舱随便按几下或者推个杆🤓☝️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897955535187484672"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1897986337644429347",
+        "created_at": "2025-03-07T12:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T13:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897986337644429347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "这是由 「$Li 社区」与「李老师不是你老师」发起的公益项目，我们希望调查曝光中国国内存在的一切剥削打工人的恶劣行为！拒绝996！拒绝无休止加班！拒绝剥削！拒绝压榨！拒绝压迫！拒绝一切不平等的待遇！",
+              "display_url": "牛马.icu",
+              "end": 23,
+              "expanded_url": "https://xn--11xs86f.icu",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1895792430517284864/gROj11en?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1895792430517284864/gROj11en?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "牛马.ICU",
+              "unwound_url": "https://www.xn--11xs86f.icu/zh-CN",
+              "url": "https://t.co/XzzeBBHuDN"
+            },
+            {
+              "display_url": "pic.x.com/PWlme5l6wp",
+              "end": 170,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1897986337644429347/photo/1",
+              "media_key": "3_1897955535187484672",
+              "start": 147,
+              "url": "https://t.co/PWlme5l6wp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897986337644429347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5184,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XzzeBBHuDN 深航员工投稿：\n自新领导上任，免除了飞行员一切待遇，包括加机组和疗养假等。造成很多飞行员休息时无法回家探亲。\n并且公司提供的员工优惠票比平台自行购票还贵\n飞行员无任何节假日休息，只有每年8-15天假期。\n繁杂规定极多，稍有抱怨就会停飞，民怨极重 https://t.co/PWlme5l6wp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 48,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948861,
+          "following_count": 937,
+          "like_count": 5841,
+          "listed_count": 8054,
+          "media_count": 24256,
+          "tweet_count": 30601
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

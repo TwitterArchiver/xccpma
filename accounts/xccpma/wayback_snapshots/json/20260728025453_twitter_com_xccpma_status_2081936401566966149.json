@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081936353139503104",
+        "3_2081936353139490816"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081936401566966149",
+    "created_at": "2026-07-28T02:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081936401566966149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qGtN0TeAbH",
+          "end": 61,
+          "expanded_url": "https://x.com/xccpma/status/2081936401566966149/photo/1",
+          "media_key": "3_2081936353139503104",
+          "start": 38,
+          "url": "https://t.co/qGtN0TeAbH"
+        },
+        {
+          "display_url": "pic.x.com/qGtN0TeAbH",
+          "end": 61,
+          "expanded_url": "https://x.com/xccpma/status/2081936401566966149/photo/1",
+          "media_key": "3_2081936353139490816",
+          "start": 38,
+          "url": "https://t.co/qGtN0TeAbH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081936401566966149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "严禁医药代表来3楼办公室找张主任\n\n顺便尝一下新上的雪糕😋这里好像都挺贵的 https://t.co/qGtN0TeAbH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081936353139503104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSGFSXaMAAqwQr.jpg",
+        "width": 1617
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081936353139490816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSGFSXaAAAhLov.jpg",
+        "width": 1612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081936353139503104",
+            "3_2081936353139490816"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081936401566966149",
+        "created_at": "2026-07-28T02:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081936401566966149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGtN0TeAbH",
+              "end": 61,
+              "expanded_url": "https://x.com/xccpma/status/2081936401566966149/photo/1",
+              "media_key": "3_2081936353139503104",
+              "start": 38,
+              "url": "https://t.co/qGtN0TeAbH"
+            },
+            {
+              "display_url": "pic.x.com/qGtN0TeAbH",
+              "end": 61,
+              "expanded_url": "https://x.com/xccpma/status/2081936401566966149/photo/1",
+              "media_key": "3_2081936353139490816",
+              "start": 38,
+              "url": "https://t.co/qGtN0TeAbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081936401566966149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严禁医药代表来3楼办公室找张主任\n\n顺便尝一下新上的雪糕😋这里好像都挺贵的 https://t.co/qGtN0TeAbH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2080175558504144896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 284,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

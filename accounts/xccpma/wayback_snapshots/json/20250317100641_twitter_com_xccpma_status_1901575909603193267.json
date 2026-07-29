@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1901564897219035203",
+    "created_at": "2025-03-17T10:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T11:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901575909603193267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901575909603193267",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901564897219035203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 为什么不治？没有抢救吗？太没责任心了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25133,
+        "height": 848,
+        "media_key": "7_1901564299639963648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1901564299639963648/pu/img/3Er9w5-KvQIBqQEc.jpg",
+        "public_metrics": {
+          "view_count": 8761
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901564299639963648/pu/vid/avc1/320x564/r1_UAlXmcYmSWbr2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901564299639963648/pu/vid/avc1/480x848/35xr8hkMKkyFxJ_e.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1901564299639963648/pu/pl/uU94D8T-n9N-6cjs.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 360,
+        "media_key": "3_1901564758396166145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmO3EqWa4AE9ade.png",
+        "width": 640
+      },
+      {
+        "height": 576,
+        "media_key": "3_1901564836796133376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmO3JOabcAANhbP.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1901564897219035203",
+        "created_at": "2025-03-17T10:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T11:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901575909603193267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901575909603193267",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901564897219035203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 为什么不治？没有抢救吗？太没责任心了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1901564299639963648",
+            "3_1901564758396166145",
+            "3_1901564836796133376"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1901564897219035203",
+        "created_at": "2025-03-17T09:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T10:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901564897219035203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LfJWXopitI",
+              "end": 98,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1901564897219035203/video/1",
+              "media_key": "7_1901564299639963648",
+              "start": 75,
+              "url": "https://t.co/LfJWXopitI"
+            },
+            {
+              "display_url": "pic.x.com/LfJWXopitI",
+              "end": 98,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1901564897219035203/video/1",
+              "media_key": "3_1901564758396166145",
+              "start": 75,
+              "url": "https://t.co/LfJWXopitI"
+            },
+            {
+              "display_url": "pic.x.com/LfJWXopitI",
+              "end": 98,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1901564897219035203/video/1",
+              "media_key": "3_1901564836796133376",
+              "start": 75,
+              "url": "https://t.co/LfJWXopitI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901564897219035203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 18977,
+          "like_count": 104,
+          "quote_count": 4,
+          "reply_count": 26,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "3月16日，香港。一名中年男子途径穗禾路附近时，遭到两名约20岁的刀手追砍，刀手行凶后登上一辆的士逃走。被捅中年男子送医后不治身亡，现场有大量血迹。 https://t.co/LfJWXopitI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 46,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958860,
+          "following_count": 939,
+          "like_count": 5893,
+          "listed_count": 8057,
+          "media_count": 24827,
+          "tweet_count": 31203
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

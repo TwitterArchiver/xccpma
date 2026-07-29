@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1899785057520505054",
+    "created_at": "2025-03-12T11:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T12:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899787004902023477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899787004902023477",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899785057520505054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 快献忠吧等不及了😍沙几个黑皮才叫为民除害"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9822,
+        "height": 1042,
+        "media_key": "7_1899784395139305472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1899784395139305472/pu/img/HBfTPv-YOL5VpwuI.jpg",
+        "public_metrics": {
+          "view_count": 1256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899784395139305472/pu/vid/avc1/320x462/unDil5LijWt10aKI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899784395139305472/pu/vid/avc1/480x694/BUqVypIppxTXg4D2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899784395139305472/pu/vid/avc1/720x1042/FUc68IIxJgReQmGV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1899784395139305472/pu/pl/Bru1BdCFSBLuxumV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 32089,
+        "height": 960,
+        "media_key": "7_1899784406954323968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1899784406954323968/pu/img/cGfKLVq9yQzZtg03.jpg",
+        "public_metrics": {
+          "view_count": 387
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899784406954323968/pu/vid/avc1/320x564/rs0G5aFS2CmzlvIf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899784406954323968/pu/vid/avc1/480x846/8L1oustGb6ltl9Mh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899784406954323968/pu/vid/avc1/544x960/NEMHvJ0dCrocfWck.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1899784406954323968/pu/pl/sF-FLQFpzu88q8QH.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 965,
+        "media_key": "3_1899784426525011968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl1j3tTXsAAlXv4.jpg",
+        "width": 500
+      },
+      {
+        "duration_ms": 12561,
+        "height": 1280,
+        "media_key": "7_1899784492384190464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1899784492384190464/pu/img/jIvy3SQJcm9VfwRb.jpg",
+        "public_metrics": {
+          "view_count": 191
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899784492384190464/pu/vid/avc1/320x568/RnfjjS5KzaDR3zCA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899784492384190464/pu/vid/avc1/480x852/O7cvptTIm0PcK807.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899784492384190464/pu/vid/avc1/720x1280/sSfq4z3PLOpJCq81.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1899784492384190464/pu/pl/30nN_gFrNy4xEUki.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1899785057520505054",
+        "created_at": "2025-03-12T11:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T12:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899787004902023477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899787004902023477",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899785057520505054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 快献忠吧等不及了😍沙几个黑皮才叫为民除害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1899784395139305472",
+            "7_1899784406954323968",
+            "3_1899784426525011968",
+            "7_1899784492384190464"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1899785057520505054",
+        "created_at": "2025-03-12T11:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T12:29:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899784736006136210",
+          "1899785057520505054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HF15RPiIK2",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1899785057520505054/video/1",
+              "media_key": "7_1899784395139305472",
+              "start": 121,
+              "url": "https://t.co/HF15RPiIK2"
+            },
+            {
+              "display_url": "pic.x.com/HF15RPiIK2",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1899785057520505054/video/1",
+              "media_key": "7_1899784406954323968",
+              "start": 121,
+              "url": "https://t.co/HF15RPiIK2"
+            },
+            {
+              "display_url": "pic.x.com/HF15RPiIK2",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1899785057520505054/video/1",
+              "media_key": "3_1899784426525011968",
+              "start": 121,
+              "url": "https://t.co/HF15RPiIK2"
+            },
+            {
+              "display_url": "pic.x.com/HF15RPiIK2",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1899785057520505054/video/1",
+              "media_key": "7_1899784492384190464",
+              "start": 121,
+              "url": "https://t.co/HF15RPiIK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899785057520505054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "3月12日，广州多位市民拍到交警暴力执法的现象。视频显示，警察持警棍追逐骑手，还有的骑手被按在地上。网传一则聊天截图称，“3月12日起进行电动车大整治”“明天市局区域的领导都会介入现场参与” “逃卡冲卡升级拘留15天，殴打民警升级刑事责任”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2897,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "3月12日，广州多位市民拍到交警暴力执法的现象。视频显示，警察持警棍追逐骑手，还有的骑手被按在地上。网传一则聊天截图称，“3月12日起进行电动车大整治”“明天市局区域的领导都会介入现场参与” “逃卡冲卡升级拘留15天，殴打民警升级刑事责任” https://t.co/HF15RPiIK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 47,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953898,
+          "following_count": 937,
+          "like_count": 5868,
+          "listed_count": 8049,
+          "media_count": 24540,
+          "tweet_count": 30898
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

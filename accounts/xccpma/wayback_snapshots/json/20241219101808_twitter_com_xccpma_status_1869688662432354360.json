@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1869688662432354360",
+    "created_at": "2024-12-19T10:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T11:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869688662432354360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lilaoshizuikea…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/lilaoshizuikeai/status/1643172844556230656",
+          "start": 16,
+          "url": "https://t.co/VdN5mZuVTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869688662432354360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1643172844556230656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "民主，民主什么的，这不叫诈骗😤 https://t.co/VdN5mZuVTt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1869688662432354360",
+        "created_at": "2024-12-19T10:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T11:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869688662432354360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lilaoshizuikea…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/lilaoshizuikeai/status/1643172844556230656",
+              "start": 16,
+              "url": "https://t.co/VdN5mZuVTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869688662432354360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1643172844556230656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "民主，民主什么的，这不叫诈骗😤 https://t.co/VdN5mZuVTt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586332050528915457",
+        "conversation_id": "1643172844556230656",
+        "created_at": "2023-04-04T08:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-04T09:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1643172844556230656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1643172844556230656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 93827,
+          "like_count": 476,
+          "quote_count": 46,
+          "reply_count": 57,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "推特上的这只大黄狗盯着我，让我感觉到了所有在币圈讨论技术性的人全部都彻底失败。\n我关注的几个大佬说的都很对，币圈的本质就是诈骗，看不清这一点的话就会亏钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 41,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 25
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600861407104335873/PIQM5Ii9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234036,
+          "following_count": 661,
+          "like_count": 4668,
+          "listed_count": 1278,
+          "media_count": 1307,
+          "tweet_count": 6629
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

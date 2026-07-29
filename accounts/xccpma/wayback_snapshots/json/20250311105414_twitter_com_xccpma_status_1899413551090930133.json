@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1899408146558275972",
+    "created_at": "2025-03-11T10:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T11:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899413551090930133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "791197",
+          "start": 0,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899413551090930133",
+    "in_reply_to_user_id": "791197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899408146558275972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbcchinese 统一之后台湾人民就能享受全过程民主和总书记的英明领导了😎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1899408032850976768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlwNitmbIAAffU1.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1899408146558275972",
+        "created_at": "2025-03-11T10:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T11:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899413551090930133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899413551090930133",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899408146558275972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 统一之后台湾人民就能享受全过程民主和总书记的英明领导了😎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899408032850976768"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1899408146558275972",
+        "created_at": "2025-03-11T10:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T11:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899408146558275972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIMlMNEVJe",
+              "end": 165,
+              "expanded_url": "https://x.com/bbcchinese/status/1899408146558275972/photo/1",
+              "media_key": "3_1899408032850976768",
+              "start": 142,
+              "url": "https://t.co/VIMlMNEVJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899408146558275972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 724,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 701,
+                "url": "https://t.co/xPNsBSoGP4"
+              }
+            ]
+          },
+          "text": "在中国外长王毅强调台湾是“中国台湾省”后，多位台湾明星在中国社交平台微博上转发中国官媒的宣传图片，响应“中国台湾省”的称呼，这在台湾社会引发争议。\n\n中国外交部长王毅在3月7日举行的“两会”外长记者会上强调，“台湾在联合国的唯一称谓就是中国台湾省”。随后，该话题登上了微博热搜榜。\n\n中央电视台等官方媒体同日推出宣传海报，上面写着“台湾必归”和“台湾从来不是一个国家，过去不是，今后更绝无可能”字样，呼吁网民转发。\n\n央视新闻在次日再以“台湾艺人带中国台湾省话题发博”为话题，发布了多张台湾艺人转发该海报的社交媒体帖子截图，其中包含侯佩岑、陈震、陈乔恩、陈妍希、张韶涵、赵又廷和欧阳娜娜等人。\n\n该事件在台湾引起巨大波澜。有批评者指责这些台湾艺人“为了钱什么都可出卖”，还有人称：“快移民吧”。\n\n台湾政府也对这些艺人表示“最严厉的谴责“。大陆委员会在一份声明中称：“少数台湾演艺人员为求个人在陆发展利益，多次唱和中共官方损害我国家主权，严重伤害台湾民众情感。”\n\n“中共长期以政治意识形态控制艺文影视环境，审查演艺人员相关言行，每逢特定时刻，就会动员台湾艺人政治表态，此种蛮横作法，凸显两岸体制根本差异。”陆委会的声明写道。\n\n陆委会还表示，将调查这些艺人是否与中国大陆的“党政军”有合作行为，或是否持有中国大陆的身份证。\n\n近年来，许多台湾娱乐明星和艺人发现自己被裹挟在日益加剧的两岸政治紧张局势之中。\n\n他们常常被尖锐的中国网友要求在国庆节等重要日子表态支持“祖国统一”。一些没有表态的台湾艺人被指责为“台独”，受到官方和民间的抵制。而许多这样做的明星则在台湾被指责为“舔共艺人”。\n\n更多新闻：https://t.co/xPNsBSoGP4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8234,
+          "like_count": 16,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在中国外长王毅强调台湾是“中国台湾省”后，多位台湾明星在中国社交平台微博上转发中国官媒的宣传图片，响应“中国台湾省”的称呼，这在台湾社会引发争议。\n\n中国外交部长王毅在3月7日举行的“两会”外长记者会上强调，“台湾在联合国的唯一称谓就是中国台湾省”。随后，该话题登上了微博热搜榜。… https://t.co/VIMlMNEVJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 47,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 16
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4819783,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11612,
+          "media_count": 23113,
+          "tweet_count": 152172
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

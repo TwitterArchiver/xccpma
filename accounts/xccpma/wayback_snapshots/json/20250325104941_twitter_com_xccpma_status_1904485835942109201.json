@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1904471636134576545",
+    "created_at": "2025-03-25T10:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T11:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904485835942109201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        },
+        {
+          "end": 22,
+          "id": "1681992776626602014",
+          "start": 11,
+          "username": "_XnanX_418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904485835942109201",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904471636134576545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay @_XnanX_418 这是个骗子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1904471636134576545",
+        "created_at": "2025-03-25T10:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T11:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904485835942109201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 22,
+              "id": "1681992776626602014",
+              "start": 11,
+              "username": "_XnanX_418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904485835942109201",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904471636134576545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @_XnanX_418 这是个骗子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1904471636134576545",
+        "created_at": "2025-03-25T09:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T10:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904471636134576545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904471636134576545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己什么都懂点但什么都懂的不多\n难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 44,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5998,
+          "following_count": 847,
+          "like_count": 39082,
+          "listed_count": 29,
+          "media_count": 680,
+          "tweet_count": 15409
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T11:41:43.000Z",
+        "description": "🚪41.8  女友→@LannnOrz 07年/休学/od/负能量/疯话闲话  欢迎找我聊天/我会视奸你们每一个人👁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "LannnOrz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/gzA0tNZPKC"
+              }
+            ]
+          }
+        },
+        "id": "1681992776626602014",
+        "location": "距你2.6公里",
+        "name": "Psy",
+        "pinned_tweet_id": "1903718213697085766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896596115887357952/R3GyOOEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 59,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/gzA0tNZPKC",
+        "username": "_XnanX_418",
+        "verified": false
+      }
+    ]
+  }
+}

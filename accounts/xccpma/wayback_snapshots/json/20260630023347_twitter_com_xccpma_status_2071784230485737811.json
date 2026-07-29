@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071784222935912448"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2071784230485737811",
+    "created_at": "2026-06-30T02:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T03:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071784230485737811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K1Q3z5wBUE",
+          "end": 68,
+          "expanded_url": "https://x.com/xccpma/status/2071784230485737811/photo/1",
+          "media_key": "3_2071784222935912448",
+          "start": 45,
+          "url": "https://t.co/K1Q3z5wBUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071784230485737811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做了个危险操作bingo，连成线你就是传奇耐杀王😢\n\n（每一种都极危险勿模仿，请珍爱生命 https://t.co/K1Q3z5wBUE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_2071784222935912448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB0xiNakAAfS5b.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071784222935912448"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2071784230485737811",
+        "created_at": "2026-06-30T02:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071784230485737811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1Q3z5wBUE",
+              "end": 68,
+              "expanded_url": "https://x.com/xccpma/status/2071784230485737811/photo/1",
+              "media_key": "3_2071784222935912448",
+              "start": 45,
+              "url": "https://t.co/K1Q3z5wBUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071784230485737811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了个危险操作bingo，连成线你就是传奇耐杀王😢\n\n（每一种都极危险勿模仿，请珍爱生命 https://t.co/K1Q3z5wBUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 122,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

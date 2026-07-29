@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2079961694168666245",
+    "created_at": "2026-07-22T16:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079971594462781468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039188116443947009",
+          "start": 0,
+          "username": "xichangan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079971594462781468",
+    "in_reply_to_user_id": "2039188116443947009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079961694168666245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xichangan8964 这是毕淑敏红处方后面部分的一句"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079961668403044352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2CHgeXoAAfjc3.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2079961694168666245",
+        "created_at": "2026-07-22T16:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079971594462781468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039188116443947009",
+              "start": 0,
+              "username": "xichangan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079971594462781468",
+        "in_reply_to_user_id": "2039188116443947009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079961694168666245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xichangan8964 这是毕淑敏红处方后面部分的一句"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079961668403044352"
+          ]
+        },
+        "author_id": "2039188116443947009",
+        "conversation_id": "2079961694168666245",
+        "created_at": "2026-07-22T16:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079961694168666245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojIRQzUvv9",
+              "end": 46,
+              "expanded_url": "https://x.com/xichangan8964/status/2079961694168666245/photo/1",
+              "media_key": "3_2079961668403044352",
+              "start": 23,
+              "url": "https://t.co/ojIRQzUvv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079961694168666245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱你胜过王老师，恨你胜过思诺思（有引用改编） https://t.co/ojIRQzUvv9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 245,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T03:49:46.000Z",
+        "description": "左右没有什么绝对，所以绝对超越左右。\n爱人永远留在1995年夏。https://t.co/k4XAsdVZAY\n本号含王沪宁元素极多，似推似梦似公似嬷都无所谓，学术研究也有，史料考究也有，只爱你哦沪宁😋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/works/78047201",
+                "end": 55,
+                "expanded_url": "https://archiveofourown.org/works/78047201",
+                "start": 32,
+                "url": "https://t.co/k4XAsdVZAY"
+              }
+            ]
+          }
+        },
+        "id": "2039188116443947009",
+        "location": "中南海某处垃圾桶中",
+        "name": "西长安街右转",
+        "pinned_tweet_id": "2039403921307787527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039310867985313792/ZXUZ_0Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 305,
+          "like_count": 6314,
+          "listed_count": 1,
+          "media_count": 902,
+          "tweet_count": 3396
+        },
+        "url": "",
+        "username": "xichangan8964",
+        "verified": false
+      }
+    ]
+  }
+}

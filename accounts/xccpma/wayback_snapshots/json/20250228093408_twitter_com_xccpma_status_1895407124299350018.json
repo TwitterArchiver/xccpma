@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1895403672739389692",
+    "created_at": "2025-02-28T09:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T10:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895407124299350018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895407124299350018",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895403672739389692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 某个人在1949至1976年间杀死3000万人，连自己的儿子都不放过，他什么时候被审判？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1501,
+        "media_key": "3_1895403415108198400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3TXR-WIAAn91b.jpg",
+        "width": 1290
+      },
+      {
+        "duration_ms": 524446,
+        "height": 720,
+        "media_key": "7_1895403503708983297",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1895403503708983297/pu/img/mq-hrYy54zvP7VGS.jpg",
+        "public_metrics": {
+          "view_count": 2674
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895403503708983297/pu/vid/avc1/480x270/jYdzJmzjY7VphlBw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895403503708983297/pu/vid/avc1/640x360/0_4tFfxK3hJoQcWb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895403503708983297/pu/vid/avc1/1280x720/eF_IHmklz8yhlqFi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1895403503708983297/pu/pl/TqgsdOaUAaPFQz78.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1467,
+        "media_key": "3_1895403522440470528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3Tdh0WoAAdkxb.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1895403672739389692",
+        "created_at": "2025-02-28T09:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T10:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895407124299350018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895407124299350018",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895403672739389692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 某个人在1949至1976年间杀死3000万人，连自己的儿子都不放过，他什么时候被审判？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895403415108198400",
+            "7_1895403503708983297",
+            "3_1895403522440470528"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1895403672739389692",
+        "created_at": "2025-02-28T09:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T10:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895403672739389692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7ASy28nHg",
+              "end": 107,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1895403672739389692/video/1",
+              "media_key": "3_1895403415108198400",
+              "start": 84,
+              "url": "https://t.co/M7ASy28nHg"
+            },
+            {
+              "display_url": "pic.x.com/M7ASy28nHg",
+              "end": 107,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1895403672739389692/video/1",
+              "media_key": "7_1895403503708983297",
+              "start": 84,
+              "url": "https://t.co/M7ASy28nHg"
+            },
+            {
+              "display_url": "pic.x.com/M7ASy28nHg",
+              "end": 107,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1895403672739389692/video/1",
+              "media_key": "3_1895403522440470528",
+              "start": 84,
+              "url": "https://t.co/M7ASy28nHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895403672739389692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6644,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "2月28日，贵阳中院对人贩子余华英执行死刑，余华英于1993年至2003年期间拐卖儿童17名，她在11年的时间里亲手毁掉12个家庭，就连自己的孩子也不放过也被她卖掉。 https://t.co/M7ASy28nHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 49,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 23
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942799,
+          "following_count": 936,
+          "like_count": 5844,
+          "listed_count": 8047,
+          "media_count": 23931,
+          "tweet_count": 30267
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

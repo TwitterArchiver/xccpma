@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079106728038371328"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2079106736573837766",
+    "created_at": "2026-07-20T07:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079106736573837766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JVgns4igfa",
+          "end": 56,
+          "expanded_url": "https://x.com/xccpma/status/2079106736573837766/photo/1",
+          "media_key": "3_2079106728038371328",
+          "start": 33,
+          "url": "https://t.co/JVgns4igfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079106736573837766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "get精品神药，得病不多的好处就是随便点菜😋\n\n合理用药反对滥用 https://t.co/JVgns4igfa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2079106728038371328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNp4jbbaEAAq1ol.jpg",
+        "width": 1147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079106728038371328"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2079106736573837766",
+        "created_at": "2026-07-20T07:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079106736573837766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVgns4igfa",
+              "end": 56,
+              "expanded_url": "https://x.com/xccpma/status/2079106736573837766/photo/1",
+              "media_key": "3_2079106728038371328",
+              "start": 33,
+              "url": "https://t.co/JVgns4igfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079106736573837766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "get精品神药，得病不多的好处就是随便点菜😋\n\n合理用药反对滥用 https://t.co/JVgns4igfa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 226,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

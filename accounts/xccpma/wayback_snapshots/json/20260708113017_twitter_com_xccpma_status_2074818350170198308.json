@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2074721695009804421",
+    "created_at": "2026-07-08T11:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074818350170198308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074818350170198308",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074721695009804421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt 搞～盒算，大狗叫\n袋鼠鸡带一段"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1984,
+        "media_key": "3_2074721664957571072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrkXKeaYAAd8GW.jpg",
+        "width": 1791
+      },
+      {
+        "height": 1988,
+        "media_key": "3_2074721664949170176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrkXKcaMAA3Itl.jpg",
+        "width": 2900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2074721695009804421",
+        "created_at": "2026-07-08T11:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074818350170198308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074818350170198308",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074721695009804421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt 搞～盒算，大狗叫\n袋鼠鸡带一段"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074721664957571072",
+            "3_2074721664949170176"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "conversation_id": "2074721695009804421",
+        "created_at": "2026-07-08T05:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074721695009804421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPybRZF8aY",
+              "end": 36,
+              "expanded_url": "https://x.com/Jaciezyt/status/2074721695009804421/photo/1",
+              "media_key": "3_2074721664957571072",
+              "start": 13,
+              "url": "https://t.co/dPybRZF8aY"
+            },
+            {
+              "display_url": "pic.x.com/dPybRZF8aY",
+              "end": 36,
+              "expanded_url": "https://x.com/Jaciezyt/status/2074721695009804421/photo/1",
+              "media_key": "3_2074721664949170176",
+              "start": 13,
+              "url": "https://t.co/dPybRZF8aY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074721695009804421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7982,
+          "like_count": 113,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "论收集癖的柜子里都有什么 https://t.co/dPybRZF8aY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 154,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 JK刚刚退役😭 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身(仅互fo) @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 111,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4356,
+          "following_count": 952,
+          "like_count": 65301,
+          "listed_count": 11,
+          "media_count": 1422,
+          "tweet_count": 16456
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": true
+      }
+    ]
+  }
+}

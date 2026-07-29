@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "1891495310968447455",
+    "created_at": "2025-02-17T14:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T15:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891497077693202496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891497077693202496",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891495310968447455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 群众：违规燃放烟花，必须严惩\n公安：依法销毁烟花爆竹，为民除害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "1891495310968447455",
+        "created_at": "2025-02-17T14:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T15:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891497077693202496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891497077693202496",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891495310968447455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 群众：违规燃放烟花，必须严惩\n公安：依法销毁烟花爆竹，为民除害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1891493813224665089",
+            "7_1891493826474508288",
+            "3_1891494709652320256"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1891495310968447455",
+        "created_at": "2025-02-17T14:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T15:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891495310968447455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1M6SfVeBK",
+              "end": 87,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1891495310968447455/video/1",
+              "media_key": "7_1891493813224665089",
+              "start": 64,
+              "url": "https://t.co/K1M6SfVeBK"
+            },
+            {
+              "display_url": "pic.x.com/K1M6SfVeBK",
+              "end": 87,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1891495310968447455/video/1",
+              "media_key": "7_1891493826474508288",
+              "start": 64,
+              "url": "https://t.co/K1M6SfVeBK"
+            },
+            {
+              "display_url": "pic.x.com/K1M6SfVeBK",
+              "end": 87,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1891495310968447455/video/1",
+              "media_key": "3_1891494709652320256",
+              "start": 64,
+              "url": "https://t.co/K1M6SfVeBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891495310968447455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3504,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "2月16日，河南(发布ip) 一名大妈在农村燃放烟花爆竹，被警察带走。\n 而另一段网传的视频显示，警察们在公安局当众燃放爆竹。 https://t.co/K1M6SfVeBK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 49,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 25
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933733,
+          "following_count": 936,
+          "like_count": 5818,
+          "listed_count": 8029,
+          "media_count": 23458,
+          "tweet_count": 29787
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

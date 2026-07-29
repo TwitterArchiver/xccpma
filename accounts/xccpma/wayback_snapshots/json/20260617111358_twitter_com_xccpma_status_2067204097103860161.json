@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2067189436971209097",
+    "created_at": "2026-06-17T11:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067204097103860161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865480322978349056",
+          "start": 0,
+          "username": "CharaG51669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067204097103860161",
+    "in_reply_to_user_id": "1865480322978349056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067189436971209097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharaG51669 我几个月前在药店买可待因桔梗片都没要处方，那个店员很默契地给我了，现在别想了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2067189424803475456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAh1FTa8AAtuGF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2067189436971209097",
+        "created_at": "2026-06-17T11:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067204097103860161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865480322978349056",
+              "start": 0,
+              "username": "CharaG51669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067204097103860161",
+        "in_reply_to_user_id": "1865480322978349056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067189436971209097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharaG51669 我几个月前在药店买可待因桔梗片都没要处方，那个店员很默契地给我了，现在别想了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067189424803475456"
+          ]
+        },
+        "author_id": "1865480322978349056",
+        "conversation_id": "2067189436971209097",
+        "created_at": "2026-06-17T10:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067189436971209097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3RhgMNe5I",
+              "end": 66,
+              "expanded_url": "https://x.com/CharaG51669/status/2067189436971209097/photo/1",
+              "media_key": "3_2067189424803475456",
+              "start": 43,
+              "url": "https://t.co/U3RhgMNe5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067189436971209097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打野归来，只有这个牌子的，买了两盒加一个温度计，消费73，我不打野了还不如在药商那买 https://t.co/U3RhgMNe5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 51,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 31
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:36:09.000Z",
+        "description": "06/INFP/重抑郁/焦虑 /有老公/od/割手/抽烟/欢迎互fo/欢迎私信/叫我小侑就好/现居深圳，欢迎小萌物们找我玩！",
+        "id": "1865480322978349056",
+        "name": "OnoderaYuu",
+        "pinned_tweet_id": "2065285209256600058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865662167120564224/GiHXnwwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 135,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 321
+        },
+        "username": "CharaG51669",
+        "verified": false
+      }
+    ]
+  }
+}

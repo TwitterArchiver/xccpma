@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2055606587977277442",
+    "created_at": "2026-05-16T12:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055626825297178871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1997896342908399616",
+          "start": 0,
+          "username": "YubaQ42952"
+        },
+        {
+          "end": 25,
+          "id": "1993455710274043905",
+          "start": 12,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055626825297178871",
+    "in_reply_to_user_id": "1997896342908399616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055621877838787013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YubaQ42952 @satireorcry1 你搞清楚是共产党害的还是买家害的？是谁压迫社会正常的政治诉求？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2055606587977277442",
+        "created_at": "2026-05-16T12:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055626825297178871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997896342908399616",
+              "start": 0,
+              "username": "YubaQ42952"
+            },
+            {
+              "end": 25,
+              "id": "1993455710274043905",
+              "start": 12,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055626825297178871",
+        "in_reply_to_user_id": "1997896342908399616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055621877838787013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YubaQ42952 @satireorcry1 你搞清楚是共产党害的还是买家害的？是谁压迫社会正常的政治诉求？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997896342908399616",
+        "conversation_id": "2055606587977277442",
+        "created_at": "2026-05-16T12:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055621877838787013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055621877838787013",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055606587977277442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 对面客服也只是一个普通的人，也只是想讨口饭吃，你这样不是把它害了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 27,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T05:09:52.000Z",
+        "description": "偶而會上線（政治不感興趣）\n請勿詢問個人的聯絡方式，傀儡評論帳戶，不喜可封鎖，無需謾罵。\n我是未成年人，請勿發送冒犯訊息騷擾。\n不會主動向你（妳）發送私信，不會接受私信請求。",
+        "id": "1997896342908399616",
+        "location": "15",
+        "name": "雾霾🍭🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049897619523272704/DUXyiNmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 5,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 69
+        },
+        "username": "YubaQ42952",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29770,
+          "following_count": 1601,
+          "like_count": 17540,
+          "listed_count": 66,
+          "media_count": 3705,
+          "tweet_count": 5275
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

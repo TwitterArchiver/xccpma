@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069719520516911104"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2069719536404922819",
+    "created_at": "2026-06-24T09:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069719536404922819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QgAOeFC7fI",
+          "end": 48,
+          "expanded_url": "https://x.com/xccpma/status/2069719536404922819/photo/1",
+          "media_key": "3_2069719520516911104",
+          "start": 25,
+          "url": "https://t.co/QgAOeFC7fI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069719536404922819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "医生我精神痛啊😭我有那个呼吸道感染还有帕森林症啊 https://t.co/QgAOeFC7fI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069719520516911104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLke8CUaMAAxg0J.jpg",
+        "width": 1132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069719520516911104"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2069719536404922819",
+        "created_at": "2026-06-24T09:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069719536404922819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QgAOeFC7fI",
+              "end": 48,
+              "expanded_url": "https://x.com/xccpma/status/2069719536404922819/photo/1",
+              "media_key": "3_2069719520516911104",
+              "start": 25,
+              "url": "https://t.co/QgAOeFC7fI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069719536404922819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生我精神痛啊😭我有那个呼吸道感染还有帕森林症啊 https://t.co/QgAOeFC7fI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 86,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

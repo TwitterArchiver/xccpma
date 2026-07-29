@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2067147073879986400",
+    "created_at": "2026-06-17T12:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067219461913051186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058988352054218752",
+          "start": 0,
+          "username": "Ta1z19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067219461913051186",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067213355237130512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ta1z19 太有劲了比普瑞爽100倍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2067147073879986400",
+        "created_at": "2026-06-17T12:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067219461913051186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067219461913051186",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067213355237130512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 太有劲了比普瑞爽100倍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2067147073879986400",
+        "created_at": "2026-06-17T11:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067213355237130512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067213355237130512",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067147073879986400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 身上不痛了 呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 52,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 30
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Tz喵3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 41,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

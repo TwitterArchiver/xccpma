@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068902391563583488"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2068886692413706470",
+    "created_at": "2026-06-22T03:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068902398991667227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aiP0RYEk09",
+          "end": 48,
+          "expanded_url": "https://x.com/xccpma/status/2068902398991667227/photo/1",
+          "media_key": "3_2068902391563583488",
+          "start": 25,
+          "url": "https://t.co/aiP0RYEk09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068902398991667227",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068886692413706470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 孩子们，想我了吗 https://t.co/aiP0RYEk09"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 492,
+        "media_key": "3_2068902391563583488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLY3w3wagAAJP5M.jpg",
+        "width": 640
+      },
+      {
+        "duration_ms": 37128,
+        "height": 1280,
+        "media_key": "13_2068878834943098880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068878834943098880/img/LbOn4nefTYacT7p0.jpg",
+        "public_metrics": {
+          "view_count": 4902
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068878834943098880/vid/avc1/320x568/QfvVdiN7ohOfYrNU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068878834943098880/vid/avc1/480x852/TK-QO7_WRHXD8SCa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068878834943098880/vid/avc1/720x1280/9H6QcxaCIeu8opEG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068878834943098880/pl/qxbho-RrRJw1xQgv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068902391563583488"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2068886692413706470",
+        "created_at": "2026-06-22T03:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068902398991667227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aiP0RYEk09",
+              "end": 48,
+              "expanded_url": "https://x.com/xccpma/status/2068902398991667227/photo/1",
+              "media_key": "3_2068902391563583488",
+              "start": 25,
+              "url": "https://t.co/aiP0RYEk09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068902398991667227",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068886692413706470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 孩子们，想我了吗 https://t.co/aiP0RYEk09"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068878834943098880"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2068886692413706470",
+        "created_at": "2026-06-22T02:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068886692413706470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdG5kNPByM",
+              "end": 155,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2068886692413706470/video/1",
+              "media_key": "13_2068878834943098880",
+              "start": 132,
+              "url": "https://t.co/xdG5kNPByM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068886692413706470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13915,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "“今昔是何年”\n6月21日，据国内报道，中国疾病预防控制中心公布《全国新型冠状病毒感染疫情情况（2026年5月）》显示，2026年5月，全国31个省（自治区、直辖市）及新疆生产建设兵团共报告新增新冠病毒感染确诊病例21861例，其中重症病例35例、死亡病例1例。 https://t.co/xdG5kNPByM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 80,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237895,
+          "following_count": 1072,
+          "like_count": 9728,
+          "listed_count": 8803,
+          "media_count": 49014,
+          "tweet_count": 56183
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2035043079514988640",
+    "created_at": "2026-03-21T11:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035324638474240415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1535798118314147840",
+          "start": 0,
+          "username": "camelliacxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035324638474240415",
+    "in_reply_to_user_id": "1535798118314147840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035043079514988640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camelliacxi 能拍一下氢吗啡酮的盒子吗？我在官网和抖音都没查到😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2035043079514988640",
+        "created_at": "2026-03-21T11:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035324638474240415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1535798118314147840",
+              "start": 0,
+              "username": "camelliacxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035324638474240415",
+        "in_reply_to_user_id": "1535798118314147840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035043079514988640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camelliacxi 能拍一下氢吗啡酮的盒子吗？我在官网和抖音都没查到😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535798118314147840",
+        "conversation_id": "2035043079514988640",
+        "created_at": "2026-03-20T17:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T18:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035043079514988640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035043079514988640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也许是陷在创伤里走不出来了，唉……我其实能活下去的，如果我足够坚强，毕竟我还没有受到真正致命的伤害，但是……我不是个坚强的女孩啊，我被从来不敢说出口的创伤反复伤害，以前没有哌唑嗪的时候每晚的梦境里都是，吃了哌唑嗪也只能勉强在梦里逃避创伤……我怎么能拒绝死亡的诱惑啊……\n想哭……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846022673987784704/yLQHExBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 28,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T01:36:44.000Z",
+        "description": "2009 休学4年 抑郁 ptsd bpd 孤独症 精神病 失忆 苯二氮卓类PAWS 阿片重度依赖",
+        "id": "1535798118314147840",
+        "name": "Camellia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020933239976939520/-4FHASGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 4,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 388
+        },
+        "username": "camelliacxi",
+        "verified": false
+      }
+    ]
+  }
+}
