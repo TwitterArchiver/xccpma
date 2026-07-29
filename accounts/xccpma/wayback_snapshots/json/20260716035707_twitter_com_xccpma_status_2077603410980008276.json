@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2077571741011083722",
+    "created_at": "2026-07-16T03:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077603410980008276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2075769596565757953",
+          "start": 0,
+          "username": "babenhua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077603410980008276",
+    "in_reply_to_user_id": "2075769596565757953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077601942956814368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babenhua 感谢，我挣点生活费，会注意安全说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2077571741011083722",
+        "created_at": "2026-07-16T03:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077603410980008276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2075769596565757953",
+              "start": 0,
+              "username": "babenhua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077603410980008276",
+        "in_reply_to_user_id": "2075769596565757953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077601942956814368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babenhua 感谢，我挣点生活费，会注意安全说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075769596565757953",
+        "conversation_id": "2077571741011083722",
+        "created_at": "2026-07-16T03:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077601942956814368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077601942956814368",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077571741011083722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 老师，你是学法的 请三思 一开始我都不敢相信这是你在发  卖这个根本不挣钱，风险特别特别大，请你看到这条评论的时候 再三考虑是否要承担这个风险"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 190,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-11T02:32:47.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/f88gJzZEuM 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 72,
+                "url": "https://t.co/f88gJzZEuM"
+              }
+            ]
+          }
+        },
+        "id": "2075769596565757953",
+        "name": "八本 华",
+        "pinned_tweet_id": "2075937881122848905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075774419558146048/4VuEr9kP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 24,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "babenhua",
+        "verified": false
+      }
+    ]
+  }
+}
