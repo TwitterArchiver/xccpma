@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1844356739539533829",
+    "conversation_id": "2082849108457349576",
+    "created_at": "2026-07-30T16:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082862753828716824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1661418553801580544",
+          "start": 0,
+          "username": "Nzstz53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082862753828716824",
+    "in_reply_to_user_id": "1661418553801580544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082849108457349576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nzstz53 这不得苦死你们味觉都不敏感吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082849010600050688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfEI8WXAAA3BcU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 960,
+        "media_key": "3_2082849010591694848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfEI8UXgAAKRwX.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2082849108457349576",
+        "created_at": "2026-07-30T16:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082862753828716824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1661418553801580544",
+              "start": 0,
+              "username": "Nzstz53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082862753828716824",
+        "in_reply_to_user_id": "1661418553801580544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082849108457349576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nzstz53 这不得苦死你们味觉都不敏感吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082849010600050688",
+            "3_2082849010591694848"
+          ]
+        },
+        "author_id": "1661418553801580544",
+        "conversation_id": "2082849108457349576",
+        "created_at": "2026-07-30T15:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082849108457349576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KR0D0UyBz1",
+              "end": 174,
+              "expanded_url": "https://x.com/Nzstz53/status/2082849108457349576/photo/1",
+              "media_key": "3_2082849010600050688",
+              "start": 151,
+              "url": "https://t.co/KR0D0UyBz1"
+            },
+            {
+              "display_url": "pic.x.com/KR0D0UyBz1",
+              "end": 174,
+              "expanded_url": "https://x.com/Nzstz53/status/2082849108457349576/photo/1",
+              "media_key": "3_2082849010591694848",
+              "start": 151,
+              "url": "https://t.co/KR0D0UyBz1"
+            },
+            {
+              "display_url": "x.com/nzstz53/status…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/nzstz53/status/2081027132956749872",
+              "start": 175,
+              "url": "https://t.co/rniA4PoYOX"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01a20da949498784"
+        },
+        "id": "2082849108457349576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081027132956749872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "22：15  服用5t 佐匹克隆，起效迅速15分钟就感到肌肉松弛   共济失调，明显的心情愉悦和社交欲望增加😂，手机屏幕上的文字  变得扭曲晃动。\n           个人感觉：对比思诺思，佐匹克隆的去抑制作用比较强且幻觉很少。  \n             佐匹克隆更偏向兴奋，社交和醉酒样症状。 https://t.co/KR0D0UyBz1 https://t.co/rniA4PoYOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2080175558504144896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 291,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:07:22.000Z",
+        "description": "互 fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2k77043",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2k77043",
+                "start": 0,
+                "url": "https://t.co/c2ydAShFlf"
+              }
+            ]
+          }
+        },
+        "id": "1661418553801580544",
+        "name": "κ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004932256914440197/Z0wcEEtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 62,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/c2ydAShFlf",
+        "username": "Nzstz53",
+        "verified": false
+      }
+    ]
+  }
+}

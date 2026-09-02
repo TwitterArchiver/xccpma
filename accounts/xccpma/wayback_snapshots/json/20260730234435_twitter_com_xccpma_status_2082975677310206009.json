@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082975632884178944"
+      ]
+    },
+    "author_id": "1844356739539533829",
+    "conversation_id": "2082975677310206009",
+    "created_at": "2026-07-30T23:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082975677310206009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lyj0E8yFsQ",
+          "end": 97,
+          "expanded_url": "https://x.com/xccpma/status/2082975677310206009/photo/1",
+          "media_key": "3_2082975632884178944",
+          "start": 74,
+          "url": "https://t.co/Lyj0E8yFsQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082975677310206009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出多盒pr未列管，齐鲁32t和华海\n40t都是40一盒，非偏远地区包邮\n\n可视频验货，信誉保证（有处方合理用药）\n这只是一部分，都是我跑医院开来的 https://t.co/Lyj0E8yFsQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082975632884178944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOg3TVHbIAAJGYj.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082975632884178944"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2082975677310206009",
+        "created_at": "2026-07-30T23:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082975677310206009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lyj0E8yFsQ",
+              "end": 97,
+              "expanded_url": "https://x.com/xccpma/status/2082975677310206009/photo/1",
+              "media_key": "3_2082975632884178944",
+              "start": 74,
+              "url": "https://t.co/Lyj0E8yFsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082975677310206009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出多盒pr未列管，齐鲁32t和华海\n40t都是40一盒，非偏远地区包邮\n\n可视频验货，信誉保证（有处方合理用药）\n这只是一部分，都是我跑医院开来的 https://t.co/Lyj0E8yFsQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2080175558504144896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 294,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}
